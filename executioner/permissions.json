@@ -1,0 +1,78 @@
+{
+  "tier1_auto": {
+    "description": "Auto-approved, silent execution",
+    "allowed_modules": [
+      "os",
+      "sys",
+      "subprocess",
+      "pathlib",
+      "shutil",
+      "glob",
+      "json",
+      "re",
+      "math",
+      "datetime",
+      "time",
+      "tempfile",
+      "ffmpeg",
+      "pandoc",
+      "convert",
+      "wpctl",
+      "pactl",
+      "requests",
+      "urllib",
+      "http"
+    ],
+    "allowed_write_paths": [
+      "~/nova/workspace/",
+      "~/Documents/",
+      "~/Downloads/",
+      "~/nova/logs/"
+    ],
+    "operations": [
+      "audio_control",
+      "brightness",
+      "system_stats",
+      "network_fetch",
+      "read_any",
+      "write_workspace",
+      "file_conversion",
+      "process_list"
+    ]
+  },
+  "tier2_narrate": {
+    "description": "Narrated to user, auto-approved",
+    "operations": [
+      "open_browser",
+      "write_documents",
+      "send_notification",
+      "create_file_outside_workspace",
+      "clipboard"
+    ]
+  },
+  "tier3_confirm": {
+    "description": "Requires verbal YES from user",
+    "operations": [
+      "credentials",
+      "write_outside_safe_paths",
+      "install_packages",
+      "modify_system_config",
+      "delete_files",
+      "network_post_external",
+      "modify_systemd_services"
+    ]
+  },
+  "banned_operations": [
+    "rm -rf /",
+    "mkfs",
+    "dd if=",
+    ":(){:|:&};:",
+    "chmod 777 /",
+    "chown -R root"
+  ],
+  "timeout_seconds": {
+    "tier1": 30,
+    "tier2": 60,
+    "tier3": 120
+  }
+}

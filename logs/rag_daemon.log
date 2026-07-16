@@ -1,0 +1,1042 @@
+2026-06-05 23:55:49,312 [RAG] NOVA RAG daemon starting...
+2026-06-05 23:55:49,312 [RAG] NOVA RAG daemon starting...
+2026-06-05 23:55:49,312 [RAG] Background indexer started
+2026-06-05 23:55:49,312 [RAG] Background indexer started
+2026-06-05 23:55:49,313 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-05 23:55:49,313 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-05 23:55:49,321 [RAG] Indexed 10 new memory entries
+2026-06-05 23:55:49,321 [RAG] Indexed 10 new memory entries
+2026-06-06 00:06:49,348 [RAG] Indexed 1 new memory entries
+2026-06-06 00:06:49,348 [RAG] Indexed 1 new memory entries
+2026-06-06 00:25:08,167 [RAG] Shutdown signal received
+2026-06-06 00:25:08,167 [RAG] Shutdown signal received
+2026-06-06 00:25:08,586 [RAG] RAG socket server closed
+2026-06-06 00:25:08,586 [RAG] RAG socket server closed
+2026-06-06 00:25:13,586 [RAG] NOVA RAG daemon stopped
+2026-06-06 00:25:13,586 [RAG] NOVA RAG daemon stopped
+2026-06-06 01:41:22,465 [RAG] NOVA RAG daemon starting...
+2026-06-06 01:41:22,465 [RAG] NOVA RAG daemon starting...
+2026-06-06 01:41:22,467 [RAG] Background indexer started
+2026-06-06 01:41:22,467 [RAG] Background indexer started
+2026-06-06 01:41:22,467 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-06 01:41:22,467 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-06 03:09:50,316 [RAG] Shutdown signal received
+2026-06-06 03:09:50,316 [RAG] Shutdown signal received
+2026-06-06 03:09:50,987 [RAG] RAG socket server closed
+2026-06-06 03:09:50,987 [RAG] RAG socket server closed
+2026-06-06 03:09:55,987 [RAG] NOVA RAG daemon stopped
+2026-06-06 03:09:55,987 [RAG] NOVA RAG daemon stopped
+2026-06-06 22:28:26,269 [RAG] NOVA RAG daemon starting...
+2026-06-06 22:28:26,269 [RAG] NOVA RAG daemon starting...
+2026-06-06 22:28:26,269 [RAG] Background indexer started
+2026-06-06 22:28:26,269 [RAG] Background indexer started
+2026-06-06 22:28:26,270 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-06 22:28:26,270 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-07 00:14:46,492 [RAG] Shutdown signal received
+2026-06-07 00:14:46,492 [RAG] Shutdown signal received
+2026-06-07 00:14:46,684 [RAG] RAG socket server closed
+2026-06-07 00:14:46,684 [RAG] RAG socket server closed
+2026-06-07 00:14:51,684 [RAG] NOVA RAG daemon stopped
+2026-06-07 00:14:51,684 [RAG] NOVA RAG daemon stopped
+2026-06-07 11:52:38,477 [RAG] NOVA RAG daemon starting...
+2026-06-07 11:52:38,477 [RAG] NOVA RAG daemon starting...
+2026-06-07 11:52:38,477 [RAG] Background indexer started
+2026-06-07 11:52:38,477 [RAG] Background indexer started
+2026-06-07 11:52:38,478 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-07 11:52:38,478 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-07 15:24:34,577 [RAG] Shutdown signal received
+2026-06-07 15:24:34,577 [RAG] Shutdown signal received
+2026-06-07 15:24:35,575 [RAG] RAG socket server closed
+2026-06-07 15:24:35,575 [RAG] RAG socket server closed
+2026-06-07 15:24:38,819 [RAG] Indexer thread exiting
+2026-06-07 15:24:38,819 [RAG] Indexer thread exiting
+2026-06-07 15:24:38,820 [RAG] NOVA RAG daemon stopped
+2026-06-07 15:24:38,820 [RAG] NOVA RAG daemon stopped
+2026-06-07 22:21:34,584 [RAG] NOVA RAG daemon starting...
+2026-06-07 22:21:34,584 [RAG] NOVA RAG daemon starting...
+2026-06-07 22:21:34,585 [RAG] Background indexer started
+2026-06-07 22:21:34,585 [RAG] Background indexer started
+2026-06-07 22:21:34,585 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-07 22:21:34,585 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-08 00:01:57,471 [RAG] Shutdown signal received
+2026-06-08 00:01:57,471 [RAG] Shutdown signal received
+2026-06-08 00:01:58,156 [RAG] RAG socket server closed
+2026-06-08 00:01:58,156 [RAG] RAG socket server closed
+2026-06-08 00:02:03,156 [RAG] NOVA RAG daemon stopped
+2026-06-08 00:02:03,156 [RAG] NOVA RAG daemon stopped
+2026-06-08 18:03:42,649 [RAG] NOVA RAG daemon starting...
+2026-06-08 18:03:42,649 [RAG] NOVA RAG daemon starting...
+2026-06-08 18:03:42,650 [RAG] Background indexer started
+2026-06-08 18:03:42,650 [RAG] Background indexer started
+2026-06-08 18:03:42,653 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-08 18:03:42,653 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-08 19:01:46,259 [RAG] Shutdown signal received
+2026-06-08 19:01:46,259 [RAG] Shutdown signal received
+2026-06-08 19:01:47,261 [RAG] RAG socket server closed
+2026-06-08 19:01:47,261 [RAG] RAG socket server closed
+2026-06-08 19:01:52,262 [RAG] NOVA RAG daemon stopped
+2026-06-08 19:01:52,262 [RAG] NOVA RAG daemon stopped
+2026-06-08 19:56:05,388 [RAG] NOVA RAG daemon starting...
+2026-06-08 19:56:05,388 [RAG] NOVA RAG daemon starting...
+2026-06-08 19:56:05,389 [RAG] Background indexer started
+2026-06-08 19:56:05,389 [RAG] Background indexer started
+2026-06-08 19:56:05,389 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-08 19:56:05,389 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-08 23:40:26,859 [RAG] Shutdown signal received
+2026-06-08 23:40:26,859 [RAG] Shutdown signal received
+2026-06-08 23:40:27,623 [RAG] RAG socket server closed
+2026-06-08 23:40:27,623 [RAG] RAG socket server closed
+2026-06-08 23:40:32,623 [RAG] NOVA RAG daemon stopped
+2026-06-08 23:40:32,623 [RAG] NOVA RAG daemon stopped
+2026-06-09 19:20:39,831 [RAG] NOVA RAG daemon starting...
+2026-06-09 19:20:39,831 [RAG] NOVA RAG daemon starting...
+2026-06-09 19:20:39,837 [RAG] Background indexer started
+2026-06-09 19:20:39,837 [RAG] Background indexer started
+2026-06-09 19:20:39,838 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-09 19:20:39,838 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-09 20:22:35,872 [RAG] Shutdown signal received
+2026-06-09 20:22:35,872 [RAG] Shutdown signal received
+2026-06-09 20:22:36,496 [RAG] RAG socket server closed
+2026-06-09 20:22:36,496 [RAG] RAG socket server closed
+2026-06-09 20:22:39,941 [RAG] Indexer thread exiting
+2026-06-09 20:22:39,941 [RAG] Indexer thread exiting
+2026-06-09 20:22:39,942 [RAG] NOVA RAG daemon stopped
+2026-06-09 20:22:39,942 [RAG] NOVA RAG daemon stopped
+2026-06-09 21:26:23,180 [RAG] NOVA RAG daemon starting...
+2026-06-09 21:26:23,180 [RAG] NOVA RAG daemon starting...
+2026-06-09 21:26:23,182 [RAG] Background indexer started
+2026-06-09 21:26:23,182 [RAG] Background indexer started
+2026-06-09 21:26:23,183 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-09 21:26:23,183 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-09 23:34:48,004 [RAG] Shutdown signal received
+2026-06-09 23:34:48,004 [RAG] Shutdown signal received
+2026-06-09 23:34:48,682 [RAG] RAG socket server closed
+2026-06-09 23:34:48,682 [RAG] RAG socket server closed
+2026-06-09 23:34:53,682 [RAG] NOVA RAG daemon stopped
+2026-06-09 23:34:53,682 [RAG] NOVA RAG daemon stopped
+2026-06-10 20:17:33,609 [RAG] NOVA RAG daemon starting...
+2026-06-10 20:17:33,609 [RAG] NOVA RAG daemon starting...
+2026-06-10 20:17:33,611 [RAG] Background indexer started
+2026-06-10 20:17:33,611 [RAG] Background indexer started
+2026-06-10 20:17:33,611 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-10 20:17:33,611 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-11 00:11:54,010 [RAG] Shutdown signal received
+2026-06-11 00:11:54,010 [RAG] Shutdown signal received
+2026-06-11 00:11:54,430 [RAG] RAG socket server closed
+2026-06-11 00:11:54,430 [RAG] RAG socket server closed
+2026-06-11 00:11:59,431 [RAG] NOVA RAG daemon stopped
+2026-06-11 00:11:59,431 [RAG] NOVA RAG daemon stopped
+2026-06-11 07:35:44,985 [RAG] NOVA RAG daemon starting...
+2026-06-11 07:35:44,985 [RAG] NOVA RAG daemon starting...
+2026-06-11 07:35:44,985 [RAG] Background indexer started
+2026-06-11 07:35:44,985 [RAG] Background indexer started
+2026-06-11 07:35:44,986 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-11 07:35:44,986 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-11 09:59:57,868 [RAG] Shutdown signal received
+2026-06-11 09:59:57,868 [RAG] Shutdown signal received
+2026-06-11 09:59:58,787 [RAG] RAG socket server closed
+2026-06-11 09:59:58,787 [RAG] RAG socket server closed
+2026-06-11 10:00:03,788 [RAG] NOVA RAG daemon stopped
+2026-06-11 10:00:03,788 [RAG] NOVA RAG daemon stopped
+2026-06-11 23:16:25,014 [RAG] NOVA RAG daemon starting...
+2026-06-11 23:16:25,014 [RAG] NOVA RAG daemon starting...
+2026-06-11 23:16:25,016 [RAG] Background indexer started
+2026-06-11 23:16:25,016 [RAG] Background indexer started
+2026-06-11 23:16:25,019 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-11 23:16:25,019 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-12 03:00:20,104 [RAG] Shutdown signal received
+2026-06-12 03:00:20,104 [RAG] Shutdown signal received
+2026-06-12 03:00:20,866 [RAG] RAG socket server closed
+2026-06-12 03:00:20,866 [RAG] RAG socket server closed
+2026-06-12 03:00:24,759 [RAG] Indexer thread exiting
+2026-06-12 03:00:24,759 [RAG] Indexer thread exiting
+2026-06-12 03:00:24,759 [RAG] NOVA RAG daemon stopped
+2026-06-12 03:00:24,759 [RAG] NOVA RAG daemon stopped
+2026-06-12 21:51:43,075 [RAG] NOVA RAG daemon starting...
+2026-06-12 21:51:43,075 [RAG] NOVA RAG daemon starting...
+2026-06-12 21:51:43,075 [RAG] Background indexer started
+2026-06-12 21:51:43,075 [RAG] Background indexer started
+2026-06-12 21:51:43,075 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-12 21:51:43,075 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-13 00:37:35,660 [RAG] Shutdown signal received
+2026-06-13 00:37:35,660 [RAG] Shutdown signal received
+2026-06-13 00:37:36,417 [RAG] RAG socket server closed
+2026-06-13 00:37:36,417 [RAG] RAG socket server closed
+2026-06-13 00:37:41,418 [RAG] NOVA RAG daemon stopped
+2026-06-13 00:37:41,418 [RAG] NOVA RAG daemon stopped
+2026-06-13 20:34:34,288 [RAG] NOVA RAG daemon starting...
+2026-06-13 20:34:34,288 [RAG] NOVA RAG daemon starting...
+2026-06-13 20:34:34,290 [RAG] Background indexer started
+2026-06-13 20:34:34,290 [RAG] Background indexer started
+2026-06-13 20:34:34,290 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-13 20:34:34,290 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-13 22:58:30,142 [RAG] Shutdown signal received
+2026-06-13 22:58:30,142 [RAG] Shutdown signal received
+2026-06-13 22:58:30,891 [RAG] RAG socket server closed
+2026-06-13 22:58:30,891 [RAG] RAG socket server closed
+2026-06-13 22:58:33,644 [RAG] Indexer thread exiting
+2026-06-13 22:58:33,644 [RAG] Indexer thread exiting
+2026-06-13 22:58:33,645 [RAG] NOVA RAG daemon stopped
+2026-06-13 22:58:33,645 [RAG] NOVA RAG daemon stopped
+2026-06-14 01:04:45,420 [RAG] NOVA RAG daemon starting...
+2026-06-14 01:04:45,420 [RAG] NOVA RAG daemon starting...
+2026-06-14 01:04:45,422 [RAG] Background indexer started
+2026-06-14 01:04:45,422 [RAG] Background indexer started
+2026-06-14 01:04:45,423 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-14 01:04:45,423 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-14 02:28:42,443 [RAG] Shutdown signal received
+2026-06-14 02:28:42,443 [RAG] Shutdown signal received
+2026-06-14 02:28:42,738 [RAG] RAG socket server closed
+2026-06-14 02:28:42,738 [RAG] RAG socket server closed
+2026-06-14 02:28:45,581 [RAG] Indexer thread exiting
+2026-06-14 02:28:45,581 [RAG] Indexer thread exiting
+2026-06-14 02:28:45,582 [RAG] NOVA RAG daemon stopped
+2026-06-14 02:28:45,582 [RAG] NOVA RAG daemon stopped
+2026-06-14 23:45:11,732 [RAG] NOVA RAG daemon starting...
+2026-06-14 23:45:11,732 [RAG] NOVA RAG daemon starting...
+2026-06-14 23:45:11,734 [RAG] Background indexer started
+2026-06-14 23:45:11,734 [RAG] Background indexer started
+2026-06-14 23:45:11,734 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-14 23:45:11,734 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-15 01:32:45,819 [RAG] NOVA RAG daemon starting...
+2026-06-15 01:32:45,819 [RAG] NOVA RAG daemon starting...
+2026-06-15 01:32:45,819 [RAG] Background indexer started
+2026-06-15 01:32:45,819 [RAG] Background indexer started
+2026-06-15 01:32:45,819 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-15 01:32:45,819 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-15 02:50:19,299 [RAG] Shutdown signal received
+2026-06-15 02:50:19,299 [RAG] Shutdown signal received
+2026-06-15 02:50:19,446 [RAG] RAG socket server closed
+2026-06-15 02:50:19,446 [RAG] RAG socket server closed
+2026-06-15 02:50:24,447 [RAG] NOVA RAG daemon stopped
+2026-06-15 02:50:24,447 [RAG] NOVA RAG daemon stopped
+2026-06-16 22:35:47,795 [RAG] NOVA RAG daemon starting...
+2026-06-16 22:35:47,795 [RAG] NOVA RAG daemon starting...
+2026-06-16 22:35:47,796 [RAG] Background indexer started
+2026-06-16 22:35:47,796 [RAG] Background indexer started
+2026-06-16 22:35:47,797 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-16 22:35:47,797 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-17 02:35:53,283 [RAG] Shutdown signal received
+2026-06-17 02:35:53,283 [RAG] Shutdown signal received
+2026-06-17 02:35:53,911 [RAG] RAG socket server closed
+2026-06-17 02:35:53,911 [RAG] RAG socket server closed
+2026-06-17 02:35:58,912 [RAG] NOVA RAG daemon stopped
+2026-06-17 02:35:58,912 [RAG] NOVA RAG daemon stopped
+2026-06-17 09:14:18,787 [RAG] NOVA RAG daemon starting...
+2026-06-17 09:14:18,787 [RAG] NOVA RAG daemon starting...
+2026-06-17 09:14:18,800 [RAG] Background indexer started
+2026-06-17 09:14:18,800 [RAG] Background indexer started
+2026-06-17 09:14:18,800 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-17 09:14:18,800 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-17 15:05:44,850 [RAG] Shutdown signal received
+2026-06-17 15:05:44,850 [RAG] Shutdown signal received
+2026-06-17 15:05:45,347 [RAG] RAG socket server closed
+2026-06-17 15:05:45,347 [RAG] RAG socket server closed
+2026-06-17 15:05:50,347 [RAG] NOVA RAG daemon stopped
+2026-06-17 15:05:50,347 [RAG] NOVA RAG daemon stopped
+2026-06-18 22:25:27,785 [RAG] NOVA RAG daemon starting...
+2026-06-18 22:25:27,785 [RAG] NOVA RAG daemon starting...
+2026-06-18 22:25:27,786 [RAG] Background indexer started
+2026-06-18 22:25:27,786 [RAG] Background indexer started
+2026-06-18 22:25:27,786 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-18 22:25:27,786 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-19 01:50:57,910 [RAG] Shutdown signal received
+2026-06-19 01:50:57,910 [RAG] Shutdown signal received
+2026-06-19 01:50:58,123 [RAG] RAG socket server closed
+2026-06-19 01:50:58,123 [RAG] RAG socket server closed
+2026-06-19 01:51:03,124 [RAG] NOVA RAG daemon stopped
+2026-06-19 01:51:03,124 [RAG] NOVA RAG daemon stopped
+2026-06-19 22:10:38,696 [RAG] NOVA RAG daemon starting...
+2026-06-19 22:10:38,696 [RAG] NOVA RAG daemon starting...
+2026-06-19 22:10:38,697 [RAG] Background indexer started
+2026-06-19 22:10:38,697 [RAG] Background indexer started
+2026-06-19 22:10:38,697 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-19 22:10:38,697 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-20 02:20:39,499 [RAG] Shutdown signal received
+2026-06-20 02:20:39,499 [RAG] Shutdown signal received
+2026-06-20 02:20:39,640 [RAG] RAG socket server closed
+2026-06-20 02:20:39,640 [RAG] RAG socket server closed
+2026-06-20 02:20:44,641 [RAG] NOVA RAG daemon stopped
+2026-06-20 02:20:44,641 [RAG] NOVA RAG daemon stopped
+2026-06-20 18:02:10,744 [RAG] NOVA RAG daemon starting...
+2026-06-20 18:02:10,744 [RAG] NOVA RAG daemon starting...
+2026-06-20 18:02:10,745 [RAG] Background indexer started
+2026-06-20 18:02:10,745 [RAG] Background indexer started
+2026-06-20 18:02:10,746 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-20 18:02:10,746 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-20 18:57:18,190 [RAG] Shutdown signal received
+2026-06-20 18:57:18,190 [RAG] Shutdown signal received
+2026-06-20 18:57:19,040 [RAG] RAG socket server closed
+2026-06-20 18:57:19,040 [RAG] RAG socket server closed
+2026-06-20 18:57:24,040 [RAG] NOVA RAG daemon stopped
+2026-06-20 18:57:24,040 [RAG] NOVA RAG daemon stopped
+2026-06-20 21:25:47,984 [RAG] NOVA RAG daemon starting...
+2026-06-20 21:25:47,984 [RAG] NOVA RAG daemon starting...
+2026-06-20 21:25:47,985 [RAG] Background indexer started
+2026-06-20 21:25:47,985 [RAG] Background indexer started
+2026-06-20 21:25:47,986 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-20 21:25:47,986 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-20 23:11:03,809 [RAG] Shutdown signal received
+2026-06-20 23:11:03,809 [RAG] Shutdown signal received
+2026-06-20 23:11:04,336 [RAG] RAG socket server closed
+2026-06-20 23:11:04,336 [RAG] RAG socket server closed
+2026-06-20 23:11:09,338 [RAG] NOVA RAG daemon stopped
+2026-06-20 23:11:09,338 [RAG] NOVA RAG daemon stopped
+2026-06-21 11:25:39,705 [RAG] NOVA RAG daemon starting...
+2026-06-21 11:25:39,705 [RAG] NOVA RAG daemon starting...
+2026-06-21 11:25:39,706 [RAG] Background indexer started
+2026-06-21 11:25:39,706 [RAG] Background indexer started
+2026-06-21 11:25:39,706 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-21 11:25:39,706 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-21 15:36:47,986 [RAG] Shutdown signal received
+2026-06-21 15:36:47,986 [RAG] Shutdown signal received
+2026-06-21 15:36:48,621 [RAG] RAG socket server closed
+2026-06-21 15:36:48,621 [RAG] RAG socket server closed
+2026-06-21 15:36:53,621 [RAG] NOVA RAG daemon stopped
+2026-06-21 15:36:53,621 [RAG] NOVA RAG daemon stopped
+2026-06-21 18:13:32,848 [RAG] NOVA RAG daemon starting...
+2026-06-21 18:13:32,848 [RAG] NOVA RAG daemon starting...
+2026-06-21 18:13:32,851 [RAG] Background indexer started
+2026-06-21 18:13:32,851 [RAG] Background indexer started
+2026-06-21 18:13:32,851 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-21 18:13:32,851 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-22 03:31:23,994 [RAG] Shutdown signal received
+2026-06-22 03:31:23,994 [RAG] Shutdown signal received
+2026-06-22 03:31:24,800 [RAG] RAG socket server closed
+2026-06-22 03:31:24,800 [RAG] RAG socket server closed
+2026-06-22 03:31:29,800 [RAG] NOVA RAG daemon stopped
+2026-06-22 03:31:29,800 [RAG] NOVA RAG daemon stopped
+2026-06-22 21:59:55,987 [RAG] NOVA RAG daemon starting...
+2026-06-22 21:59:55,987 [RAG] NOVA RAG daemon starting...
+2026-06-22 21:59:55,987 [RAG] Background indexer started
+2026-06-22 21:59:55,987 [RAG] Background indexer started
+2026-06-22 21:59:55,987 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-22 21:59:55,987 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-23 00:40:13,508 [RAG] Shutdown signal received
+2026-06-23 00:40:13,508 [RAG] Shutdown signal received
+2026-06-23 00:40:14,367 [RAG] RAG socket server closed
+2026-06-23 00:40:14,367 [RAG] RAG socket server closed
+2026-06-23 00:40:19,367 [RAG] NOVA RAG daemon stopped
+2026-06-23 00:40:19,367 [RAG] NOVA RAG daemon stopped
+2026-06-23 22:31:08,416 [RAG] NOVA RAG daemon starting...
+2026-06-23 22:31:08,416 [RAG] NOVA RAG daemon starting...
+2026-06-23 22:31:08,417 [RAG] Background indexer started
+2026-06-23 22:31:08,417 [RAG] Background indexer started
+2026-06-23 22:31:08,419 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-23 22:31:08,419 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-23 23:56:25,542 [RAG] NOVA RAG daemon starting...
+2026-06-23 23:56:25,542 [RAG] NOVA RAG daemon starting...
+2026-06-23 23:56:25,543 [RAG] Background indexer started
+2026-06-23 23:56:25,543 [RAG] Background indexer started
+2026-06-23 23:56:25,543 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-23 23:56:25,543 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-24 00:11:09,942 [RAG] Shutdown signal received
+2026-06-24 00:11:09,942 [RAG] Shutdown signal received
+2026-06-24 00:11:10,890 [RAG] RAG socket server closed
+2026-06-24 00:11:10,890 [RAG] RAG socket server closed
+2026-06-24 00:11:15,891 [RAG] NOVA RAG daemon stopped
+2026-06-24 00:11:15,891 [RAG] NOVA RAG daemon stopped
+2026-06-24 01:52:14,708 [RAG] NOVA RAG daemon starting...
+2026-06-24 01:52:14,708 [RAG] NOVA RAG daemon starting...
+2026-06-24 01:52:14,710 [RAG] Background indexer started
+2026-06-24 01:52:14,710 [RAG] Background indexer started
+2026-06-24 01:52:14,710 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-24 01:52:14,710 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-24 05:16:30,830 [RAG] Shutdown signal received
+2026-06-24 05:16:30,830 [RAG] Shutdown signal received
+2026-06-24 05:16:31,443 [RAG] RAG socket server closed
+2026-06-24 05:16:31,443 [RAG] RAG socket server closed
+2026-06-24 05:16:36,443 [RAG] NOVA RAG daemon stopped
+2026-06-24 05:16:36,443 [RAG] NOVA RAG daemon stopped
+2026-06-24 21:41:13,830 [RAG] NOVA RAG daemon starting...
+2026-06-24 21:41:13,830 [RAG] NOVA RAG daemon starting...
+2026-06-24 21:41:13,831 [RAG] Background indexer started
+2026-06-24 21:41:13,831 [RAG] Background indexer started
+2026-06-24 21:41:13,834 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-24 21:41:13,834 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-25 00:20:23,330 [RAG] Shutdown signal received
+2026-06-25 00:20:23,330 [RAG] Shutdown signal received
+2026-06-25 00:20:24,067 [RAG] RAG socket server closed
+2026-06-25 00:20:24,067 [RAG] RAG socket server closed
+2026-06-25 00:20:29,068 [RAG] NOVA RAG daemon stopped
+2026-06-25 00:20:29,068 [RAG] NOVA RAG daemon stopped
+2026-06-25 13:57:48,916 [RAG] NOVA RAG daemon starting...
+2026-06-25 13:57:48,916 [RAG] NOVA RAG daemon starting...
+2026-06-25 13:57:48,921 [RAG] Background indexer started
+2026-06-25 13:57:48,921 [RAG] Background indexer started
+2026-06-25 13:57:48,921 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-25 13:57:48,921 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-25 14:20:48,955 [RAG] Shutdown signal received
+2026-06-25 14:20:48,955 [RAG] Shutdown signal received
+2026-06-25 14:20:48,992 [RAG] Indexer thread exiting
+2026-06-25 14:20:48,992 [RAG] Indexer thread exiting
+2026-06-25 14:20:49,331 [RAG] RAG socket server closed
+2026-06-25 14:20:49,331 [RAG] RAG socket server closed
+2026-06-25 14:20:49,331 [RAG] NOVA RAG daemon stopped
+2026-06-25 14:20:49,331 [RAG] NOVA RAG daemon stopped
+2026-06-25 15:32:12,782 [RAG] NOVA RAG daemon starting...
+2026-06-25 15:32:12,782 [RAG] NOVA RAG daemon starting...
+2026-06-25 15:32:12,783 [RAG] Background indexer started
+2026-06-25 15:32:12,783 [RAG] Background indexer started
+2026-06-25 15:32:12,783 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-25 15:32:12,783 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-25 16:48:41,596 [RAG] Shutdown signal received
+2026-06-25 16:48:41,596 [RAG] Shutdown signal received
+2026-06-25 16:48:41,622 [RAG] RAG socket server closed
+2026-06-25 16:48:41,622 [RAG] RAG socket server closed
+2026-06-25 16:48:46,622 [RAG] NOVA RAG daemon stopped
+2026-06-25 16:48:46,622 [RAG] NOVA RAG daemon stopped
+2026-06-25 19:56:51,326 [RAG] NOVA RAG daemon starting...
+2026-06-25 19:56:51,326 [RAG] NOVA RAG daemon starting...
+2026-06-25 19:56:51,330 [RAG] Background indexer started
+2026-06-25 19:56:51,330 [RAG] Background indexer started
+2026-06-25 19:56:51,330 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-25 19:56:51,330 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-25 23:36:17,270 [RAG] Shutdown signal received
+2026-06-25 23:36:17,270 [RAG] Shutdown signal received
+2026-06-25 23:36:18,202 [RAG] RAG socket server closed
+2026-06-25 23:36:18,202 [RAG] RAG socket server closed
+2026-06-25 23:36:23,203 [RAG] NOVA RAG daemon stopped
+2026-06-25 23:36:23,203 [RAG] NOVA RAG daemon stopped
+2026-06-26 10:09:34,361 [RAG] NOVA RAG daemon starting...
+2026-06-26 10:09:34,361 [RAG] NOVA RAG daemon starting...
+2026-06-26 10:09:34,369 [RAG] Background indexer started
+2026-06-26 10:09:34,369 [RAG] Background indexer started
+2026-06-26 10:09:34,369 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-26 10:09:34,369 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-26 10:52:10,131 [RAG] Shutdown signal received
+2026-06-26 10:52:10,131 [RAG] Shutdown signal received
+2026-06-26 10:52:11,080 [RAG] RAG socket server closed
+2026-06-26 10:52:11,080 [RAG] RAG socket server closed
+2026-06-26 10:52:16,081 [RAG] NOVA RAG daemon stopped
+2026-06-26 10:52:16,081 [RAG] NOVA RAG daemon stopped
+2026-06-26 20:41:43,472 [RAG] NOVA RAG daemon starting...
+2026-06-26 20:41:43,472 [RAG] NOVA RAG daemon starting...
+2026-06-26 20:41:43,472 [RAG] Background indexer started
+2026-06-26 20:41:43,472 [RAG] Background indexer started
+2026-06-26 20:41:43,473 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-26 20:41:43,473 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-27 02:31:13,237 [RAG] Shutdown signal received
+2026-06-27 02:31:13,237 [RAG] Shutdown signal received
+2026-06-27 02:31:14,131 [RAG] RAG socket server closed
+2026-06-27 02:31:14,131 [RAG] RAG socket server closed
+2026-06-27 02:31:19,132 [RAG] NOVA RAG daemon stopped
+2026-06-27 02:31:19,132 [RAG] NOVA RAG daemon stopped
+2026-06-27 08:48:35,609 [RAG] NOVA RAG daemon starting...
+2026-06-27 08:48:35,609 [RAG] NOVA RAG daemon starting...
+2026-06-27 08:48:35,610 [RAG] Background indexer started
+2026-06-27 08:48:35,610 [RAG] Background indexer started
+2026-06-27 08:48:35,610 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-27 08:48:35,610 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-27 08:53:20,049 [RAG] Shutdown signal received
+2026-06-27 08:53:20,049 [RAG] Shutdown signal received
+2026-06-27 08:53:20,932 [RAG] RAG socket server closed
+2026-06-27 08:53:20,932 [RAG] RAG socket server closed
+2026-06-27 08:53:25,932 [RAG] NOVA RAG daemon stopped
+2026-06-27 08:53:25,932 [RAG] NOVA RAG daemon stopped
+2026-06-27 21:07:40,871 [RAG] NOVA RAG daemon starting...
+2026-06-27 21:07:40,871 [RAG] NOVA RAG daemon starting...
+2026-06-27 21:07:40,873 [RAG] Background indexer started
+2026-06-27 21:07:40,873 [RAG] Background indexer started
+2026-06-27 21:07:40,873 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-27 21:07:40,873 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-27 23:44:34,828 [RAG] NOVA RAG daemon starting...
+2026-06-27 23:44:34,828 [RAG] NOVA RAG daemon starting...
+2026-06-27 23:44:34,829 [RAG] Background indexer started
+2026-06-27 23:44:34,829 [RAG] Background indexer started
+2026-06-27 23:44:34,829 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-27 23:44:34,829 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-28 01:05:28,645 [RAG] Shutdown signal received
+2026-06-28 01:05:28,645 [RAG] Shutdown signal received
+2026-06-28 01:05:29,585 [RAG] RAG socket server closed
+2026-06-28 01:05:29,585 [RAG] RAG socket server closed
+2026-06-28 01:05:34,585 [RAG] NOVA RAG daemon stopped
+2026-06-28 01:05:34,585 [RAG] NOVA RAG daemon stopped
+2026-06-28 10:42:31,185 [RAG] NOVA RAG daemon starting...
+2026-06-28 10:42:31,185 [RAG] NOVA RAG daemon starting...
+2026-06-28 10:42:31,194 [RAG] Background indexer started
+2026-06-28 10:42:31,194 [RAG] Background indexer started
+2026-06-28 10:42:31,194 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-28 10:42:31,194 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-28 19:07:31,164 [RAG] Shutdown signal received
+2026-06-28 19:07:31,164 [RAG] Shutdown signal received
+2026-06-28 19:07:31,590 [RAG] Indexer thread exiting
+2026-06-28 19:07:31,590 [RAG] Indexer thread exiting
+2026-06-28 19:07:31,683 [RAG] RAG socket server closed
+2026-06-28 19:07:31,683 [RAG] RAG socket server closed
+2026-06-28 19:07:31,683 [RAG] NOVA RAG daemon stopped
+2026-06-28 19:07:31,683 [RAG] NOVA RAG daemon stopped
+2026-06-29 00:53:39,586 [RAG] NOVA RAG daemon starting...
+2026-06-29 00:53:39,586 [RAG] NOVA RAG daemon starting...
+2026-06-29 00:53:39,589 [RAG] Background indexer started
+2026-06-29 00:53:39,589 [RAG] Background indexer started
+2026-06-29 00:53:39,589 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 00:53:39,589 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 03:18:38,569 [RAG] Shutdown signal received
+2026-06-29 03:18:38,569 [RAG] Shutdown signal received
+2026-06-29 03:18:39,281 [RAG] RAG socket server closed
+2026-06-29 03:18:39,281 [RAG] RAG socket server closed
+2026-06-29 03:18:39,381 [RAG] Indexer thread exiting
+2026-06-29 03:18:39,381 [RAG] Indexer thread exiting
+2026-06-29 03:18:39,382 [RAG] NOVA RAG daemon stopped
+2026-06-29 03:18:39,382 [RAG] NOVA RAG daemon stopped
+2026-06-29 09:55:42,976 [RAG] NOVA RAG daemon starting...
+2026-06-29 09:55:42,976 [RAG] NOVA RAG daemon starting...
+2026-06-29 09:55:42,976 [RAG] Background indexer started
+2026-06-29 09:55:42,976 [RAG] Background indexer started
+2026-06-29 09:55:42,977 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 09:55:42,977 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 11:12:55,737 [RAG] Shutdown signal received
+2026-06-29 11:12:55,737 [RAG] Shutdown signal received
+2026-06-29 11:12:56,619 [RAG] RAG socket server closed
+2026-06-29 11:12:56,619 [RAG] RAG socket server closed
+2026-06-29 11:13:01,620 [RAG] NOVA RAG daemon stopped
+2026-06-29 11:13:01,620 [RAG] NOVA RAG daemon stopped
+2026-06-29 14:32:32,127 [RAG] NOVA RAG daemon starting...
+2026-06-29 14:32:32,127 [RAG] NOVA RAG daemon starting...
+2026-06-29 14:32:32,129 [RAG] Background indexer started
+2026-06-29 14:32:32,129 [RAG] Background indexer started
+2026-06-29 14:32:32,129 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 14:32:32,129 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 20:30:35,819 [RAG] NOVA RAG daemon starting...
+2026-06-29 20:30:35,819 [RAG] NOVA RAG daemon starting...
+2026-06-29 20:30:35,820 [RAG] Background indexer started
+2026-06-29 20:30:35,820 [RAG] Background indexer started
+2026-06-29 20:30:35,820 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 20:30:35,820 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-29 22:50:43,234 [RAG] Shutdown signal received
+2026-06-29 22:50:43,234 [RAG] Shutdown signal received
+2026-06-29 22:50:43,762 [RAG] RAG socket server closed
+2026-06-29 22:50:43,762 [RAG] RAG socket server closed
+2026-06-29 22:50:48,763 [RAG] NOVA RAG daemon stopped
+2026-06-29 22:50:48,763 [RAG] NOVA RAG daemon stopped
+2026-06-30 09:15:18,734 [RAG] NOVA RAG daemon starting...
+2026-06-30 09:15:18,734 [RAG] NOVA RAG daemon starting...
+2026-06-30 09:15:18,736 [RAG] Background indexer started
+2026-06-30 09:15:18,736 [RAG] Background indexer started
+2026-06-30 09:15:18,736 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-30 09:15:18,736 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-30 11:51:26,727 [RAG] NOVA RAG daemon starting...
+2026-06-30 11:51:26,727 [RAG] NOVA RAG daemon starting...
+2026-06-30 11:51:26,728 [RAG] Background indexer started
+2026-06-30 11:51:26,728 [RAG] Background indexer started
+2026-06-30 11:51:26,729 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-30 11:51:26,729 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-30 12:22:16,844 [RAG] Shutdown signal received
+2026-06-30 12:22:16,844 [RAG] Shutdown signal received
+2026-06-30 12:22:17,430 [RAG] RAG socket server closed
+2026-06-30 12:22:17,430 [RAG] RAG socket server closed
+2026-06-30 12:22:22,431 [RAG] NOVA RAG daemon stopped
+2026-06-30 12:22:22,431 [RAG] NOVA RAG daemon stopped
+2026-06-30 17:55:02,742 [RAG] NOVA RAG daemon starting...
+2026-06-30 17:55:02,742 [RAG] NOVA RAG daemon starting...
+2026-06-30 17:55:02,745 [RAG] Background indexer started
+2026-06-30 17:55:02,745 [RAG] Background indexer started
+2026-06-30 17:55:02,745 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-30 17:55:02,745 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-30 20:05:42,767 [RAG] Shutdown signal received
+2026-06-30 20:05:42,767 [RAG] Shutdown signal received
+2026-06-30 20:05:42,960 [RAG] RAG socket server closed
+2026-06-30 20:05:42,960 [RAG] RAG socket server closed
+2026-06-30 20:05:47,960 [RAG] NOVA RAG daemon stopped
+2026-06-30 20:05:47,960 [RAG] NOVA RAG daemon stopped
+2026-06-30 23:10:47,679 [RAG] NOVA RAG daemon starting...
+2026-06-30 23:10:47,679 [RAG] NOVA RAG daemon starting...
+2026-06-30 23:10:47,681 [RAG] Background indexer started
+2026-06-30 23:10:47,681 [RAG] Background indexer started
+2026-06-30 23:10:47,681 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-06-30 23:10:47,681 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-01 00:13:19,063 [RAG] Shutdown signal received
+2026-07-01 00:13:19,063 [RAG] Shutdown signal received
+2026-07-01 00:13:19,186 [RAG] RAG socket server closed
+2026-07-01 00:13:19,186 [RAG] RAG socket server closed
+2026-07-01 00:13:24,187 [RAG] NOVA RAG daemon stopped
+2026-07-01 00:13:24,187 [RAG] NOVA RAG daemon stopped
+2026-07-01 09:09:57,327 [RAG] NOVA RAG daemon starting...
+2026-07-01 09:09:57,327 [RAG] NOVA RAG daemon starting...
+2026-07-01 09:09:57,329 [RAG] Background indexer started
+2026-07-01 09:09:57,329 [RAG] Background indexer started
+2026-07-01 09:09:57,329 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-01 09:09:57,329 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-01 16:57:44,257 [RAG] Shutdown signal received
+2026-07-01 16:57:44,257 [RAG] Shutdown signal received
+2026-07-01 16:57:44,809 [RAG] RAG socket server closed
+2026-07-01 16:57:44,809 [RAG] RAG socket server closed
+2026-07-01 16:57:49,810 [RAG] NOVA RAG daemon stopped
+2026-07-01 16:57:49,810 [RAG] NOVA RAG daemon stopped
+2026-07-01 20:08:06,527 [RAG] NOVA RAG daemon starting...
+2026-07-01 20:08:06,527 [RAG] NOVA RAG daemon starting...
+2026-07-01 20:08:06,528 [RAG] Background indexer started
+2026-07-01 20:08:06,528 [RAG] Background indexer started
+2026-07-01 20:08:06,529 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-01 20:08:06,529 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-01 22:41:44,706 [RAG] Shutdown signal received
+2026-07-01 22:41:44,706 [RAG] Shutdown signal received
+2026-07-01 22:41:44,929 [RAG] RAG socket server closed
+2026-07-01 22:41:44,929 [RAG] RAG socket server closed
+2026-07-01 22:41:49,930 [RAG] NOVA RAG daemon stopped
+2026-07-01 22:41:49,930 [RAG] NOVA RAG daemon stopped
+2026-07-02 09:05:01,365 [RAG] NOVA RAG daemon starting...
+2026-07-02 09:05:01,365 [RAG] NOVA RAG daemon starting...
+2026-07-02 09:05:01,366 [RAG] Background indexer started
+2026-07-02 09:05:01,366 [RAG] Background indexer started
+2026-07-02 09:05:01,366 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-02 09:05:01,366 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-02 15:05:28,566 [RAG] Shutdown signal received
+2026-07-02 15:05:28,566 [RAG] Shutdown signal received
+2026-07-02 15:05:28,677 [RAG] RAG socket server closed
+2026-07-02 15:05:28,677 [RAG] RAG socket server closed
+2026-07-02 15:05:33,677 [RAG] NOVA RAG daemon stopped
+2026-07-02 15:05:33,677 [RAG] NOVA RAG daemon stopped
+2026-07-02 17:18:58,174 [RAG] NOVA RAG daemon starting...
+2026-07-02 17:18:58,174 [RAG] NOVA RAG daemon starting...
+2026-07-02 17:18:58,175 [RAG] Background indexer started
+2026-07-02 17:18:58,175 [RAG] Background indexer started
+2026-07-02 17:18:58,176 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-02 17:18:58,176 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-02 21:45:38,271 [RAG] NOVA RAG daemon starting...
+2026-07-02 21:45:38,271 [RAG] NOVA RAG daemon starting...
+2026-07-02 21:45:38,275 [RAG] Background indexer started
+2026-07-02 21:45:38,275 [RAG] Background indexer started
+2026-07-02 21:45:38,276 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-02 21:45:38,276 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 04:27:19,168 [RAG] NOVA RAG daemon starting...
+2026-07-03 04:27:19,168 [RAG] NOVA RAG daemon starting...
+2026-07-03 04:27:19,169 [RAG] Background indexer started
+2026-07-03 04:27:19,169 [RAG] Background indexer started
+2026-07-03 04:27:19,169 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 04:27:19,169 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 06:40:58,177 [RAG] Shutdown signal received
+2026-07-03 06:40:58,177 [RAG] Shutdown signal received
+2026-07-03 06:40:58,563 [RAG] RAG socket server closed
+2026-07-03 06:40:58,563 [RAG] RAG socket server closed
+2026-07-03 06:41:03,564 [RAG] NOVA RAG daemon stopped
+2026-07-03 06:41:03,564 [RAG] NOVA RAG daemon stopped
+2026-07-03 11:47:05,760 [RAG] NOVA RAG daemon starting...
+2026-07-03 11:47:05,760 [RAG] NOVA RAG daemon starting...
+2026-07-03 11:47:05,771 [RAG] Background indexer started
+2026-07-03 11:47:05,771 [RAG] Background indexer started
+2026-07-03 11:47:05,772 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 11:47:05,772 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 14:31:32,145 [RAG] Shutdown signal received
+2026-07-03 14:31:32,145 [RAG] Shutdown signal received
+2026-07-03 14:31:32,729 [RAG] RAG socket server closed
+2026-07-03 14:31:32,729 [RAG] RAG socket server closed
+2026-07-03 14:31:37,729 [RAG] NOVA RAG daemon stopped
+2026-07-03 14:31:37,729 [RAG] NOVA RAG daemon stopped
+2026-07-03 20:27:46,012 [RAG] NOVA RAG daemon starting...
+2026-07-03 20:27:46,012 [RAG] NOVA RAG daemon starting...
+2026-07-03 20:27:46,014 [RAG] Background indexer started
+2026-07-03 20:27:46,014 [RAG] Background indexer started
+2026-07-03 20:27:46,014 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 20:27:46,014 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 21:43:39,099 [RAG] NOVA RAG daemon starting...
+2026-07-03 21:43:39,099 [RAG] NOVA RAG daemon starting...
+2026-07-03 21:43:39,099 [RAG] Background indexer started
+2026-07-03 21:43:39,099 [RAG] Background indexer started
+2026-07-03 21:43:39,099 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 21:43:39,099 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-03 23:46:30,578 [RAG] Shutdown signal received
+2026-07-03 23:46:30,578 [RAG] Shutdown signal received
+2026-07-03 23:46:31,024 [RAG] RAG socket server closed
+2026-07-03 23:46:31,024 [RAG] RAG socket server closed
+2026-07-03 23:46:36,025 [RAG] NOVA RAG daemon stopped
+2026-07-03 23:46:36,025 [RAG] NOVA RAG daemon stopped
+2026-07-04 09:21:11,986 [RAG] NOVA RAG daemon starting...
+2026-07-04 09:21:11,986 [RAG] NOVA RAG daemon starting...
+2026-07-04 09:21:11,986 [RAG] Background indexer started
+2026-07-04 09:21:11,986 [RAG] Background indexer started
+2026-07-04 09:21:11,987 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 09:21:11,987 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 13:02:53,196 [RAG] Shutdown signal received
+2026-07-04 13:02:53,196 [RAG] Shutdown signal received
+2026-07-04 13:02:53,221 [RAG] RAG socket server closed
+2026-07-04 13:02:53,221 [RAG] RAG socket server closed
+2026-07-04 13:02:58,222 [RAG] NOVA RAG daemon stopped
+2026-07-04 13:02:58,222 [RAG] NOVA RAG daemon stopped
+2026-07-04 18:08:42,285 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:08:42,285 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:08:42,306 [RAG] Background indexer started
+2026-07-04 18:08:42,306 [RAG] Background indexer started
+2026-07-04 18:08:42,307 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 18:08:42,307 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 18:49:25,057 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:49:25,057 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:49:25,058 [RAG] Background indexer started
+2026-07-04 18:49:25,058 [RAG] Background indexer started
+2026-07-04 18:49:25,059 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 18:49:25,059 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 18:55:43,848 [RAG] Shutdown signal received
+2026-07-04 18:55:43,848 [RAG] Shutdown signal received
+2026-07-04 18:55:43,937 [RAG] RAG socket server closed
+2026-07-04 18:55:43,937 [RAG] RAG socket server closed
+2026-07-04 18:55:48,938 [RAG] NOVA RAG daemon stopped
+2026-07-04 18:55:48,938 [RAG] NOVA RAG daemon stopped
+2026-07-04 18:56:31,198 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:56:31,198 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:56:31,201 [RAG] Background indexer started
+2026-07-04 18:56:31,201 [RAG] Background indexer started
+2026-07-04 18:56:31,201 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 18:56:31,201 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 18:58:28,069 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:58:28,069 [RAG] NOVA RAG daemon starting...
+2026-07-04 18:58:28,070 [RAG] Background indexer started
+2026-07-04 18:58:28,070 [RAG] Background indexer started
+2026-07-04 18:58:28,070 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 18:58:28,070 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-04 23:41:36,592 [RAG] Shutdown signal received
+2026-07-04 23:41:36,592 [RAG] Shutdown signal received
+2026-07-04 23:41:36,786 [RAG] RAG socket server closed
+2026-07-04 23:41:36,786 [RAG] RAG socket server closed
+2026-07-04 23:41:41,787 [RAG] NOVA RAG daemon stopped
+2026-07-04 23:41:41,787 [RAG] NOVA RAG daemon stopped
+2026-07-05 11:25:59,905 [RAG] NOVA RAG daemon starting...
+2026-07-05 11:25:59,905 [RAG] NOVA RAG daemon starting...
+2026-07-05 11:25:59,906 [RAG] Background indexer started
+2026-07-05 11:25:59,906 [RAG] Background indexer started
+2026-07-05 11:25:59,907 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-05 11:25:59,907 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-05 17:55:08,435 [RAG] NOVA RAG daemon starting...
+2026-07-05 17:55:08,435 [RAG] NOVA RAG daemon starting...
+2026-07-05 17:55:08,435 [RAG] Background indexer started
+2026-07-05 17:55:08,435 [RAG] Background indexer started
+2026-07-05 17:55:08,435 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-05 17:55:08,435 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-05 22:26:47,122 [RAG] Shutdown signal received
+2026-07-05 22:26:47,122 [RAG] Shutdown signal received
+2026-07-05 22:26:47,202 [RAG] RAG socket server closed
+2026-07-05 22:26:47,202 [RAG] RAG socket server closed
+2026-07-05 22:26:52,202 [RAG] NOVA RAG daemon stopped
+2026-07-05 22:26:52,202 [RAG] NOVA RAG daemon stopped
+2026-07-06 09:34:55,229 [RAG] NOVA RAG daemon starting...
+2026-07-06 09:34:55,229 [RAG] NOVA RAG daemon starting...
+2026-07-06 09:34:55,230 [RAG] Background indexer started
+2026-07-06 09:34:55,230 [RAG] Background indexer started
+2026-07-06 09:34:55,231 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-06 09:34:55,231 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-06 15:01:18,800 [RAG] Shutdown signal received
+2026-07-06 15:01:18,800 [RAG] Shutdown signal received
+2026-07-06 15:01:19,679 [RAG] RAG socket server closed
+2026-07-06 15:01:19,679 [RAG] RAG socket server closed
+2026-07-06 15:01:24,679 [RAG] NOVA RAG daemon stopped
+2026-07-06 15:01:24,679 [RAG] NOVA RAG daemon stopped
+2026-07-06 18:47:50,665 [RAG] NOVA RAG daemon starting...
+2026-07-06 18:47:50,665 [RAG] NOVA RAG daemon starting...
+2026-07-06 18:47:50,665 [RAG] Background indexer started
+2026-07-06 18:47:50,665 [RAG] Background indexer started
+2026-07-06 18:47:50,666 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-06 18:47:50,666 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-06 23:12:42,127 [RAG] Shutdown signal received
+2026-07-06 23:12:42,127 [RAG] Shutdown signal received
+2026-07-06 23:12:42,595 [RAG] RAG socket server closed
+2026-07-06 23:12:42,595 [RAG] RAG socket server closed
+2026-07-06 23:12:47,595 [RAG] NOVA RAG daemon stopped
+2026-07-06 23:12:47,595 [RAG] NOVA RAG daemon stopped
+2026-07-07 00:31:40,541 [RAG] NOVA RAG daemon starting...
+2026-07-07 00:31:40,541 [RAG] NOVA RAG daemon starting...
+2026-07-07 00:31:40,544 [RAG] Background indexer started
+2026-07-07 00:31:40,544 [RAG] Background indexer started
+2026-07-07 00:31:40,544 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-07 00:31:40,544 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-07 02:01:16,671 [RAG] NOVA RAG daemon starting...
+2026-07-07 02:01:16,671 [RAG] NOVA RAG daemon starting...
+2026-07-07 02:01:16,672 [RAG] Background indexer started
+2026-07-07 02:01:16,672 [RAG] Background indexer started
+2026-07-07 02:01:16,672 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-07 02:01:16,672 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-07 03:23:48,423 [RAG] Shutdown signal received
+2026-07-07 03:23:48,423 [RAG] Shutdown signal received
+2026-07-07 03:23:49,291 [RAG] RAG socket server closed
+2026-07-07 03:23:49,291 [RAG] RAG socket server closed
+2026-07-07 03:23:54,291 [RAG] NOVA RAG daemon stopped
+2026-07-07 03:23:54,291 [RAG] NOVA RAG daemon stopped
+2026-07-07 17:45:49,520 [RAG] NOVA RAG daemon starting...
+2026-07-07 17:45:49,520 [RAG] NOVA RAG daemon starting...
+2026-07-07 17:45:49,521 [RAG] Background indexer started
+2026-07-07 17:45:49,521 [RAG] Background indexer started
+2026-07-07 17:45:49,521 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-07 17:45:49,521 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-07 18:16:08,829 [RAG] Shutdown signal received
+2026-07-07 18:16:08,829 [RAG] Shutdown signal received
+2026-07-07 18:16:08,936 [RAG] RAG socket server closed
+2026-07-07 18:16:08,936 [RAG] RAG socket server closed
+2026-07-07 18:16:13,936 [RAG] NOVA RAG daemon stopped
+2026-07-07 18:16:13,936 [RAG] NOVA RAG daemon stopped
+2026-07-07 21:24:54,908 [RAG] NOVA RAG daemon starting...
+2026-07-07 21:24:54,908 [RAG] NOVA RAG daemon starting...
+2026-07-07 21:24:54,912 [RAG] Background indexer started
+2026-07-07 21:24:54,912 [RAG] Background indexer started
+2026-07-07 21:24:54,913 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-07 21:24:54,913 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-08 09:19:10,992 [RAG] NOVA RAG daemon starting...
+2026-07-08 09:19:10,992 [RAG] NOVA RAG daemon starting...
+2026-07-08 09:19:10,994 [RAG] Background indexer started
+2026-07-08 09:19:10,994 [RAG] Background indexer started
+2026-07-08 09:19:10,995 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-08 09:19:10,995 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-08 16:27:32,410 [RAG] Shutdown signal received
+2026-07-08 16:27:32,410 [RAG] Shutdown signal received
+2026-07-08 16:27:33,086 [RAG] RAG socket server closed
+2026-07-08 16:27:33,086 [RAG] RAG socket server closed
+2026-07-08 16:27:38,087 [RAG] NOVA RAG daemon stopped
+2026-07-08 16:27:38,087 [RAG] NOVA RAG daemon stopped
+2026-07-09 10:56:36,106 [RAG] NOVA RAG daemon starting...
+2026-07-09 10:56:36,106 [RAG] NOVA RAG daemon starting...
+2026-07-09 10:56:36,107 [RAG] Background indexer started
+2026-07-09 10:56:36,107 [RAG] Background indexer started
+2026-07-09 10:56:36,107 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-09 10:56:36,107 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-09 16:19:41,643 [RAG] Shutdown signal received
+2026-07-09 16:19:41,643 [RAG] Shutdown signal received
+2026-07-09 16:19:41,832 [RAG] RAG socket server closed
+2026-07-09 16:19:41,832 [RAG] RAG socket server closed
+2026-07-09 16:19:46,832 [RAG] NOVA RAG daemon stopped
+2026-07-09 16:19:46,832 [RAG] NOVA RAG daemon stopped
+2026-07-09 21:08:40,920 [RAG] NOVA RAG daemon starting...
+2026-07-09 21:08:40,920 [RAG] NOVA RAG daemon starting...
+2026-07-09 21:08:40,922 [RAG] Background indexer started
+2026-07-09 21:08:40,922 [RAG] Background indexer started
+2026-07-09 21:08:40,922 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-09 21:08:40,922 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-09 23:07:26,446 [RAG] Shutdown signal received
+2026-07-09 23:07:26,446 [RAG] Shutdown signal received
+2026-07-09 23:07:27,166 [RAG] RAG socket server closed
+2026-07-09 23:07:27,166 [RAG] RAG socket server closed
+2026-07-09 23:07:32,167 [RAG] NOVA RAG daemon stopped
+2026-07-09 23:07:32,167 [RAG] NOVA RAG daemon stopped
+2026-07-10 01:36:03,183 [RAG] NOVA RAG daemon starting...
+2026-07-10 01:36:03,183 [RAG] NOVA RAG daemon starting...
+2026-07-10 01:36:03,183 [RAG] Background indexer started
+2026-07-10 01:36:03,183 [RAG] Background indexer started
+2026-07-10 01:36:03,183 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 01:36:03,183 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 03:53:38,719 [RAG] Shutdown signal received
+2026-07-10 03:53:38,719 [RAG] Shutdown signal received
+2026-07-10 03:53:39,337 [RAG] RAG socket server closed
+2026-07-10 03:53:39,337 [RAG] RAG socket server closed
+2026-07-10 03:53:44,338 [RAG] NOVA RAG daemon stopped
+2026-07-10 03:53:44,338 [RAG] NOVA RAG daemon stopped
+2026-07-10 11:53:57,342 [RAG] NOVA RAG daemon starting...
+2026-07-10 11:53:57,342 [RAG] NOVA RAG daemon starting...
+2026-07-10 11:53:57,346 [RAG] Background indexer started
+2026-07-10 11:53:57,346 [RAG] Background indexer started
+2026-07-10 11:53:57,347 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 11:53:57,347 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 16:33:19,500 [RAG] Shutdown signal received
+2026-07-10 16:33:19,500 [RAG] Shutdown signal received
+2026-07-10 16:33:20,103 [RAG] RAG socket server closed
+2026-07-10 16:33:20,103 [RAG] RAG socket server closed
+2026-07-10 16:33:25,103 [RAG] NOVA RAG daemon stopped
+2026-07-10 16:33:25,103 [RAG] NOVA RAG daemon stopped
+2026-07-10 19:48:10,869 [RAG] NOVA RAG daemon starting...
+2026-07-10 19:48:10,869 [RAG] NOVA RAG daemon starting...
+2026-07-10 19:48:10,874 [RAG] Background indexer started
+2026-07-10 19:48:10,874 [RAG] Background indexer started
+2026-07-10 19:48:10,875 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 19:48:10,875 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 22:04:34,988 [RAG] NOVA RAG daemon starting...
+2026-07-10 22:04:34,988 [RAG] NOVA RAG daemon starting...
+2026-07-10 22:04:34,989 [RAG] Background indexer started
+2026-07-10 22:04:34,989 [RAG] Background indexer started
+2026-07-10 22:04:34,990 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 22:04:34,990 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-10 23:45:51,298 [RAG] Shutdown signal received
+2026-07-10 23:45:51,298 [RAG] Shutdown signal received
+2026-07-10 23:45:51,485 [RAG] RAG socket server closed
+2026-07-10 23:45:51,485 [RAG] RAG socket server closed
+2026-07-10 23:45:56,485 [RAG] NOVA RAG daemon stopped
+2026-07-10 23:45:56,485 [RAG] NOVA RAG daemon stopped
+2026-07-11 15:42:35,980 [RAG] NOVA RAG daemon starting...
+2026-07-11 15:42:35,980 [RAG] NOVA RAG daemon starting...
+2026-07-11 15:42:35,980 [RAG] Background indexer started
+2026-07-11 15:42:35,980 [RAG] Background indexer started
+2026-07-11 15:42:35,980 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-11 15:42:35,980 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-11 16:59:12,142 [RAG] Shutdown signal received
+2026-07-11 16:59:12,142 [RAG] Shutdown signal received
+2026-07-11 16:59:12,534 [RAG] RAG socket server closed
+2026-07-11 16:59:12,534 [RAG] RAG socket server closed
+2026-07-11 16:59:17,535 [RAG] NOVA RAG daemon stopped
+2026-07-11 16:59:17,535 [RAG] NOVA RAG daemon stopped
+2026-07-11 20:58:35,556 [RAG] NOVA RAG daemon starting...
+2026-07-11 20:58:35,556 [RAG] NOVA RAG daemon starting...
+2026-07-11 20:58:35,557 [RAG] Background indexer started
+2026-07-11 20:58:35,557 [RAG] Background indexer started
+2026-07-11 20:58:35,557 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-11 20:58:35,557 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-11 21:52:36,457 [RAG] Shutdown signal received
+2026-07-11 21:52:36,457 [RAG] Shutdown signal received
+2026-07-11 21:52:36,857 [RAG] RAG socket server closed
+2026-07-11 21:52:36,857 [RAG] RAG socket server closed
+2026-07-11 21:52:41,857 [RAG] NOVA RAG daemon stopped
+2026-07-11 21:52:41,857 [RAG] NOVA RAG daemon stopped
+2026-07-12 01:29:57,079 [RAG] NOVA RAG daemon starting...
+2026-07-12 01:29:57,079 [RAG] NOVA RAG daemon starting...
+2026-07-12 01:29:57,079 [RAG] Background indexer started
+2026-07-12 01:29:57,079 [RAG] Background indexer started
+2026-07-12 01:29:57,082 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-12 01:29:57,082 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-12 05:24:05,747 [RAG] Shutdown signal received
+2026-07-12 05:24:05,747 [RAG] Shutdown signal received
+2026-07-12 05:24:05,850 [RAG] RAG socket server closed
+2026-07-12 05:24:05,850 [RAG] RAG socket server closed
+2026-07-12 05:24:10,851 [RAG] NOVA RAG daemon stopped
+2026-07-12 05:24:10,851 [RAG] NOVA RAG daemon stopped
+2026-07-12 11:22:47,617 [RAG] NOVA RAG daemon starting...
+2026-07-12 11:22:47,617 [RAG] NOVA RAG daemon starting...
+2026-07-12 11:22:47,618 [RAG] Background indexer started
+2026-07-12 11:22:47,618 [RAG] Background indexer started
+2026-07-12 11:22:47,619 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-12 11:22:47,619 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-12 15:39:44,366 [RAG] Shutdown signal received
+2026-07-12 15:39:44,366 [RAG] Shutdown signal received
+2026-07-12 15:39:44,439 [RAG] RAG socket server closed
+2026-07-12 15:39:44,439 [RAG] RAG socket server closed
+2026-07-12 15:39:48,006 [RAG] Indexer thread exiting
+2026-07-12 15:39:48,006 [RAG] Indexer thread exiting
+2026-07-12 15:39:48,007 [RAG] NOVA RAG daemon stopped
+2026-07-12 15:39:48,007 [RAG] NOVA RAG daemon stopped
+2026-07-12 19:49:21,955 [RAG] NOVA RAG daemon starting...
+2026-07-12 19:49:21,955 [RAG] NOVA RAG daemon starting...
+2026-07-12 19:49:21,957 [RAG] Background indexer started
+2026-07-12 19:49:21,957 [RAG] Background indexer started
+2026-07-12 19:49:21,957 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-12 19:49:21,957 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-12 22:14:53,426 [RAG] Shutdown signal received
+2026-07-12 22:14:53,426 [RAG] Shutdown signal received
+2026-07-12 22:14:53,680 [RAG] RAG socket server closed
+2026-07-12 22:14:53,680 [RAG] RAG socket server closed
+2026-07-12 22:14:58,681 [RAG] NOVA RAG daemon stopped
+2026-07-12 22:14:58,681 [RAG] NOVA RAG daemon stopped
+2026-07-13 11:13:44,366 [RAG] NOVA RAG daemon starting...
+2026-07-13 11:13:44,366 [RAG] NOVA RAG daemon starting...
+2026-07-13 11:13:44,367 [RAG] Background indexer started
+2026-07-13 11:13:44,367 [RAG] Background indexer started
+2026-07-13 11:13:44,367 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 11:13:44,367 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 12:42:12,273 [RAG] Shutdown signal received
+2026-07-13 12:42:12,273 [RAG] Shutdown signal received
+2026-07-13 12:42:13,258 [RAG] RAG socket server closed
+2026-07-13 12:42:13,258 [RAG] RAG socket server closed
+2026-07-13 12:42:18,259 [RAG] NOVA RAG daemon stopped
+2026-07-13 12:42:18,259 [RAG] NOVA RAG daemon stopped
+2026-07-13 12:43:01,680 [RAG] NOVA RAG daemon starting...
+2026-07-13 12:43:01,680 [RAG] NOVA RAG daemon starting...
+2026-07-13 12:43:01,680 [RAG] Background indexer started
+2026-07-13 12:43:01,680 [RAG] Background indexer started
+2026-07-13 12:43:01,680 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 12:43:01,680 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 12:49:11,387 [RAG] NOVA RAG daemon starting...
+2026-07-13 12:49:11,387 [RAG] NOVA RAG daemon starting...
+2026-07-13 12:49:11,391 [RAG] Background indexer started
+2026-07-13 12:49:11,391 [RAG] Background indexer started
+2026-07-13 12:49:11,392 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 12:49:11,392 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 13:00:29,417 [RAG] Shutdown signal received
+2026-07-13 13:00:29,417 [RAG] Shutdown signal received
+2026-07-13 13:00:29,693 [RAG] RAG socket server closed
+2026-07-13 13:00:29,693 [RAG] RAG socket server closed
+2026-07-13 13:00:34,693 [RAG] NOVA RAG daemon stopped
+2026-07-13 13:00:34,693 [RAG] NOVA RAG daemon stopped
+2026-07-13 13:01:29,032 [RAG] NOVA RAG daemon starting...
+2026-07-13 13:01:29,032 [RAG] NOVA RAG daemon starting...
+2026-07-13 13:01:29,035 [RAG] Background indexer started
+2026-07-13 13:01:29,035 [RAG] Background indexer started
+2026-07-13 13:01:29,036 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 13:01:29,036 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 17:10:15,060 [RAG] Shutdown signal received
+2026-07-13 17:10:15,060 [RAG] Shutdown signal received
+2026-07-13 17:10:16,022 [RAG] RAG socket server closed
+2026-07-13 17:10:16,022 [RAG] RAG socket server closed
+2026-07-13 17:10:21,023 [RAG] NOVA RAG daemon stopped
+2026-07-13 17:10:21,023 [RAG] NOVA RAG daemon stopped
+2026-07-13 21:28:06,021 [RAG] NOVA RAG daemon starting...
+2026-07-13 21:28:06,021 [RAG] NOVA RAG daemon starting...
+2026-07-13 21:28:06,022 [RAG] Background indexer started
+2026-07-13 21:28:06,022 [RAG] Background indexer started
+2026-07-13 21:28:06,023 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-13 21:28:06,023 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 00:08:17,178 [RAG] Shutdown signal received
+2026-07-14 00:08:17,178 [RAG] Shutdown signal received
+2026-07-14 00:08:17,188 [RAG] RAG socket server closed
+2026-07-14 00:08:17,188 [RAG] RAG socket server closed
+2026-07-14 00:08:22,188 [RAG] NOVA RAG daemon stopped
+2026-07-14 00:08:22,188 [RAG] NOVA RAG daemon stopped
+2026-07-14 03:12:02,959 [RAG] NOVA RAG daemon starting...
+2026-07-14 03:12:02,959 [RAG] NOVA RAG daemon starting...
+2026-07-14 03:12:02,961 [RAG] Background indexer started
+2026-07-14 03:12:02,961 [RAG] Background indexer started
+2026-07-14 03:12:02,961 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 03:12:02,961 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 03:28:08,059 [RAG] NOVA RAG daemon starting...
+2026-07-14 03:28:08,059 [RAG] NOVA RAG daemon starting...
+2026-07-14 03:28:08,061 [RAG] Background indexer started
+2026-07-14 03:28:08,061 [RAG] Background indexer started
+2026-07-14 03:28:08,061 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 03:28:08,061 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 04:44:26,343 [RAG] Shutdown signal received
+2026-07-14 04:44:26,343 [RAG] Shutdown signal received
+2026-07-14 04:44:26,970 [RAG] RAG socket server closed
+2026-07-14 04:44:26,970 [RAG] RAG socket server closed
+2026-07-14 04:44:31,971 [RAG] NOVA RAG daemon stopped
+2026-07-14 04:44:31,971 [RAG] NOVA RAG daemon stopped
+2026-07-14 11:01:55,094 [RAG] NOVA RAG daemon starting...
+2026-07-14 11:01:55,094 [RAG] NOVA RAG daemon starting...
+2026-07-14 11:01:55,108 [RAG] Background indexer started
+2026-07-14 11:01:55,108 [RAG] Background indexer started
+2026-07-14 11:01:55,108 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 11:01:55,108 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 12:26:21,448 [RAG] NOVA RAG daemon starting...
+2026-07-14 12:26:21,448 [RAG] NOVA RAG daemon starting...
+2026-07-14 12:26:21,449 [RAG] Background indexer started
+2026-07-14 12:26:21,449 [RAG] Background indexer started
+2026-07-14 12:26:21,449 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 12:26:21,449 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 14:57:00,274 [RAG] Shutdown signal received
+2026-07-14 14:57:00,274 [RAG] Shutdown signal received
+2026-07-14 14:57:00,426 [RAG] RAG socket server closed
+2026-07-14 14:57:00,426 [RAG] RAG socket server closed
+2026-07-14 14:57:05,428 [RAG] NOVA RAG daemon stopped
+2026-07-14 14:57:05,428 [RAG] NOVA RAG daemon stopped
+2026-07-14 21:19:45,388 [RAG] NOVA RAG daemon starting...
+2026-07-14 21:19:45,388 [RAG] NOVA RAG daemon starting...
+2026-07-14 21:19:45,391 [RAG] Background indexer started
+2026-07-14 21:19:45,391 [RAG] Background indexer started
+2026-07-14 21:19:45,392 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 21:19:45,392 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-14 23:21:48,917 [RAG] Shutdown signal received
+2026-07-14 23:21:48,917 [RAG] Shutdown signal received
+2026-07-14 23:21:49,744 [RAG] RAG socket server closed
+2026-07-14 23:21:49,744 [RAG] RAG socket server closed
+2026-07-14 23:21:54,747 [RAG] NOVA RAG daemon stopped
+2026-07-14 23:21:54,747 [RAG] NOVA RAG daemon stopped
+2026-07-15 00:23:52,915 [RAG] NOVA RAG daemon starting...
+2026-07-15 00:23:52,915 [RAG] NOVA RAG daemon starting...
+2026-07-15 00:23:52,917 [RAG] Background indexer started
+2026-07-15 00:23:52,917 [RAG] Background indexer started
+2026-07-15 00:23:52,919 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-15 00:23:52,919 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-15 03:05:13,779 [RAG] Shutdown signal received
+2026-07-15 03:05:13,779 [RAG] Shutdown signal received
+2026-07-15 03:05:14,318 [RAG] RAG socket server closed
+2026-07-15 03:05:14,318 [RAG] RAG socket server closed
+2026-07-15 03:05:19,318 [RAG] NOVA RAG daemon stopped
+2026-07-15 03:05:19,318 [RAG] NOVA RAG daemon stopped
+2026-07-15 11:05:24,023 [RAG] NOVA RAG daemon starting...
+2026-07-15 11:05:24,023 [RAG] NOVA RAG daemon starting...
+2026-07-15 11:05:24,024 [RAG] Background indexer started
+2026-07-15 11:05:24,024 [RAG] Background indexer started
+2026-07-15 11:05:24,024 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-15 11:05:24,024 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-16 03:39:42,212 [RAG] Shutdown signal received
+2026-07-16 03:39:42,212 [RAG] Shutdown signal received
+2026-07-16 03:39:42,671 [RAG] RAG socket server closed
+2026-07-16 03:39:42,671 [RAG] RAG socket server closed
+2026-07-16 03:39:47,671 [RAG] NOVA RAG daemon stopped
+2026-07-16 03:39:47,671 [RAG] NOVA RAG daemon stopped
+2026-07-16 09:24:13,094 [RAG] NOVA RAG daemon starting...
+2026-07-16 09:24:13,094 [RAG] NOVA RAG daemon starting...
+2026-07-16 09:24:13,095 [RAG] Background indexer started
+2026-07-16 09:24:13,095 [RAG] Background indexer started
+2026-07-16 09:24:13,095 [RAG] RAG socket listening at /tmp/nova_rag.sock
+2026-07-16 09:24:13,095 [RAG] RAG socket listening at /tmp/nova_rag.sock

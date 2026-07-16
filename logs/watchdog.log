@@ -1,0 +1,918 @@
+2026-06-01 15:20:24,164 [WDG] NOVA Watchdog starting...
+2026-06-01 15:20:24,164 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 14.08, 'swap_total_gb': 4.0, 'swap_free_gb': 3.84, 'used_gb': 9.07}
+2026-06-01 15:20:24,185 [WDG] Health check loop started.
+2026-06-01 15:20:24,186 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-01 15:23:12,056 [WDG] Shutdown signal received.
+2026-06-01 15:23:12,056 [WDG] Health check loop exiting.
+2026-06-01 15:23:12,571 [WDG] Watchdog socket closed.
+2026-06-01 15:23:12,571 [WDG] NOVA Watchdog stopped.
+2026-06-03 00:44:08,433 [WDG] NOVA Watchdog starting...
+2026-06-03 00:44:08,435 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.9, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.25}
+2026-06-03 00:44:08,457 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-03 00:44:08,457 [WDG] Health check loop started.
+2026-06-03 00:44:08,459 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-03 01:34:45,830 [WDG] Shutdown signal received.
+2026-06-03 01:34:45,831 [WDG] Health check loop exiting.
+2026-06-03 01:34:46,693 [WDG] Watchdog socket closed.
+2026-06-03 01:34:46,694 [WDG] NOVA Watchdog stopped.
+2026-06-03 17:47:40,713 [WDG] NOVA Watchdog starting...
+2026-06-03 17:47:40,713 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 22.05, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.1}
+2026-06-03 17:47:40,733 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-03 17:47:40,733 [WDG] Health check loop started.
+2026-06-03 17:47:40,734 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-03 20:33:04,193 [WDG] Shutdown signal received.
+2026-06-03 20:33:04,194 [WDG] Health check loop exiting.
+2026-06-03 20:33:04,858 [WDG] Watchdog socket closed.
+2026-06-03 20:33:04,858 [WDG] NOVA Watchdog stopped.
+2026-06-04 01:23:44,833 [WDG] NOVA Watchdog starting...
+2026-06-04 01:23:44,834 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.64, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.51}
+2026-06-04 01:23:44,857 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-04 01:23:44,857 [WDG] Health check loop started.
+2026-06-04 01:23:44,860 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-04 03:27:01,601 [WDG] Shutdown signal received.
+2026-06-04 03:27:01,602 [WDG] Health check loop exiting.
+2026-06-04 03:27:01,620 [WDG] Watchdog socket closed.
+2026-06-04 03:27:01,621 [WDG] NOVA Watchdog stopped.
+2026-06-04 22:27:05,261 [WDG] NOVA Watchdog starting...
+2026-06-04 22:27:05,261 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.79, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.36}
+2026-06-04 22:27:05,283 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-04 22:27:05,284 [WDG] Health check loop started.
+2026-06-04 22:27:05,284 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-05 01:04:14,324 [WDG] Shutdown signal received.
+2026-06-05 01:04:14,324 [WDG] Health check loop exiting.
+2026-06-05 01:04:15,196 [WDG] Watchdog socket closed.
+2026-06-05 01:04:15,196 [WDG] NOVA Watchdog stopped.
+2026-06-05 19:27:55,406 [WDG] NOVA Watchdog starting...
+2026-06-05 19:27:55,407 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.26, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.9}
+2026-06-05 19:27:55,425 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-05 19:27:55,426 [WDG] Health check loop started.
+2026-06-05 19:27:55,426 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-05 20:11:14,937 [WDG] Shutdown signal received.
+2026-06-05 20:11:14,938 [WDG] Health check loop exiting.
+2026-06-05 20:11:15,165 [WDG] Watchdog socket closed.
+2026-06-05 20:11:15,165 [WDG] NOVA Watchdog stopped.
+2026-06-05 22:07:45,870 [WDG] NOVA Watchdog starting...
+2026-06-05 22:07:45,871 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.32, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.83}
+2026-06-05 22:07:45,898 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-05 22:07:45,899 [WDG] Health check loop started.
+2026-06-05 22:07:45,900 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-05 23:55:55,283 [WDG] Service nova-tts is down — restarting...
+2026-06-05 23:55:59,325 [WDG] Service nova-tts restarted successfully.
+2026-06-05 23:56:01,326 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-06 00:25:08,166 [WDG] Shutdown signal received.
+2026-06-06 00:25:08,168 [WDG] Health check loop exiting.
+2026-06-06 00:25:08,813 [WDG] Watchdog socket closed.
+2026-06-06 00:25:08,813 [WDG] NOVA Watchdog stopped.
+2026-06-06 01:41:22,510 [WDG] NOVA Watchdog starting...
+2026-06-06 01:41:22,510 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.72, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.44}
+2026-06-06 01:41:22,546 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-06 01:41:22,551 [WDG] Health check loop started.
+2026-06-06 01:41:22,558 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-06 03:09:50,319 [WDG] Shutdown signal received.
+2026-06-06 03:09:50,321 [WDG] Health check loop exiting.
+2026-06-06 03:09:51,049 [WDG] Watchdog socket closed.
+2026-06-06 03:09:51,049 [WDG] NOVA Watchdog stopped.
+2026-06-06 22:28:26,306 [WDG] NOVA Watchdog starting...
+2026-06-06 22:28:26,309 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.25, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.9}
+2026-06-06 22:28:26,411 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-06 22:28:26,413 [WDG] Health check loop started.
+2026-06-06 22:28:26,416 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-07 00:14:46,493 [WDG] Shutdown signal received.
+2026-06-07 00:14:46,494 [WDG] Health check loop exiting.
+2026-06-07 00:14:46,818 [WDG] Watchdog socket closed.
+2026-06-07 00:14:46,819 [WDG] NOVA Watchdog stopped.
+2026-06-07 11:52:38,448 [WDG] NOVA Watchdog starting...
+2026-06-07 11:52:38,449 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.62, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.53}
+2026-06-07 11:52:38,478 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-07 11:52:38,479 [WDG] Health check loop started.
+2026-06-07 11:52:38,479 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-07 15:24:34,578 [WDG] Shutdown signal received.
+2026-06-07 15:24:34,579 [WDG] Health check loop exiting.
+2026-06-07 15:24:34,617 [WDG] Watchdog socket closed.
+2026-06-07 15:24:34,617 [WDG] NOVA Watchdog stopped.
+2026-06-07 22:21:34,626 [WDG] NOVA Watchdog starting...
+2026-06-07 22:21:34,626 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.62, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.53}
+2026-06-07 22:21:34,654 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-07 22:21:34,655 [WDG] Health check loop started.
+2026-06-07 22:21:34,656 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-08 00:01:57,476 [WDG] Shutdown signal received.
+2026-06-08 00:01:57,476 [WDG] Health check loop exiting.
+2026-06-08 00:01:58,316 [WDG] Watchdog socket closed.
+2026-06-08 00:01:58,316 [WDG] NOVA Watchdog stopped.
+2026-06-08 18:03:42,689 [WDG] NOVA Watchdog starting...
+2026-06-08 18:03:42,689 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.73, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.42}
+2026-06-08 18:03:42,711 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-08 18:03:42,711 [WDG] Health check loop started.
+2026-06-08 18:03:42,712 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-08 19:01:46,261 [WDG] Shutdown signal received.
+2026-06-08 19:01:46,261 [WDG] Health check loop exiting.
+2026-06-08 19:01:46,283 [WDG] Watchdog socket closed.
+2026-06-08 19:01:46,283 [WDG] NOVA Watchdog stopped.
+2026-06-08 19:56:05,402 [WDG] NOVA Watchdog starting...
+2026-06-08 19:56:05,402 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.68, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.47}
+2026-06-08 19:56:05,428 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-08 19:56:05,429 [WDG] Health check loop started.
+2026-06-08 19:56:05,432 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-08 23:40:26,861 [WDG] Shutdown signal received.
+2026-06-08 23:40:26,861 [WDG] Health check loop exiting.
+2026-06-08 23:40:27,625 [WDG] Watchdog socket closed.
+2026-06-08 23:40:27,625 [WDG] NOVA Watchdog stopped.
+2026-06-09 19:20:39,836 [WDG] NOVA Watchdog starting...
+2026-06-09 19:20:39,837 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.79, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.36}
+2026-06-09 19:20:39,867 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-09 19:20:39,870 [WDG] Health check loop started.
+2026-06-09 19:20:39,872 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-09 20:22:35,877 [WDG] Shutdown signal received.
+2026-06-09 20:22:35,877 [WDG] Health check loop exiting.
+2026-06-09 20:22:36,526 [WDG] Watchdog socket closed.
+2026-06-09 20:22:36,526 [WDG] NOVA Watchdog stopped.
+2026-06-09 21:26:23,216 [WDG] NOVA Watchdog starting...
+2026-06-09 21:26:23,217 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.23, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.92}
+2026-06-09 21:26:23,240 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-09 21:26:23,240 [WDG] Health check loop started.
+2026-06-09 21:26:23,241 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-09 23:34:48,005 [WDG] Shutdown signal received.
+2026-06-09 23:34:48,007 [WDG] Health check loop exiting.
+2026-06-09 23:34:48,792 [WDG] Watchdog socket closed.
+2026-06-09 23:34:48,792 [WDG] NOVA Watchdog stopped.
+2026-06-10 20:17:33,650 [WDG] NOVA Watchdog starting...
+2026-06-10 20:17:33,652 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.22, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.93}
+2026-06-10 20:17:33,677 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-10 20:17:33,678 [WDG] Health check loop started.
+2026-06-10 20:17:33,679 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-11 00:11:54,013 [WDG] Shutdown signal received.
+2026-06-11 00:11:54,013 [WDG] Health check loop exiting.
+2026-06-11 00:11:54,605 [WDG] Watchdog socket closed.
+2026-06-11 00:11:54,606 [WDG] NOVA Watchdog stopped.
+2026-06-11 07:35:45,031 [WDG] NOVA Watchdog starting...
+2026-06-11 07:35:45,032 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.75, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.4}
+2026-06-11 07:35:45,052 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-11 07:35:45,052 [WDG] Health check loop started.
+2026-06-11 07:35:45,053 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-11 09:59:57,869 [WDG] Shutdown signal received.
+2026-06-11 09:59:57,870 [WDG] Health check loop exiting.
+2026-06-11 09:59:57,879 [WDG] Watchdog socket closed.
+2026-06-11 09:59:57,879 [WDG] NOVA Watchdog stopped.
+2026-06-11 23:16:25,050 [WDG] NOVA Watchdog starting...
+2026-06-11 23:16:25,051 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.27, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.88}
+2026-06-11 23:16:25,071 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-11 23:16:25,072 [WDG] Health check loop started.
+2026-06-11 23:16:25,072 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-12 03:00:20,106 [WDG] Shutdown signal received.
+2026-06-12 03:00:20,107 [WDG] Health check loop exiting.
+2026-06-12 03:00:20,882 [WDG] Watchdog socket closed.
+2026-06-12 03:00:20,882 [WDG] NOVA Watchdog stopped.
+2026-06-12 21:51:43,130 [WDG] NOVA Watchdog starting...
+2026-06-12 21:51:43,132 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.31, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.84}
+2026-06-12 21:51:43,159 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-12 21:51:43,161 [WDG] Health check loop started.
+2026-06-12 21:51:43,165 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-13 00:37:35,667 [WDG] Shutdown signal received.
+2026-06-13 00:37:35,668 [WDG] Health check loop exiting.
+2026-06-13 00:37:36,572 [WDG] Watchdog socket closed.
+2026-06-13 00:37:36,572 [WDG] NOVA Watchdog stopped.
+2026-06-13 20:34:34,321 [WDG] NOVA Watchdog starting...
+2026-06-13 20:34:34,321 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.28, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.87}
+2026-06-13 20:34:34,341 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-13 20:34:34,342 [WDG] Health check loop started.
+2026-06-13 20:34:34,343 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-13 22:58:30,145 [WDG] Shutdown signal received.
+2026-06-13 22:58:30,146 [WDG] Health check loop exiting.
+2026-06-13 22:58:30,896 [WDG] Watchdog socket closed.
+2026-06-13 22:58:30,896 [WDG] NOVA Watchdog stopped.
+2026-06-14 01:04:45,459 [WDG] NOVA Watchdog starting...
+2026-06-14 01:04:45,459 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.77, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.39}
+2026-06-14 01:04:45,480 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-14 01:04:45,481 [WDG] Health check loop started.
+2026-06-14 01:04:45,482 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-14 02:28:42,446 [WDG] Shutdown signal received.
+2026-06-14 02:28:42,446 [WDG] Health check loop exiting.
+2026-06-14 02:28:42,815 [WDG] Watchdog socket closed.
+2026-06-14 02:28:42,815 [WDG] NOVA Watchdog stopped.
+2026-06-14 23:45:11,769 [WDG] NOVA Watchdog starting...
+2026-06-14 23:45:11,770 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.76, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.4}
+2026-06-14 23:45:11,797 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-14 23:45:11,797 [WDG] Health check loop started.
+2026-06-14 23:45:11,798 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-15 01:32:45,820 [WDG] NOVA Watchdog starting...
+2026-06-15 01:32:45,861 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.71, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.44}
+2026-06-15 01:32:45,886 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-15 01:32:45,886 [WDG] Health check loop started.
+2026-06-15 01:32:45,890 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-15 02:50:19,304 [WDG] Shutdown signal received.
+2026-06-15 02:50:19,309 [WDG] Health check loop exiting.
+2026-06-15 02:50:19,528 [WDG] Watchdog socket closed.
+2026-06-15 02:50:19,528 [WDG] NOVA Watchdog stopped.
+2026-06-16 22:35:47,841 [WDG] NOVA Watchdog starting...
+2026-06-16 22:35:47,841 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.73, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.43}
+2026-06-16 22:35:47,864 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-16 22:35:47,865 [WDG] Health check loop started.
+2026-06-16 22:35:47,865 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-17 02:35:53,287 [WDG] Shutdown signal received.
+2026-06-17 02:35:53,287 [WDG] Health check loop exiting.
+2026-06-17 02:35:53,996 [WDG] Watchdog socket closed.
+2026-06-17 02:35:53,997 [WDG] NOVA Watchdog stopped.
+2026-06-17 09:14:18,791 [WDG] NOVA Watchdog starting...
+2026-06-17 09:14:18,793 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.78, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.38}
+2026-06-17 09:14:18,822 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-17 09:14:18,822 [WDG] Health check loop started.
+2026-06-17 09:14:18,823 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-17 15:05:44,857 [WDG] Shutdown signal received.
+2026-06-17 15:05:44,858 [WDG] Health check loop exiting.
+2026-06-17 15:05:45,275 [WDG] Watchdog socket closed.
+2026-06-17 15:05:45,275 [WDG] NOVA Watchdog stopped.
+2026-06-18 22:25:27,822 [WDG] NOVA Watchdog starting...
+2026-06-18 22:25:27,823 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.78, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.37}
+2026-06-18 22:25:27,850 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-18 22:25:27,850 [WDG] Health check loop started.
+2026-06-18 22:25:27,851 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-19 01:50:57,915 [WDG] Shutdown signal received.
+2026-06-19 01:50:57,918 [WDG] Health check loop exiting.
+2026-06-19 01:50:58,192 [WDG] Watchdog socket closed.
+2026-06-19 01:50:58,192 [WDG] NOVA Watchdog stopped.
+2026-06-19 22:10:38,734 [WDG] NOVA Watchdog starting...
+2026-06-19 22:10:38,734 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.64, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.51}
+2026-06-19 22:10:38,756 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-19 22:10:38,756 [WDG] Health check loop started.
+2026-06-19 22:10:38,759 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-20 02:20:39,503 [WDG] Shutdown signal received.
+2026-06-20 02:20:39,504 [WDG] Health check loop exiting.
+2026-06-20 02:20:39,708 [WDG] Watchdog socket closed.
+2026-06-20 02:20:39,708 [WDG] NOVA Watchdog stopped.
+2026-06-20 18:02:10,781 [WDG] NOVA Watchdog starting...
+2026-06-20 18:02:10,782 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.58, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.57}
+2026-06-20 18:02:10,802 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-20 18:02:10,806 [WDG] Health check loop started.
+2026-06-20 18:02:10,806 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-20 18:57:18,191 [WDG] Shutdown signal received.
+2026-06-20 18:57:18,192 [WDG] Health check loop exiting.
+2026-06-20 18:57:19,084 [WDG] Watchdog socket closed.
+2026-06-20 18:57:19,084 [WDG] NOVA Watchdog stopped.
+2026-06-20 21:25:48,021 [WDG] NOVA Watchdog starting...
+2026-06-20 21:25:48,022 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.75, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.4}
+2026-06-20 21:25:48,044 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-20 21:25:48,044 [WDG] Health check loop started.
+2026-06-20 21:25:48,045 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-20 23:11:03,816 [WDG] Shutdown signal received.
+2026-06-20 23:11:03,816 [WDG] Health check loop exiting.
+2026-06-20 23:11:04,376 [WDG] Watchdog socket closed.
+2026-06-20 23:11:04,376 [WDG] NOVA Watchdog stopped.
+2026-06-21 11:25:39,730 [WDG] NOVA Watchdog starting...
+2026-06-21 11:25:39,731 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.2, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.96}
+2026-06-21 11:25:39,758 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-21 11:25:39,759 [WDG] Health check loop started.
+2026-06-21 11:25:39,760 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-21 15:36:47,989 [WDG] Shutdown signal received.
+2026-06-21 15:36:47,993 [WDG] Health check loop exiting.
+2026-06-21 15:36:48,707 [WDG] Watchdog socket closed.
+2026-06-21 15:36:48,707 [WDG] NOVA Watchdog stopped.
+2026-06-21 18:13:32,889 [WDG] NOVA Watchdog starting...
+2026-06-21 18:13:32,889 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.65, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.5}
+2026-06-21 18:13:32,909 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-21 18:13:32,909 [WDG] Health check loop started.
+2026-06-21 18:13:32,910 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-22 03:31:23,997 [WDG] Shutdown signal received.
+2026-06-22 03:31:23,998 [WDG] Health check loop exiting.
+2026-06-22 03:31:24,720 [WDG] Watchdog socket closed.
+2026-06-22 03:31:24,720 [WDG] NOVA Watchdog stopped.
+2026-06-22 21:59:56,020 [WDG] NOVA Watchdog starting...
+2026-06-22 21:59:56,020 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.72, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.43}
+2026-06-22 21:59:56,043 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-22 21:59:56,044 [WDG] Health check loop started.
+2026-06-22 21:59:56,044 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-23 00:40:13,509 [WDG] Shutdown signal received.
+2026-06-23 00:40:13,513 [WDG] Health check loop exiting.
+2026-06-23 00:40:14,428 [WDG] Watchdog socket closed.
+2026-06-23 00:40:14,428 [WDG] NOVA Watchdog stopped.
+2026-06-23 22:31:08,403 [WDG] NOVA Watchdog starting...
+2026-06-23 22:31:08,404 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.63, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.52}
+2026-06-23 22:31:08,430 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-23 22:31:08,430 [WDG] Health check loop started.
+2026-06-23 22:31:08,430 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-23 23:56:25,509 [WDG] NOVA Watchdog starting...
+2026-06-23 23:56:25,510 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.55, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.6}
+2026-06-23 23:56:25,547 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-23 23:56:25,547 [WDG] Health check loop started.
+2026-06-23 23:56:25,548 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-24 00:11:09,945 [WDG] Shutdown signal received.
+2026-06-24 00:11:09,946 [WDG] Health check loop exiting.
+2026-06-24 00:11:10,894 [WDG] Watchdog socket closed.
+2026-06-24 00:11:10,894 [WDG] NOVA Watchdog stopped.
+2026-06-24 01:52:14,725 [WDG] NOVA Watchdog starting...
+2026-06-24 01:52:14,726 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.23, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.92}
+2026-06-24 01:52:14,757 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-24 01:52:14,758 [WDG] Health check loop started.
+2026-06-24 01:52:14,758 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-24 05:16:30,836 [WDG] Shutdown signal received.
+2026-06-24 05:16:30,837 [WDG] Health check loop exiting.
+2026-06-24 05:16:31,634 [WDG] Watchdog socket closed.
+2026-06-24 05:16:31,635 [WDG] NOVA Watchdog stopped.
+2026-06-24 21:41:13,873 [WDG] NOVA Watchdog starting...
+2026-06-24 21:41:13,874 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.36, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.79}
+2026-06-24 21:41:13,905 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-24 21:41:13,905 [WDG] Health check loop started.
+2026-06-24 21:41:13,909 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-25 00:20:23,333 [WDG] Shutdown signal received.
+2026-06-25 00:20:23,335 [WDG] Health check loop exiting.
+2026-06-25 00:20:24,170 [WDG] Watchdog socket closed.
+2026-06-25 00:20:24,170 [WDG] NOVA Watchdog stopped.
+2026-06-25 13:57:48,965 [WDG] NOVA Watchdog starting...
+2026-06-25 13:57:48,967 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.9, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.25}
+2026-06-25 13:57:48,992 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-25 13:57:48,997 [WDG] Health check loop started.
+2026-06-25 13:57:49,001 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-25 14:20:48,957 [WDG] Shutdown signal received.
+2026-06-25 14:20:48,957 [WDG] Health check loop exiting.
+2026-06-25 14:20:49,399 [WDG] Watchdog socket closed.
+2026-06-25 14:20:49,399 [WDG] NOVA Watchdog stopped.
+2026-06-25 15:32:12,830 [WDG] NOVA Watchdog starting...
+2026-06-25 15:32:12,830 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.16, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.99}
+2026-06-25 15:32:12,850 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-25 15:32:12,850 [WDG] Health check loop started.
+2026-06-25 15:32:12,851 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-25 16:48:41,599 [WDG] Shutdown signal received.
+2026-06-25 16:48:41,599 [WDG] Health check loop exiting.
+2026-06-25 16:48:41,700 [WDG] Watchdog socket closed.
+2026-06-25 16:48:41,700 [WDG] NOVA Watchdog stopped.
+2026-06-25 19:56:51,319 [WDG] NOVA Watchdog starting...
+2026-06-25 19:56:51,320 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.2, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.95}
+2026-06-25 19:56:51,347 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-25 19:56:51,380 [WDG] Health check loop started.
+2026-06-25 19:56:51,381 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-25 20:32:53,809 [WDG] RAM low: 2.8GB available.
+2026-06-25 20:33:08,827 [WDG] RAM low: 3.2GB available.
+2026-06-25 20:33:38,862 [WDG] RAM low: 4.6GB available.
+2026-06-25 20:33:53,885 [WDG] RAM low: 2.9GB available.
+2026-06-25 20:34:08,910 [WDG] RAM low: 4.7GB available.
+2026-06-25 20:34:23,933 [WDG] RAM low: 4.7GB available.
+2026-06-25 23:36:17,275 [WDG] Shutdown signal received.
+2026-06-25 23:36:17,275 [WDG] Health check loop exiting.
+2026-06-25 23:36:17,286 [WDG] Watchdog socket closed.
+2026-06-25 23:36:17,287 [WDG] NOVA Watchdog stopped.
+2026-06-26 10:09:34,415 [WDG] NOVA Watchdog starting...
+2026-06-26 10:09:34,415 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.48}
+2026-06-26 10:09:34,442 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-26 10:09:34,443 [WDG] Health check loop started.
+2026-06-26 10:09:34,444 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-26 10:52:10,135 [WDG] Shutdown signal received.
+2026-06-26 10:52:10,137 [WDG] Health check loop exiting.
+2026-06-26 10:52:10,151 [WDG] Watchdog socket closed.
+2026-06-26 10:52:10,152 [WDG] NOVA Watchdog stopped.
+2026-06-26 20:41:43,507 [WDG] NOVA Watchdog starting...
+2026-06-26 20:41:43,509 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.27, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.89}
+2026-06-26 20:41:43,536 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-26 20:41:43,536 [WDG] Health check loop started.
+2026-06-26 20:41:43,537 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-27 02:31:13,240 [WDG] Shutdown signal received.
+2026-06-27 02:31:13,241 [WDG] Health check loop exiting.
+2026-06-27 02:31:14,234 [WDG] Watchdog socket closed.
+2026-06-27 02:31:14,235 [WDG] NOVA Watchdog stopped.
+2026-06-27 08:48:35,650 [WDG] NOVA Watchdog starting...
+2026-06-27 08:48:35,650 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.74, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.41}
+2026-06-27 08:48:35,677 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-27 08:48:35,677 [WDG] Health check loop started.
+2026-06-27 08:48:35,678 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-27 08:53:20,050 [WDG] Shutdown signal received.
+2026-06-27 08:53:20,051 [WDG] Health check loop exiting.
+2026-06-27 08:53:21,009 [WDG] Watchdog socket closed.
+2026-06-27 08:53:21,009 [WDG] NOVA Watchdog stopped.
+2026-06-27 21:07:40,863 [WDG] NOVA Watchdog starting...
+2026-06-27 21:07:40,864 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.19, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.96}
+2026-06-27 21:07:40,898 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-27 21:07:40,898 [WDG] Health check loop started.
+2026-06-27 21:07:40,898 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-27 21:20:11,802 [WDG] RAM low: 4.7GB available.
+2026-06-27 21:20:26,818 [WDG] RAM low: 4.1GB available.
+2026-06-27 21:20:41,835 [WDG] RAM low: 3.6GB available.
+2026-06-27 21:20:56,853 [WDG] RAM low: 3.0GB available.
+2026-06-27 21:21:11,873 [WDG] RAM low: 2.7GB available.
+2026-06-27 23:44:34,848 [WDG] NOVA Watchdog starting...
+2026-06-27 23:44:34,849 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.79, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.37}
+2026-06-27 23:44:34,873 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-27 23:44:34,874 [WDG] Health check loop started.
+2026-06-27 23:44:34,875 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-28 01:05:28,643 [WDG] Shutdown signal received.
+2026-06-28 01:05:28,643 [WDG] Health check loop exiting.
+2026-06-28 01:05:29,605 [WDG] Watchdog socket closed.
+2026-06-28 01:05:29,605 [WDG] NOVA Watchdog stopped.
+2026-06-28 10:42:31,184 [WDG] NOVA Watchdog starting...
+2026-06-28 10:42:31,188 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.71, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.44}
+2026-06-28 10:42:31,219 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-28 10:42:31,220 [WDG] Health check loop started.
+2026-06-28 10:42:31,220 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-28 19:07:31,166 [WDG] Shutdown signal received.
+2026-06-28 19:07:31,166 [WDG] Health check loop exiting.
+2026-06-28 19:07:31,582 [WDG] Watchdog socket closed.
+2026-06-28 19:07:31,582 [WDG] NOVA Watchdog stopped.
+2026-06-29 00:53:39,631 [WDG] NOVA Watchdog starting...
+2026-06-29 00:53:39,631 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.48}
+2026-06-29 00:53:39,657 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-29 00:53:39,658 [WDG] Health check loop started.
+2026-06-29 00:53:39,659 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-29 03:18:38,569 [WDG] Shutdown signal received.
+2026-06-29 03:18:38,570 [WDG] Health check loop exiting.
+2026-06-29 03:18:39,300 [WDG] Watchdog socket closed.
+2026-06-29 03:18:39,300 [WDG] NOVA Watchdog stopped.
+2026-06-29 09:55:43,004 [WDG] NOVA Watchdog starting...
+2026-06-29 09:55:43,004 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.66, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.5}
+2026-06-29 09:55:43,028 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-29 09:55:43,029 [WDG] Health check loop started.
+2026-06-29 09:55:43,031 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-29 11:12:55,737 [WDG] Shutdown signal received.
+2026-06-29 11:12:55,738 [WDG] Health check loop exiting.
+2026-06-29 11:12:56,664 [WDG] Watchdog socket closed.
+2026-06-29 11:12:56,665 [WDG] NOVA Watchdog stopped.
+2026-06-29 14:32:32,183 [WDG] NOVA Watchdog starting...
+2026-06-29 14:32:32,184 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.36, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.79}
+2026-06-29 14:32:32,221 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-29 14:32:32,222 [WDG] Health check loop started.
+2026-06-29 14:32:32,223 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-29 20:30:35,832 [WDG] NOVA Watchdog starting...
+2026-06-29 20:30:35,833 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.78, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.37}
+2026-06-29 20:30:35,853 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-29 20:30:35,856 [WDG] Health check loop started.
+2026-06-29 20:30:35,857 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-29 22:50:43,235 [WDG] Shutdown signal received.
+2026-06-29 22:50:43,235 [WDG] Health check loop exiting.
+2026-06-29 22:50:43,791 [WDG] Watchdog socket closed.
+2026-06-29 22:50:43,792 [WDG] NOVA Watchdog stopped.
+2026-06-30 09:15:18,777 [WDG] NOVA Watchdog starting...
+2026-06-30 09:15:18,777 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.61, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.54}
+2026-06-30 09:15:18,799 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-30 09:15:18,800 [WDG] Health check loop started.
+2026-06-30 09:15:18,803 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-30 11:30:43,524 [WDG] RAM low: 4.6GB available.
+2026-06-30 11:30:58,561 [WDG] RAM low: 3.8GB available.
+2026-06-30 11:31:13,580 [WDG] RAM low: 3.8GB available.
+2026-06-30 11:31:28,602 [WDG] RAM low: 3.6GB available.
+2026-06-30 11:31:43,631 [WDG] RAM low: 4.1GB available.
+2026-06-30 11:31:58,652 [WDG] RAM low: 4.0GB available.
+2026-06-30 11:32:13,707 [WDG] RAM low: 3.8GB available.
+2026-06-30 11:32:28,737 [WDG] RAM low: 3.8GB available.
+2026-06-30 11:32:43,764 [WDG] RAM low: 3.7GB available.
+2026-06-30 11:32:58,787 [WDG] RAM low: 4.1GB available.
+2026-06-30 11:33:13,807 [WDG] RAM low: 3.8GB available.
+2026-06-30 11:33:28,828 [WDG] RAM low: 4.6GB available.
+2026-06-30 11:33:43,869 [WDG] RAM low: 4.4GB available.
+2026-06-30 11:33:58,896 [WDG] RAM low: 4.5GB available.
+2026-06-30 11:34:13,920 [WDG] RAM low: 4.5GB available.
+2026-06-30 11:34:28,945 [WDG] RAM low: 4.4GB available.
+2026-06-30 11:34:43,963 [WDG] RAM low: 4.5GB available.
+2026-06-30 11:34:59,010 [WDG] RAM low: 4.3GB available.
+2026-06-30 11:35:29,062 [WDG] RAM low: 4.3GB available.
+2026-06-30 11:35:44,092 [WDG] RAM low: 3.2GB available.
+2026-06-30 11:35:59,110 [WDG] RAM low: 3.1GB available.
+2026-06-30 11:36:14,151 [WDG] RAM low: 3.2GB available.
+2026-06-30 11:36:29,173 [WDG] RAM low: 3.2GB available.
+2026-06-30 11:36:44,191 [WDG] RAM low: 2.8GB available.
+2026-06-30 11:36:59,212 [WDG] RAM low: 3.2GB available.
+2026-06-30 11:37:14,238 [WDG] RAM low: 3.1GB available.
+2026-06-30 11:37:29,256 [WDG] RAM low: 2.8GB available.
+2026-06-30 11:37:44,275 [WDG] RAM low: 3.2GB available.
+2026-06-30 11:37:59,297 [WDG] RAM low: 3.5GB available.
+2026-06-30 11:38:14,314 [WDG] RAM low: 3.3GB available.
+2026-06-30 11:38:29,373 [WDG] RAM low: 3.3GB available.
+2026-06-30 11:38:44,390 [WDG] RAM low: 3.3GB available.
+2026-06-30 11:38:59,417 [WDG] RAM low: 3.4GB available.
+2026-06-30 11:39:14,436 [WDG] RAM low: 3.1GB available.
+2026-06-30 11:39:29,470 [WDG] RAM low: 3.6GB available.
+2026-06-30 11:39:44,487 [WDG] RAM low: 4.4GB available.
+2026-06-30 11:39:59,514 [WDG] RAM low: 4.2GB available.
+2026-06-30 11:46:00,159 [WDG] RAM low: 3.5GB available.
+2026-06-30 11:46:15,175 [WDG] RAM low: 3.0GB available.
+2026-06-30 11:46:30,195 [WDG] RAM low: 2.6GB available.
+2026-06-30 11:46:45,241 [WDG] RAM low: 2.3GB available.
+2026-06-30 11:47:00,281 [WDG] RAM low: 2.2GB available.
+2026-06-30 11:47:15,323 [WDG] RAM low: 1.0GB available.
+2026-06-30 11:47:39,503 [WDG] RAM low: 0.3GB available.
+2026-06-30 11:48:12,204 [WDG] RAM low: 0.2GB available.
+2026-06-30 11:48:41,425 [WDG] RAM low: 0.2GB available.
+2026-06-30 11:51:26,746 [WDG] NOVA Watchdog starting...
+2026-06-30 11:51:26,748 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.69, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.46}
+2026-06-30 11:51:26,775 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-30 11:51:26,776 [WDG] Health check loop started.
+2026-06-30 11:51:26,777 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-30 12:09:28,317 [WDG] RAM low: 4.9GB available.
+2026-06-30 12:09:43,334 [WDG] RAM low: 3.5GB available.
+2026-06-30 12:09:58,385 [WDG] RAM low: 2.4GB available.
+2026-06-30 12:10:13,405 [WDG] RAM low: 2.4GB available.
+2026-06-30 12:10:28,423 [WDG] RAM low: 2.2GB available.
+2026-06-30 12:10:43,440 [WDG] RAM low: 1.4GB available.
+2026-06-30 12:10:58,475 [WDG] RAM low: 1.1GB available.
+2026-06-30 12:11:20,145 [WDG] RAM low: 0.2GB available.
+2026-06-30 12:11:44,725 [WDG] RAM low: 0.3GB available.
+2026-06-30 12:11:59,997 [WDG] RAM low: 0.2GB available.
+2026-06-30 12:12:15,331 [WDG] RAM low: 0.2GB available.
+2026-06-30 12:12:31,120 [WDG] RAM low: 0.2GB available.
+2026-06-30 12:12:46,479 [WDG] RAM low: 0.2GB available.
+2026-06-30 12:13:01,526 [WDG] RAM low: 0.4GB available.
+2026-06-30 12:13:16,558 [WDG] RAM low: 0.7GB available.
+2026-06-30 12:13:31,583 [WDG] RAM low: 0.8GB available.
+2026-06-30 12:13:46,613 [WDG] RAM low: 0.8GB available.
+2026-06-30 12:14:01,639 [WDG] RAM low: 2.1GB available.
+2026-06-30 12:14:16,718 [WDG] RAM low: 0.8GB available.
+2026-06-30 12:14:31,744 [WDG] RAM low: 0.5GB available.
+2026-06-30 12:14:46,772 [WDG] RAM low: 3.0GB available.
+2026-06-30 12:15:01,795 [WDG] RAM low: 4.4GB available.
+2026-06-30 12:15:16,817 [WDG] RAM low: 4.4GB available.
+2026-06-30 12:22:16,845 [WDG] Shutdown signal received.
+2026-06-30 12:22:16,845 [WDG] Health check loop exiting.
+2026-06-30 12:22:17,428 [WDG] Watchdog socket closed.
+2026-06-30 12:22:17,429 [WDG] NOVA Watchdog stopped.
+2026-06-30 17:55:02,752 [WDG] NOVA Watchdog starting...
+2026-06-30 17:55:02,753 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.75, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.4}
+2026-06-30 17:55:02,773 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-30 17:55:02,773 [WDG] Health check loop started.
+2026-06-30 17:55:02,776 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-06-30 20:05:42,778 [WDG] Shutdown signal received.
+2026-06-30 20:05:42,778 [WDG] Health check loop exiting.
+2026-06-30 20:05:43,003 [WDG] Watchdog socket closed.
+2026-06-30 20:05:43,003 [WDG] NOVA Watchdog stopped.
+2026-06-30 23:10:47,715 [WDG] NOVA Watchdog starting...
+2026-06-30 23:10:47,716 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.25, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.9}
+2026-06-30 23:10:47,734 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-06-30 23:10:47,735 [WDG] Health check loop started.
+2026-06-30 23:10:47,735 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-01 00:13:19,067 [WDG] Shutdown signal received.
+2026-07-01 00:13:19,067 [WDG] Health check loop exiting.
+2026-07-01 00:13:19,240 [WDG] Watchdog socket closed.
+2026-07-01 00:13:19,240 [WDG] NOVA Watchdog stopped.
+2026-07-01 09:09:57,334 [WDG] NOVA Watchdog starting...
+2026-07-01 09:09:57,335 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.49}
+2026-07-01 09:09:57,359 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-01 09:09:57,361 [WDG] Health check loop started.
+2026-07-01 09:09:57,362 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-01 16:57:44,264 [WDG] Shutdown signal received.
+2026-07-01 16:57:44,265 [WDG] Health check loop exiting.
+2026-07-01 16:57:44,964 [WDG] Watchdog socket closed.
+2026-07-01 16:57:44,964 [WDG] NOVA Watchdog stopped.
+2026-07-01 20:08:06,563 [WDG] NOVA Watchdog starting...
+2026-07-01 20:08:06,563 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.82, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.33}
+2026-07-01 20:08:06,603 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-01 20:08:06,603 [WDG] Health check loop started.
+2026-07-01 20:08:06,604 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-01 22:41:44,707 [WDG] Shutdown signal received.
+2026-07-01 22:41:44,707 [WDG] Health check loop exiting.
+2026-07-01 22:41:44,986 [WDG] Watchdog socket closed.
+2026-07-01 22:41:44,986 [WDG] NOVA Watchdog stopped.
+2026-07-02 09:05:01,406 [WDG] NOVA Watchdog starting...
+2026-07-02 09:05:01,408 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.74, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.41}
+2026-07-02 09:05:01,434 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-02 09:05:01,435 [WDG] Health check loop started.
+2026-07-02 09:05:01,436 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-02 15:05:28,572 [WDG] Shutdown signal received.
+2026-07-02 15:05:28,573 [WDG] Health check loop exiting.
+2026-07-02 15:05:29,003 [WDG] Watchdog socket closed.
+2026-07-02 15:05:29,003 [WDG] NOVA Watchdog stopped.
+2026-07-02 17:18:58,209 [WDG] NOVA Watchdog starting...
+2026-07-02 17:18:58,210 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.48}
+2026-07-02 17:18:58,238 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-02 17:18:58,239 [WDG] Health check loop started.
+2026-07-02 17:18:58,239 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-02 21:45:38,298 [WDG] NOVA Watchdog starting...
+2026-07-02 21:45:38,298 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.74, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.42}
+2026-07-02 21:45:38,327 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-02 21:45:38,327 [WDG] Health check loop started.
+2026-07-02 21:45:38,328 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-03 04:27:19,179 [WDG] NOVA Watchdog starting...
+2026-07-03 04:27:19,180 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.74, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.41}
+2026-07-03 04:27:19,201 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-03 04:27:19,202 [WDG] Health check loop started.
+2026-07-03 04:27:19,202 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-03 06:40:58,194 [WDG] Shutdown signal received.
+2026-07-03 06:40:58,196 [WDG] Health check loop exiting.
+2026-07-03 06:40:58,489 [WDG] Watchdog socket closed.
+2026-07-03 06:40:58,490 [WDG] NOVA Watchdog stopped.
+2026-07-03 11:47:05,767 [WDG] NOVA Watchdog starting...
+2026-07-03 11:47:05,768 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.66, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.49}
+2026-07-03 11:47:05,788 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-03 11:47:05,789 [WDG] Health check loop started.
+2026-07-03 11:47:05,789 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-03 14:31:32,146 [WDG] Shutdown signal received.
+2026-07-03 14:31:32,147 [WDG] Health check loop exiting.
+2026-07-03 14:31:32,729 [WDG] Watchdog socket closed.
+2026-07-03 14:31:32,729 [WDG] NOVA Watchdog stopped.
+2026-07-03 20:27:46,072 [WDG] NOVA Watchdog starting...
+2026-07-03 20:27:46,073 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.33, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.82}
+2026-07-03 20:27:46,108 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-03 20:27:46,109 [WDG] Health check loop started.
+2026-07-03 20:27:46,109 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-03 21:43:39,147 [WDG] NOVA Watchdog starting...
+2026-07-03 21:43:39,148 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.74, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.41}
+2026-07-03 21:43:39,177 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-03 21:43:39,179 [WDG] Health check loop started.
+2026-07-03 21:43:39,180 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-03 23:46:30,583 [WDG] Shutdown signal received.
+2026-07-03 23:46:30,583 [WDG] Health check loop exiting.
+2026-07-03 23:46:31,138 [WDG] Watchdog socket closed.
+2026-07-03 23:46:31,138 [WDG] NOVA Watchdog stopped.
+2026-07-04 09:21:11,965 [WDG] NOVA Watchdog starting...
+2026-07-04 09:21:11,966 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.57, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.58}
+2026-07-04 09:21:12,004 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-04 09:21:12,004 [WDG] Health check loop started.
+2026-07-04 09:21:12,009 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-04 13:02:53,197 [WDG] Shutdown signal received.
+2026-07-04 13:02:53,197 [WDG] Health check loop exiting.
+2026-07-04 13:02:53,227 [WDG] Watchdog socket closed.
+2026-07-04 13:02:53,227 [WDG] NOVA Watchdog stopped.
+2026-07-04 18:08:42,300 [WDG] NOVA Watchdog starting...
+2026-07-04 18:08:42,301 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.25, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.9}
+2026-07-04 18:08:42,322 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-04 18:08:42,322 [WDG] Health check loop started.
+2026-07-04 18:08:42,322 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-04 18:49:25,078 [WDG] NOVA Watchdog starting...
+2026-07-04 18:49:25,080 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.69, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.47}
+2026-07-04 18:49:25,102 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-04 18:49:25,103 [WDG] Health check loop started.
+2026-07-04 18:49:25,103 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-04 18:55:43,851 [WDG] Shutdown signal received.
+2026-07-04 18:55:43,851 [WDG] Health check loop exiting.
+2026-07-04 18:55:43,992 [WDG] Watchdog socket closed.
+2026-07-04 18:55:43,992 [WDG] NOVA Watchdog stopped.
+2026-07-04 18:56:31,247 [WDG] NOVA Watchdog starting...
+2026-07-04 18:56:31,247 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.14, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 2.01}
+2026-07-04 18:56:31,269 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-04 18:56:31,270 [WDG] Health check loop started.
+2026-07-04 18:56:31,270 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-04 18:58:28,084 [WDG] NOVA Watchdog starting...
+2026-07-04 18:58:28,085 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.71, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.45}
+2026-07-04 18:58:28,114 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-04 18:58:28,114 [WDG] Health check loop started.
+2026-07-04 18:58:28,115 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-04 23:41:36,605 [WDG] Shutdown signal received.
+2026-07-04 23:41:36,609 [WDG] Health check loop exiting.
+2026-07-04 23:41:36,786 [WDG] Watchdog socket closed.
+2026-07-04 23:41:36,787 [WDG] NOVA Watchdog stopped.
+2026-07-05 11:25:59,948 [WDG] NOVA Watchdog starting...
+2026-07-05 11:25:59,949 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.68, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.48}
+2026-07-05 11:25:59,970 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-05 11:25:59,971 [WDG] Health check loop started.
+2026-07-05 11:25:59,971 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-05 17:55:08,458 [WDG] NOVA Watchdog starting...
+2026-07-05 17:55:08,459 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.68, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.47}
+2026-07-05 17:55:08,488 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-05 17:55:08,489 [WDG] Health check loop started.
+2026-07-05 17:55:08,491 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-05 22:26:47,132 [WDG] Shutdown signal received.
+2026-07-05 22:26:47,132 [WDG] Health check loop exiting.
+2026-07-05 22:26:47,206 [WDG] Watchdog socket closed.
+2026-07-05 22:26:47,206 [WDG] NOVA Watchdog stopped.
+2026-07-06 09:34:55,277 [WDG] NOVA Watchdog starting...
+2026-07-06 09:34:55,277 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.71, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.45}
+2026-07-06 09:34:55,305 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-06 09:34:55,305 [WDG] Health check loop started.
+2026-07-06 09:34:55,306 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-06 15:01:18,803 [WDG] Shutdown signal received.
+2026-07-06 15:01:18,805 [WDG] Health check loop exiting.
+2026-07-06 15:01:19,776 [WDG] Watchdog socket closed.
+2026-07-06 15:01:19,777 [WDG] NOVA Watchdog stopped.
+2026-07-06 18:47:50,665 [WDG] NOVA Watchdog starting...
+2026-07-06 18:47:50,667 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.73, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.42}
+2026-07-06 18:47:50,696 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-06 18:47:50,697 [WDG] Health check loop started.
+2026-07-06 18:47:50,699 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-06 23:12:42,130 [WDG] Shutdown signal received.
+2026-07-06 23:12:42,131 [WDG] Health check loop exiting.
+2026-07-06 23:12:42,629 [WDG] Watchdog socket closed.
+2026-07-06 23:12:42,630 [WDG] NOVA Watchdog stopped.
+2026-07-07 00:31:40,596 [WDG] NOVA Watchdog starting...
+2026-07-07 00:31:40,596 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.66, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.5}
+2026-07-07 00:31:40,641 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-07 00:31:40,643 [WDG] Health check loop started.
+2026-07-07 00:31:40,648 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-07 02:01:16,614 [WDG] NOVA Watchdog starting...
+2026-07-07 02:01:16,614 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.71, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.45}
+2026-07-07 02:01:16,649 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-07 02:01:16,649 [WDG] Health check loop started.
+2026-07-07 02:01:16,650 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-07 03:23:48,425 [WDG] Shutdown signal received.
+2026-07-07 03:23:48,425 [WDG] Health check loop exiting.
+2026-07-07 03:23:49,210 [WDG] Watchdog socket closed.
+2026-07-07 03:23:49,210 [WDG] NOVA Watchdog stopped.
+2026-07-07 17:45:49,580 [WDG] NOVA Watchdog starting...
+2026-07-07 17:45:49,584 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.57, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.58}
+2026-07-07 17:45:49,612 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-07 17:45:49,613 [WDG] Health check loop started.
+2026-07-07 17:45:49,613 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-07 18:16:08,832 [WDG] Shutdown signal received.
+2026-07-07 18:16:08,833 [WDG] Health check loop exiting.
+2026-07-07 18:16:09,037 [WDG] Watchdog socket closed.
+2026-07-07 18:16:09,038 [WDG] NOVA Watchdog stopped.
+2026-07-07 21:24:54,936 [WDG] NOVA Watchdog starting...
+2026-07-07 21:24:54,937 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.88, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.27}
+2026-07-07 21:24:54,976 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-07 21:24:54,977 [WDG] Health check loop started.
+2026-07-07 21:24:54,981 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-08 09:19:10,995 [WDG] NOVA Watchdog starting...
+2026-07-08 09:19:10,996 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.48}
+2026-07-08 09:19:11,022 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-08 09:19:11,022 [WDG] Health check loop started.
+2026-07-08 09:19:11,023 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-08 16:27:32,419 [WDG] Shutdown signal received.
+2026-07-08 16:27:32,419 [WDG] Health check loop exiting.
+2026-07-08 16:27:33,263 [WDG] Watchdog socket closed.
+2026-07-08 16:27:33,263 [WDG] NOVA Watchdog stopped.
+2026-07-09 10:56:36,137 [WDG] NOVA Watchdog starting...
+2026-07-09 10:56:36,138 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.48}
+2026-07-09 10:56:36,160 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-09 10:56:36,160 [WDG] Health check loop started.
+2026-07-09 10:56:36,161 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-09 16:19:41,648 [WDG] Shutdown signal received.
+2026-07-09 16:19:41,650 [WDG] Health check loop exiting.
+2026-07-09 16:19:41,916 [WDG] Watchdog socket closed.
+2026-07-09 16:19:41,916 [WDG] NOVA Watchdog stopped.
+2026-07-09 21:08:40,952 [WDG] NOVA Watchdog starting...
+2026-07-09 21:08:40,953 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.16, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.99}
+2026-07-09 21:08:40,980 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-09 21:08:40,981 [WDG] Health check loop started.
+2026-07-09 21:08:40,981 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-09 23:07:26,447 [WDG] Shutdown signal received.
+2026-07-09 23:07:26,449 [WDG] Health check loop exiting.
+2026-07-09 23:07:27,273 [WDG] Watchdog socket closed.
+2026-07-09 23:07:27,273 [WDG] NOVA Watchdog stopped.
+2026-07-10 01:36:03,243 [WDG] NOVA Watchdog starting...
+2026-07-10 01:36:03,244 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.25, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.9}
+2026-07-10 01:36:03,270 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-10 01:36:03,270 [WDG] Health check loop started.
+2026-07-10 01:36:03,271 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-10 03:53:38,724 [WDG] Shutdown signal received.
+2026-07-10 03:53:38,724 [WDG] Health check loop exiting.
+2026-07-10 03:53:39,429 [WDG] Watchdog socket closed.
+2026-07-10 03:53:39,429 [WDG] NOVA Watchdog stopped.
+2026-07-10 11:53:57,319 [WDG] NOVA Watchdog starting...
+2026-07-10 11:53:57,320 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.4, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.75}
+2026-07-10 11:53:57,368 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-10 11:53:57,371 [WDG] Health check loop started.
+2026-07-10 11:53:57,372 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-10 16:33:19,506 [WDG] Shutdown signal received.
+2026-07-10 16:33:19,506 [WDG] Health check loop exiting.
+2026-07-10 16:33:20,171 [WDG] Watchdog socket closed.
+2026-07-10 16:33:20,171 [WDG] NOVA Watchdog stopped.
+2026-07-10 19:48:10,840 [WDG] NOVA Watchdog starting...
+2026-07-10 19:48:10,844 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.19, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.96}
+2026-07-10 19:48:10,894 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-10 19:48:10,923 [WDG] Health check loop started.
+2026-07-10 19:48:10,926 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-10 22:04:34,996 [WDG] NOVA Watchdog starting...
+2026-07-10 22:04:34,997 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.69, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.47}
+2026-07-10 22:04:35,018 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-10 22:04:35,019 [WDG] Health check loop started.
+2026-07-10 22:04:35,019 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-10 23:45:51,302 [WDG] Shutdown signal received.
+2026-07-10 23:45:51,306 [WDG] Health check loop exiting.
+2026-07-10 23:45:51,478 [WDG] Watchdog socket closed.
+2026-07-10 23:45:51,478 [WDG] NOVA Watchdog stopped.
+2026-07-11 15:42:35,981 [WDG] NOVA Watchdog starting...
+2026-07-11 15:42:35,987 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.14, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 2.01}
+2026-07-11 15:42:36,013 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-11 15:42:36,014 [WDG] Health check loop started.
+2026-07-11 15:42:36,014 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-11 16:59:12,154 [WDG] Shutdown signal received.
+2026-07-11 16:59:12,155 [WDG] Health check loop exiting.
+2026-07-11 16:59:12,605 [WDG] Watchdog socket closed.
+2026-07-11 16:59:12,605 [WDG] NOVA Watchdog stopped.
+2026-07-11 20:58:35,598 [WDG] NOVA Watchdog starting...
+2026-07-11 20:58:35,599 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.24, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.91}
+2026-07-11 20:58:35,626 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-11 20:58:35,626 [WDG] Health check loop started.
+2026-07-11 20:58:35,628 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-11 21:52:36,460 [WDG] Shutdown signal received.
+2026-07-11 21:52:36,460 [WDG] Health check loop exiting.
+2026-07-11 21:52:36,914 [WDG] Watchdog socket closed.
+2026-07-11 21:52:36,914 [WDG] NOVA Watchdog stopped.
+2026-07-12 01:29:57,132 [WDG] NOVA Watchdog starting...
+2026-07-12 01:29:57,135 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.24, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.92}
+2026-07-12 01:29:57,180 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-12 01:29:57,181 [WDG] Health check loop started.
+2026-07-12 01:29:57,184 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-12 05:24:05,755 [WDG] Shutdown signal received.
+2026-07-12 05:24:05,755 [WDG] Health check loop exiting.
+2026-07-12 05:24:06,043 [WDG] Watchdog socket closed.
+2026-07-12 05:24:06,043 [WDG] NOVA Watchdog stopped.
+2026-07-12 11:22:47,652 [WDG] NOVA Watchdog starting...
+2026-07-12 11:22:47,652 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.71, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.44}
+2026-07-12 11:22:47,682 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-12 11:22:47,697 [WDG] Health check loop started.
+2026-07-12 11:22:47,703 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-12 15:39:44,372 [WDG] Shutdown signal received.
+2026-07-12 15:39:44,376 [WDG] Health check loop exiting.
+2026-07-12 15:39:44,577 [WDG] Watchdog socket closed.
+2026-07-12 15:39:44,578 [WDG] NOVA Watchdog stopped.
+2026-07-12 19:49:22,011 [WDG] NOVA Watchdog starting...
+2026-07-12 19:49:22,011 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.82, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.33}
+2026-07-12 19:49:22,040 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-12 19:49:22,041 [WDG] Health check loop started.
+2026-07-12 19:49:22,041 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-12 22:14:53,428 [WDG] Shutdown signal received.
+2026-07-12 22:14:53,428 [WDG] Health check loop exiting.
+2026-07-12 22:14:53,706 [WDG] Watchdog socket closed.
+2026-07-12 22:14:53,706 [WDG] NOVA Watchdog stopped.
+2026-07-13 11:13:44,441 [WDG] NOVA Watchdog starting...
+2026-07-13 11:13:44,441 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.09, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 2.06}
+2026-07-13 11:13:44,472 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-13 11:13:44,472 [WDG] Health check loop started.
+2026-07-13 11:13:44,473 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-13 12:42:12,278 [WDG] Shutdown signal received.
+2026-07-13 12:42:12,278 [WDG] Health check loop exiting.
+2026-07-13 12:42:12,344 [WDG] Watchdog socket closed.
+2026-07-13 12:42:12,344 [WDG] NOVA Watchdog stopped.
+2026-07-13 12:43:01,710 [WDG] NOVA Watchdog starting...
+2026-07-13 12:43:01,710 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.17, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.98}
+2026-07-13 12:43:01,735 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-13 12:43:01,735 [WDG] Health check loop started.
+2026-07-13 12:43:01,737 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-13 12:49:11,404 [WDG] NOVA Watchdog starting...
+2026-07-13 12:49:11,408 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.51, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.64}
+2026-07-13 12:49:11,437 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-13 12:49:11,438 [WDG] Health check loop started.
+2026-07-13 12:49:11,439 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-13 13:00:29,417 [WDG] Shutdown signal received.
+2026-07-13 13:00:29,418 [WDG] Health check loop exiting.
+2026-07-13 13:00:29,727 [WDG] Watchdog socket closed.
+2026-07-13 13:00:29,727 [WDG] NOVA Watchdog stopped.
+2026-07-13 13:01:29,089 [WDG] NOVA Watchdog starting...
+2026-07-13 13:01:29,089 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.48}
+2026-07-13 13:01:29,118 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-13 13:01:29,118 [WDG] Health check loop started.
+2026-07-13 13:01:29,119 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-13 17:10:15,061 [WDG] Shutdown signal received.
+2026-07-13 17:10:15,062 [WDG] Health check loop exiting.
+2026-07-13 17:10:15,980 [WDG] Watchdog socket closed.
+2026-07-13 17:10:15,980 [WDG] NOVA Watchdog stopped.
+2026-07-13 21:28:06,057 [WDG] NOVA Watchdog starting...
+2026-07-13 21:28:06,058 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.13, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 2.02}
+2026-07-13 21:28:06,091 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-13 21:28:06,092 [WDG] Health check loop started.
+2026-07-13 21:28:06,100 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-14 00:08:17,181 [WDG] Shutdown signal received.
+2026-07-14 00:08:17,182 [WDG] Health check loop exiting.
+2026-07-14 00:08:17,245 [WDG] Watchdog socket closed.
+2026-07-14 00:08:17,246 [WDG] NOVA Watchdog stopped.
+2026-07-14 03:12:02,943 [WDG] NOVA Watchdog starting...
+2026-07-14 03:12:02,945 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.72, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.43}
+2026-07-14 03:12:02,973 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-14 03:12:02,973 [WDG] Health check loop started.
+2026-07-14 03:12:02,974 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-14 03:26:19,172 [WDG] RAM low: 4.3GB available.
+2026-07-14 03:26:34,197 [WDG] RAM low: 2.2GB available.
+2026-07-14 03:26:49,219 [WDG] RAM low: 0.4GB available.
+2026-07-14 03:28:08,084 [WDG] NOVA Watchdog starting...
+2026-07-14 03:28:08,084 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.66, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.5}
+2026-07-14 03:28:08,112 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-14 03:28:08,112 [WDG] Health check loop started.
+2026-07-14 03:28:08,117 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-14 03:34:08,652 [WDG] RAM low: 4.5GB available.
+2026-07-14 04:44:26,344 [WDG] Shutdown signal received.
+2026-07-14 04:44:26,345 [WDG] Health check loop exiting.
+2026-07-14 04:44:26,986 [WDG] Watchdog socket closed.
+2026-07-14 04:44:26,986 [WDG] NOVA Watchdog stopped.
+2026-07-14 11:01:55,045 [WDG] NOVA Watchdog starting...
+2026-07-14 11:01:55,046 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.74, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.42}
+2026-07-14 11:01:55,109 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-14 11:01:55,110 [WDG] Health check loop started.
+2026-07-14 11:01:55,113 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-14 12:26:21,459 [WDG] NOVA Watchdog starting...
+2026-07-14 12:26:21,460 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.71, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.44}
+2026-07-14 12:26:21,477 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-14 12:26:21,477 [WDG] Health check loop started.
+2026-07-14 12:26:21,479 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-14 13:16:55,182 [WDG] RAM low: 4.9GB available.
+2026-07-14 13:17:10,197 [WDG] RAM low: 4.9GB available.
+2026-07-14 14:57:00,287 [WDG] Shutdown signal received.
+2026-07-14 14:57:00,287 [WDG] Health check loop exiting.
+2026-07-14 14:57:00,459 [WDG] Watchdog socket closed.
+2026-07-14 14:57:00,459 [WDG] NOVA Watchdog stopped.
+2026-07-14 21:19:45,451 [WDG] NOVA Watchdog starting...
+2026-07-14 21:19:45,453 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.92, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.23}
+2026-07-14 21:19:45,482 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-14 21:19:45,483 [WDG] Health check loop started.
+2026-07-14 21:19:45,483 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-14 23:21:48,925 [WDG] Shutdown signal received.
+2026-07-14 23:21:48,926 [WDG] Health check loop exiting.
+2026-07-14 23:21:49,833 [WDG] Watchdog socket closed.
+2026-07-14 23:21:49,833 [WDG] NOVA Watchdog stopped.
+2026-07-15 00:23:52,902 [WDG] NOVA Watchdog starting...
+2026-07-15 00:23:52,904 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.7, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.45}
+2026-07-15 00:23:52,931 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-15 00:23:52,932 [WDG] Health check loop started.
+2026-07-15 00:23:52,932 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-15 01:33:57,736 [WDG] Service nova-stt is down — restarting...
+2026-07-15 01:34:00,749 [WDG] Service nova-stt restarted successfully.
+2026-07-15 03:05:13,784 [WDG] Shutdown signal received.
+2026-07-15 03:05:13,787 [WDG] Health check loop exiting.
+2026-07-15 03:05:14,311 [WDG] Watchdog socket closed.
+2026-07-15 03:05:14,312 [WDG] NOVA Watchdog stopped.
+2026-07-15 11:05:24,073 [WDG] NOVA Watchdog starting...
+2026-07-15 11:05:24,074 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.67, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 1.49}
+2026-07-15 11:05:24,098 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-15 11:05:24,099 [WDG] Health check loop started.
+2026-07-15 11:05:24,102 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock
+2026-07-16 03:39:42,220 [WDG] Shutdown signal received.
+2026-07-16 03:39:42,225 [WDG] Health check loop exiting.
+2026-07-16 03:39:42,663 [WDG] Watchdog socket closed.
+2026-07-16 03:39:42,663 [WDG] NOVA Watchdog stopped.
+2026-07-16 09:24:13,100 [WDG] NOVA Watchdog starting...
+2026-07-16 09:24:13,102 [WDG] RAM snapshot: {'total_gb': 23.15, 'available_gb': 21.11, 'swap_total_gb': 4.0, 'swap_free_gb': 4.0, 'used_gb': 2.04}
+2026-07-16 09:24:13,144 [WDG] TTS narration failed: [Errno 2] No such file or directory
+2026-07-16 09:24:13,144 [WDG] Health check loop started.
+2026-07-16 09:24:13,145 [WDG] Watchdog socket listening at /tmp/nova_watchdog.sock

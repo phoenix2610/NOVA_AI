@@ -1,0 +1,18 @@
+[Unit]
+Description=NOVA RAG — Context Revival & Memory Daemon
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/tathya/nova/daemons/rag_daemon.py
+Restart=on-failure
+RestartSec=5s
+StandardOutput=append:/home/tathya/nova/logs/rag_daemon.log
+StandardError=append:/home/tathya/nova/logs/rag_daemon.log
+SyslogIdentifier=nova-rag
+
+Environment=PYTHONUNBUFFERED=1
+Environment=HOME=/home/tathya
+
+[Install]
+WantedBy=default.target

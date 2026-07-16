@@ -1,0 +1,1626 @@
+2026-06-01 13:30:59,054 [TTS] NOVA TTS daemon starting...
+2026-06-01 13:31:10,490 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-01 13:31:10,493 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-01 13:31:10,702 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-01 13:31:13,807 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-01 13:31:19,141 [TTS] Kokoro pipeline loaded and warm.
+2026-06-01 13:31:19,147 [TTS] Speaker thread started.
+2026-06-01 13:31:19,147 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-01 13:31:19,160 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-01 13:31:20,750 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-01 13:33:45,659 [TTS] Shutdown signal received.
+2026-06-01 13:33:46,035 [TTS] Speaker thread exiting.
+2026-06-01 13:33:46,324 [TTS] Socket server closed.
+2026-06-01 13:33:46,325 [TTS] NOVA TTS daemon stopped.
+2026-06-01 13:33:50,173 [TTS] NOVA TTS daemon starting...
+2026-06-01 13:33:58,188 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-01 13:33:58,373 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-01 13:34:00,521 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-01 13:34:05,481 [TTS] Kokoro pipeline loaded and warm.
+2026-06-01 13:34:05,484 [TTS] Speaker thread started.
+2026-06-01 13:34:05,484 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-01 13:34:05,485 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-01 13:34:06,975 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-01 13:35:09,223 [TTS] Shutdown signal received.
+2026-06-01 13:35:09,272 [TTS] Speaker thread exiting.
+2026-06-01 13:35:09,548 [TTS] Socket server closed.
+2026-06-01 13:35:09,548 [TTS] NOVA TTS daemon stopped.
+2026-06-01 13:35:17,788 [TTS] NOVA TTS daemon starting...
+2026-06-01 13:35:24,592 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-01 13:35:24,593 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-01 13:35:24,873 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-01 13:35:26,230 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-01 13:35:30,754 [TTS] Kokoro pipeline loaded and warm.
+2026-06-01 13:35:30,755 [TTS] Speaker thread started.
+2026-06-01 13:35:30,755 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-01 13:35:30,756 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-01 13:35:31,247 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-01 13:36:37,032 [TTS] Shutdown signal received.
+2026-06-01 13:36:37,129 [TTS] Speaker thread exiting.
+2026-06-01 13:36:37,823 [TTS] Socket server closed.
+2026-06-01 13:36:37,823 [TTS] NOVA TTS daemon stopped.
+2026-06-01 13:36:40,950 [TTS] NOVA TTS daemon starting...
+2026-06-01 13:36:48,419 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-01 13:36:48,420 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-01 13:36:49,253 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-01 13:36:50,163 [TTS] Shutdown signal received.
+2026-06-01 13:36:50,408 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-01 13:36:52,153 [TTS] Kokoro pipeline loaded and warm.
+2026-06-01 13:36:52,154 [TTS] Speaker thread started.
+2026-06-01 13:36:52,154 [TTS] Speaker thread exiting.
+2026-06-01 13:36:52,154 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-01 13:36:52,154 [TTS] Socket server closed.
+2026-06-01 13:36:52,154 [TTS] NOVA TTS daemon stopped.
+2026-06-01 13:36:53,675 [TTS] NOVA TTS daemon starting...
+2026-06-01 13:37:00,439 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-01 13:37:00,440 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-01 13:37:00,529 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-01 13:37:02,302 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-01 13:37:04,144 [TTS] Kokoro pipeline loaded and warm.
+2026-06-01 13:37:04,145 [TTS] Speaker thread started.
+2026-06-01 13:37:04,145 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-01 13:37:04,146 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-01 13:37:04,693 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-01 15:20:24,186 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-01 15:20:24,186 [TTS] Speaking (p0): NOVA systems nominal. Watchdog online, sir.
+2026-06-01 15:23:13,509 [TTS] Shutdown signal received.
+2026-06-01 15:23:13,796 [TTS] Speaker thread exiting.
+2026-06-01 15:23:14,355 [TTS] Socket server closed.
+2026-06-01 15:23:14,355 [TTS] NOVA TTS daemon stopped.
+2026-06-03 00:44:08,613 [TTS] NOVA TTS daemon starting...
+2026-06-03 00:44:15,516 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 00:44:15,517 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 00:44:15,580 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-03 00:44:16,598 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-03 00:44:18,236 [TTS] Kokoro pipeline loaded and warm.
+2026-06-03 00:44:18,237 [TTS] Speaker thread started.
+2026-06-03 00:44:18,237 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-03 00:44:18,238 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-03 00:44:18,497 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-03 01:34:48,959 [TTS] Shutdown signal received.
+2026-06-03 01:34:49,001 [TTS] Speaker thread exiting.
+2026-06-03 01:34:49,465 [TTS] Socket server closed.
+2026-06-03 01:34:49,466 [TTS] NOVA TTS daemon stopped.
+2026-06-03 17:47:40,870 [TTS] NOVA TTS daemon starting...
+2026-06-03 17:47:47,722 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-03 17:47:47,761 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-03 17:47:48,796 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-03 17:47:48,797 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-03 17:47:50,387 [TTS] Kokoro pipeline loaded and warm.
+2026-06-03 17:47:50,388 [TTS] Speaker thread started.
+2026-06-03 17:47:50,388 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-03 17:47:50,389 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-03 17:47:50,741 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-03 20:33:06,741 [TTS] Shutdown signal received.
+2026-06-03 20:33:07,226 [TTS] Speaker thread exiting.
+2026-06-03 20:33:07,522 [TTS] Socket server closed.
+2026-06-03 20:33:07,523 [TTS] NOVA TTS daemon stopped.
+2026-06-04 01:23:45,026 [TTS] NOVA TTS daemon starting...
+2026-06-04 01:23:51,969 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-04 01:23:51,990 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-04 01:23:52,900 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-04 01:23:52,901 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-04 01:23:54,488 [TTS] Kokoro pipeline loaded and warm.
+2026-06-04 01:23:54,488 [TTS] Speaker thread started.
+2026-06-04 01:23:54,489 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-04 01:23:54,489 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-04 01:23:54,776 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-04 02:22:16,947 [TTS] NOVA TTS daemon starting...
+2026-06-04 02:22:22,187 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-04 02:22:22,247 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-04 02:22:23,109 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-04 02:22:23,109 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-04 02:22:24,486 [TTS] Kokoro pipeline loaded and warm.
+2026-06-04 02:22:24,487 [TTS] Speaker thread started.
+2026-06-04 02:22:24,488 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-04 02:22:24,489 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-04 02:22:24,852 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-04 02:25:21,319 [TTS] Shutdown signal received.
+2026-06-04 02:25:21,682 [TTS] Socket server closed.
+2026-06-04 02:25:21,706 [TTS] Speaker thread exiting.
+2026-06-04 02:25:21,707 [TTS] NOVA TTS daemon stopped.
+2026-06-04 02:25:23,909 [TTS] NOVA TTS daemon starting...
+2026-06-04 02:25:29,053 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-04 02:25:29,054 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-04 02:25:29,093 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-04 02:25:29,981 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-04 02:25:31,125 [TTS] Kokoro pipeline loaded and warm.
+2026-06-04 02:25:31,125 [TTS] Speaker thread started.
+2026-06-04 02:25:31,126 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-04 02:25:31,127 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-04 02:25:31,517 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-04 03:27:02,684 [TTS] Shutdown signal received.
+2026-06-04 03:27:02,845 [TTS] Socket server closed.
+2026-06-04 03:27:02,991 [TTS] Speaker thread exiting.
+2026-06-04 03:27:02,994 [TTS] NOVA TTS daemon stopped.
+2026-06-04 22:27:05,408 [TTS] NOVA TTS daemon starting...
+2026-06-04 22:27:12,462 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-04 22:27:12,463 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-04 22:27:12,493 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-04 22:27:13,481 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-04 22:27:14,910 [TTS] Kokoro pipeline loaded and warm.
+2026-06-04 22:27:14,911 [TTS] Speaker thread started.
+2026-06-04 22:27:14,911 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-04 22:27:14,912 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-04 22:27:15,222 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-04 23:18:53,345 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-04 23:18:53,345 [TTS] Speaking (p1): Executioner online, sir.
+2026-06-04 23:19:09,943 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-04 23:19:09,943 [TTS] Speaking (p1): Sir, I blocked a script. Banned operation detected: rm -rf /
+2026-06-05 01:04:16,863 [TTS] Shutdown signal received.
+2026-06-05 01:04:17,330 [TTS] Speaker thread exiting.
+2026-06-05 01:04:17,727 [TTS] Socket server closed.
+2026-06-05 01:04:17,727 [TTS] NOVA TTS daemon stopped.
+2026-06-05 19:27:55,587 [TTS] NOVA TTS daemon starting...
+2026-06-05 19:28:01,895 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-05 19:28:01,896 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-05 19:28:01,914 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-05 19:28:03,017 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-05 19:28:04,421 [TTS] Kokoro pipeline loaded and warm.
+2026-06-05 19:28:04,422 [TTS] Speaker thread started.
+2026-06-05 19:28:04,422 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-05 19:28:04,422 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-05 19:28:04,757 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-05 20:06:53,499 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 20:06:53,499 [TTS] Speaking (p0): On it, sir.
+2026-06-05 20:06:53,568 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 20:06:55,751 [TTS] Speaking (p1): Sir, the execution ran into an issue. File "/home/tathya/nov
+2026-06-05 20:06:55,763 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-05 20:11:16,642 [TTS] Shutdown signal received.
+2026-06-05 20:11:16,824 [TTS] Socket server closed.
+2026-06-05 20:11:16,939 [TTS] Speaker thread exiting.
+2026-06-05 20:11:16,940 [TTS] NOVA TTS daemon stopped.
+2026-06-05 22:07:46,059 [TTS] NOVA TTS daemon starting...
+2026-06-05 22:07:54,127 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-05 22:07:54,168 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-05 22:07:55,425 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-05 22:07:55,426 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-05 22:07:57,030 [TTS] Kokoro pipeline loaded and warm.
+2026-06-05 22:07:57,031 [TTS] Speaker thread started.
+2026-06-05 22:07:57,031 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-05 22:07:57,032 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-05 22:07:57,332 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-05 22:19:00,357 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:19:00,357 [TTS] Speaking (p1): Chocolate making involves several stages, including fermenta
+2026-06-05 22:22:25,670 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:22:25,670 [TTS] Speaking (p1): YouTube it is!
+2026-06-05 22:23:16,277 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:23:16,277 [TTS] Speaking (p1): Open YouTube, shall we? Here's the link: https://www.youtube
+2026-06-05 22:23:16,289 [TTS] words count mismatch on 200.0% of the lines (2/1)
+2026-06-05 22:27:03,735 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:27:03,735 [TTS] Speaking (p0): On it, sir.
+2026-06-05 22:28:23,726 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:28:23,726 [TTS] Speaking (p0): On it, sir.
+2026-06-05 22:29:00,658 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:29:00,658 [TTS] Speaking (p1): Open YouTube? I think that's a fantastic idea! Here's your P
+2026-06-05 22:29:00,658 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:29:01,508 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:29:09,186 [TTS] Speaking (p0): On it, sir.
+2026-06-05 22:29:11,490 [TTS] Speaking (p1): Want me to run a quick syntax check on that, sir?
+2026-06-05 22:30:50,918 [TTS] Speaking (p1): Hello sir, I've just opened YouTube for you.
+2026-06-05 22:30:50,919 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:35:32,632 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:35:32,632 [TTS] Speaking (p1): Executioner online, sir.
+2026-06-05 22:36:26,624 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:36:26,624 [TTS] Speaking (p0): On it, sir.
+2026-06-05 22:36:56,664 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:36:56,664 [TTS] Speaking (p1): Sir, the execution ran into an issue. Script timed out after
+2026-06-05 22:38:44,654 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:38:44,654 [TTS] Speaking (p0): On it, sir.
+2026-06-05 22:38:45,527 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-05 22:38:47,951 [TTS] Speaking (p1): Opening in existing browser session.
+2026-06-05 23:55:50,937 [TTS] Shutdown signal received.
+2026-06-05 23:55:51,166 [TTS] Speaker thread exiting.
+2026-06-05 23:55:51,285 [TTS] Socket server closed.
+2026-06-05 23:55:51,285 [TTS] NOVA TTS daemon stopped.
+2026-06-05 23:55:56,518 [TTS] NOVA TTS daemon starting...
+2026-06-05 23:56:02,115 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-05 23:56:02,133 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-05 23:56:02,850 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-05 23:56:02,851 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-05 23:56:06,559 [TTS] Kokoro pipeline loaded and warm.
+2026-06-05 23:56:06,561 [TTS] Speaker thread started.
+2026-06-05 23:56:06,561 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-05 23:56:06,562 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-05 23:56:06,845 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-06 00:05:53,105 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-06 00:05:53,105 [TTS] Speaking (p1): [sir] You can access YouTube directly in your default web br
+2026-06-06 00:05:53,105 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-06 00:05:53,105 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-06 00:06:07,602 [TTS] Speaking (p0): On it, sir.
+2026-06-06 00:06:09,692 [TTS] Speaking (p1): [User profile]
+• _comment: Edit this file to personalise NOV
+2026-06-06 00:06:10,218 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:12,206 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:12,806 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:12,807 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:14,004 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:15,393 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:16,692 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:19,447 [TTS] words count mismatch on 200.0% of the lines (2/1)
+2026-06-06 00:06:19,448 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:25,077 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:27,230 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:32,054 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:34,977 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:39,191 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:41,889 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:47,008 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:50,805 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:53,310 [TTS] words count mismatch on 200.0% of the lines (2/1)
+2026-06-06 00:06:53,310 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:55,565 [TTS] words count mismatch on 200.0% of the lines (2/1)
+2026-06-06 00:06:57,952 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:06:57,952 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:07:01,360 [TTS] words count mismatch on 200.0% of the lines (2/1)
+2026-06-06 00:07:01,361 [TTS] words count mismatch on 100.0% of the lines (1/1)
+2026-06-06 00:25:10,515 [TTS] Shutdown signal received.
+2026-06-06 00:25:10,995 [TTS] Speaker thread exiting.
+2026-06-06 00:25:11,311 [TTS] Socket server closed.
+2026-06-06 00:25:11,311 [TTS] NOVA TTS daemon stopped.
+2026-06-06 01:41:22,668 [TTS] NOVA TTS daemon starting...
+2026-06-06 01:41:30,285 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-06 01:41:30,303 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-06 01:41:31,273 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-06 01:41:32,706 [TTS] Kokoro pipeline loaded and warm.
+2026-06-06 01:41:32,706 [TTS] Speaker thread started.
+2026-06-06 01:41:32,706 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-06 01:41:32,707 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-06 01:41:33,156 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-06 01:41:33,156 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-06 03:09:52,846 [TTS] Shutdown signal received.
+2026-06-06 03:09:53,091 [TTS] Speaker thread exiting.
+2026-06-06 03:09:53,189 [TTS] Socket server closed.
+2026-06-06 03:09:53,190 [TTS] NOVA TTS daemon stopped.
+2026-06-06 22:28:26,516 [TTS] NOVA TTS daemon starting...
+2026-06-06 22:28:32,553 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-06 22:28:32,576 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-06 22:28:33,463 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-06 22:28:35,233 [TTS] Kokoro pipeline loaded and warm.
+2026-06-06 22:28:35,233 [TTS] Speaker thread started.
+2026-06-06 22:28:35,233 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-06 22:28:35,234 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-06 22:28:35,474 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-07 00:14:47,340 [TTS] Shutdown signal received.
+2026-06-07 00:14:47,523 [TTS] Speaker thread exiting.
+2026-06-07 00:14:47,629 [TTS] Socket server closed.
+2026-06-07 00:14:47,629 [TTS] NOVA TTS daemon stopped.
+2026-06-07 11:52:38,702 [TTS] NOVA TTS daemon starting...
+2026-06-07 11:52:47,209 [TTS] Kokoro pipeline loaded and warm.
+2026-06-07 11:52:47,212 [TTS] Speaker thread started.
+2026-06-07 11:52:47,213 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-07 11:52:47,214 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-07 15:24:35,419 [TTS] Shutdown signal received.
+2026-06-07 15:24:35,610 [TTS] Speaker thread exiting.
+2026-06-07 15:24:36,389 [TTS] Socket server closed.
+2026-06-07 15:24:36,390 [TTS] NOVA TTS daemon stopped.
+2026-06-07 22:21:34,806 [TTS] NOVA TTS daemon starting...
+2026-06-07 22:21:41,263 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-07 22:21:41,263 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-07 22:21:41,285 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-07 22:21:42,290 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-07 22:21:43,672 [TTS] Kokoro pipeline loaded and warm.
+2026-06-07 22:21:43,672 [TTS] Speaker thread started.
+2026-06-07 22:21:43,672 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-07 22:21:43,673 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-07 22:21:44,023 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-08 00:01:59,287 [TTS] Shutdown signal received.
+2026-06-08 00:01:59,780 [TTS] Speaker thread exiting.
+2026-06-08 00:02:00,247 [TTS] Socket server closed.
+2026-06-08 00:02:00,247 [TTS] NOVA TTS daemon stopped.
+2026-06-08 18:03:42,883 [TTS] NOVA TTS daemon starting...
+2026-06-08 18:03:49,923 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-08 18:03:50,003 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-08 18:03:50,992 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-08 18:03:52,768 [TTS] Kokoro pipeline loaded and warm.
+2026-06-08 18:03:52,769 [TTS] Speaker thread started.
+2026-06-08 18:03:52,769 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-08 18:03:52,769 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-08 18:03:53,086 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-08 18:03:53,087 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-08 19:01:47,963 [TTS] Shutdown signal received.
+2026-06-08 19:01:48,322 [TTS] Socket server closed.
+2026-06-08 19:01:48,358 [TTS] Speaker thread exiting.
+2026-06-08 19:01:48,364 [TTS] NOVA TTS daemon stopped.
+2026-06-08 19:56:05,598 [TTS] NOVA TTS daemon starting...
+2026-06-08 19:56:12,174 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-08 19:56:12,175 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-08 19:56:12,194 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-08 19:56:13,150 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-08 19:56:14,851 [TTS] Kokoro pipeline loaded and warm.
+2026-06-08 19:56:14,852 [TTS] Speaker thread started.
+2026-06-08 19:56:14,852 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-08 19:56:14,853 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-08 19:56:15,192 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-08 23:40:28,478 [TTS] Shutdown signal received.
+2026-06-08 23:40:28,671 [TTS] Speaker thread exiting.
+2026-06-08 23:40:29,208 [TTS] Socket server closed.
+2026-06-08 23:40:29,209 [TTS] NOVA TTS daemon stopped.
+2026-06-09 19:20:40,105 [TTS] NOVA TTS daemon starting...
+2026-06-09 19:20:46,738 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-09 19:20:46,739 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-09 19:20:46,771 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-09 19:20:47,667 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-09 19:20:49,279 [TTS] Kokoro pipeline loaded and warm.
+2026-06-09 19:20:49,280 [TTS] Speaker thread started.
+2026-06-09 19:20:49,280 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-09 19:20:49,280 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-09 19:20:50,047 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-09 20:22:37,754 [TTS] Shutdown signal received.
+2026-06-09 20:22:37,917 [TTS] Socket server closed.
+2026-06-09 20:22:38,100 [TTS] Speaker thread exiting.
+2026-06-09 20:22:38,130 [TTS] NOVA TTS daemon stopped.
+2026-06-09 21:26:23,392 [TTS] NOVA TTS daemon starting...
+2026-06-09 21:26:29,567 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-09 21:26:29,567 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-09 21:26:29,594 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-09 21:26:30,611 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-09 21:26:32,183 [TTS] Kokoro pipeline loaded and warm.
+2026-06-09 21:26:32,184 [TTS] Speaker thread started.
+2026-06-09 21:26:32,184 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-09 21:26:32,184 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-09 21:26:32,575 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-09 23:34:50,624 [TTS] Shutdown signal received.
+2026-06-09 23:34:50,714 [TTS] Socket server closed.
+2026-06-09 23:34:51,102 [TTS] Speaker thread exiting.
+2026-06-09 23:34:51,109 [TTS] NOVA TTS daemon stopped.
+2026-06-10 20:17:33,833 [TTS] NOVA TTS daemon starting...
+2026-06-10 20:17:40,227 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-10 20:17:40,228 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-10 20:17:40,375 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-10 20:17:40,273 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-10 20:17:41,936 [TTS] Kokoro pipeline loaded and warm.
+2026-06-10 20:17:41,937 [TTS] Speaker thread started.
+2026-06-10 20:17:41,937 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-10 20:17:41,937 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-10 20:17:42,270 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-11 00:11:55,506 [TTS] Shutdown signal received.
+2026-06-11 00:11:55,759 [TTS] Speaker thread exiting.
+2026-06-11 00:11:55,906 [TTS] Socket server closed.
+2026-06-11 00:11:55,906 [TTS] NOVA TTS daemon stopped.
+2026-06-11 07:35:45,242 [TTS] NOVA TTS daemon starting...
+2026-06-11 07:35:51,498 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-11 07:35:51,499 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-11 07:35:51,519 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-11 07:35:52,504 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-11 07:35:53,994 [TTS] Kokoro pipeline loaded and warm.
+2026-06-11 07:35:53,994 [TTS] Speaker thread started.
+2026-06-11 07:35:53,995 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-11 07:35:53,995 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-11 07:35:54,339 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-11 09:59:58,557 [TTS] Shutdown signal received.
+2026-06-11 09:59:58,819 [TTS] Socket server closed.
+2026-06-11 09:59:58,833 [TTS] Speaker thread exiting.
+2026-06-11 09:59:58,840 [TTS] NOVA TTS daemon stopped.
+2026-06-11 23:16:25,246 [TTS] NOVA TTS daemon starting...
+2026-06-11 23:16:31,205 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-11 23:16:31,206 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-11 23:16:31,226 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-11 23:16:32,279 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-11 23:16:33,928 [TTS] Kokoro pipeline loaded and warm.
+2026-06-11 23:16:33,929 [TTS] Speaker thread started.
+2026-06-11 23:16:33,929 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-11 23:16:33,930 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-11 23:16:34,228 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-12 03:00:22,245 [TTS] Shutdown signal received.
+2026-06-12 03:00:22,642 [TTS] Speaker thread exiting.
+2026-06-12 03:00:22,787 [TTS] Socket server closed.
+2026-06-12 03:00:22,788 [TTS] NOVA TTS daemon stopped.
+2026-06-12 21:51:43,334 [TTS] NOVA TTS daemon starting...
+2026-06-12 21:51:49,300 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-12 21:51:49,300 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-12 21:51:49,331 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-12 21:51:50,196 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-12 21:51:51,804 [TTS] Kokoro pipeline loaded and warm.
+2026-06-12 21:51:51,805 [TTS] Speaker thread started.
+2026-06-12 21:51:51,806 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-12 21:51:51,806 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-12 21:51:52,083 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-13 00:37:39,027 [TTS] Shutdown signal received.
+2026-06-13 00:37:39,189 [TTS] Socket server closed.
+2026-06-13 00:37:39,357 [TTS] Speaker thread exiting.
+2026-06-13 00:37:39,384 [TTS] NOVA TTS daemon stopped.
+2026-06-13 20:34:34,475 [TTS] NOVA TTS daemon starting...
+2026-06-13 20:34:40,900 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-13 20:34:40,900 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-13 20:34:41,001 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-13 20:34:41,962 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-13 20:34:44,161 [TTS] Kokoro pipeline loaded and warm.
+2026-06-13 20:34:44,162 [TTS] Speaker thread started.
+2026-06-13 20:34:44,162 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-13 20:34:44,162 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-13 20:34:43,568 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-13 22:58:32,840 [TTS] Shutdown signal received.
+2026-06-13 22:58:33,105 [TTS] Speaker thread exiting.
+2026-06-13 22:58:33,795 [TTS] Socket server closed.
+2026-06-13 22:58:33,795 [TTS] NOVA TTS daemon stopped.
+2026-06-14 01:04:45,690 [TTS] NOVA TTS daemon starting...
+2026-06-14 01:04:52,526 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-14 01:04:52,581 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-14 01:04:53,577 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-14 01:04:53,580 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-14 01:04:55,204 [TTS] Kokoro pipeline loaded and warm.
+2026-06-14 01:04:55,205 [TTS] Speaker thread started.
+2026-06-14 01:04:55,205 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-14 01:04:55,206 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-14 01:04:55,567 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-14 02:28:44,102 [TTS] Shutdown signal received.
+2026-06-14 02:28:44,242 [TTS] Speaker thread exiting.
+2026-06-14 02:28:44,494 [TTS] Socket server closed.
+2026-06-14 02:28:44,495 [TTS] NOVA TTS daemon stopped.
+2026-06-14 23:45:11,958 [TTS] NOVA TTS daemon starting...
+2026-06-14 23:45:19,987 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-14 23:45:19,988 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-14 23:45:20,173 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-14 23:45:21,113 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-14 23:45:22,943 [TTS] Kokoro pipeline loaded and warm.
+2026-06-14 23:45:22,944 [TTS] Speaker thread started.
+2026-06-14 23:45:22,944 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-14 23:45:22,946 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-14 23:45:23,234 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-15 01:32:46,034 [TTS] NOVA TTS daemon starting...
+2026-06-15 01:32:52,554 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-15 01:32:52,573 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-15 01:32:53,488 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-15 01:32:53,490 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-15 01:32:54,921 [TTS] Kokoro pipeline loaded and warm.
+2026-06-15 01:32:54,921 [TTS] Speaker thread started.
+2026-06-15 01:32:54,921 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-15 01:32:54,921 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-15 01:32:55,144 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-15 02:50:21,508 [TTS] Shutdown signal received.
+2026-06-15 02:50:21,554 [TTS] Socket server closed.
+2026-06-15 02:50:21,734 [TTS] Speaker thread exiting.
+2026-06-15 02:50:21,773 [TTS] NOVA TTS daemon stopped.
+2026-06-16 22:35:48,042 [TTS] NOVA TTS daemon starting...
+2026-06-16 22:35:54,571 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-16 22:35:54,724 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-16 22:35:55,692 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-16 22:35:55,695 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-16 22:35:57,212 [TTS] Kokoro pipeline loaded and warm.
+2026-06-16 22:35:57,213 [TTS] Speaker thread started.
+2026-06-16 22:35:57,213 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-16 22:35:57,213 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-16 22:35:57,536 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-17 02:35:55,920 [TTS] Shutdown signal received.
+2026-06-17 02:35:55,938 [TTS] Speaker thread exiting.
+2026-06-17 02:35:56,322 [TTS] Socket server closed.
+2026-06-17 02:35:56,323 [TTS] NOVA TTS daemon stopped.
+2026-06-17 09:14:18,999 [TTS] NOVA TTS daemon starting...
+2026-06-17 09:14:25,578 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-17 09:14:25,663 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-17 09:14:26,778 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-17 09:14:26,781 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-17 09:14:28,449 [TTS] Kokoro pipeline loaded and warm.
+2026-06-17 09:14:28,450 [TTS] Speaker thread started.
+2026-06-17 09:14:28,450 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-17 09:14:28,451 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-17 09:14:28,826 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-17 15:05:45,893 [TTS] Shutdown signal received.
+2026-06-17 15:05:45,931 [TTS] Socket server closed.
+2026-06-17 15:05:46,124 [TTS] Speaker thread exiting.
+2026-06-17 15:05:46,147 [TTS] NOVA TTS daemon stopped.
+2026-06-18 22:25:28,018 [TTS] NOVA TTS daemon starting...
+2026-06-18 22:25:34,919 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-18 22:25:35,018 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-18 22:25:36,314 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-18 22:25:36,314 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-18 22:25:38,291 [TTS] Kokoro pipeline loaded and warm.
+2026-06-18 22:25:38,292 [TTS] Speaker thread started.
+2026-06-18 22:25:38,292 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-18 22:25:38,292 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-18 22:25:38,611 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-19 01:51:00,411 [TTS] Shutdown signal received.
+2026-06-19 01:51:00,596 [TTS] Speaker thread exiting.
+2026-06-19 01:51:00,627 [TTS] Socket server closed.
+2026-06-19 01:51:00,628 [TTS] NOVA TTS daemon stopped.
+2026-06-19 22:10:38,977 [TTS] NOVA TTS daemon starting...
+2026-06-19 22:10:45,939 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-19 22:10:45,940 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-19 22:10:46,294 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-19 22:10:47,333 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-19 22:10:48,995 [TTS] Kokoro pipeline loaded and warm.
+2026-06-19 22:10:48,996 [TTS] Speaker thread started.
+2026-06-19 22:10:48,997 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-19 22:10:48,998 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-19 22:10:49,417 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-20 02:20:40,921 [TTS] Shutdown signal received.
+2026-06-20 02:20:40,960 [TTS] Socket server closed.
+2026-06-20 02:20:41,022 [TTS] Speaker thread exiting.
+2026-06-20 02:20:41,039 [TTS] NOVA TTS daemon stopped.
+2026-06-20 18:02:10,975 [TTS] NOVA TTS daemon starting...
+2026-06-20 18:02:17,437 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 18:02:17,438 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-20 18:02:17,466 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-20 18:02:18,355 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-20 18:02:19,949 [TTS] Kokoro pipeline loaded and warm.
+2026-06-20 18:02:19,951 [TTS] Speaker thread started.
+2026-06-20 18:02:19,951 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-20 18:02:19,951 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-20 18:02:20,184 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-20 18:57:20,991 [TTS] Shutdown signal received.
+2026-06-20 18:57:21,212 [TTS] Speaker thread exiting.
+2026-06-20 18:57:21,223 [TTS] Socket server closed.
+2026-06-20 18:57:21,224 [TTS] NOVA TTS daemon stopped.
+2026-06-20 21:25:48,206 [TTS] NOVA TTS daemon starting...
+2026-06-20 21:25:54,586 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-20 21:25:54,586 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-20 21:25:54,606 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-20 21:25:55,653 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-20 21:25:57,231 [TTS] Kokoro pipeline loaded and warm.
+2026-06-20 21:25:57,232 [TTS] Speaker thread started.
+2026-06-20 21:25:57,232 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-20 21:25:57,233 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-20 21:25:57,599 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-20 23:11:06,328 [TTS] Shutdown signal received.
+2026-06-20 23:11:06,504 [TTS] Speaker thread exiting.
+2026-06-20 23:11:06,585 [TTS] Socket server closed.
+2026-06-20 23:11:06,586 [TTS] NOVA TTS daemon stopped.
+2026-06-21 11:25:39,897 [TTS] NOVA TTS daemon starting...
+2026-06-21 11:25:46,454 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 11:25:46,456 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-21 11:25:46,495 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-21 11:25:48,038 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-21 11:25:49,654 [TTS] Kokoro pipeline loaded and warm.
+2026-06-21 11:25:49,655 [TTS] Speaker thread started.
+2026-06-21 11:25:49,655 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-21 11:25:49,656 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-21 11:25:50,198 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-21 15:36:50,213 [TTS] Shutdown signal received.
+2026-06-21 15:36:50,582 [TTS] Socket server closed.
+2026-06-21 15:36:50,689 [TTS] Speaker thread exiting.
+2026-06-21 15:36:50,723 [TTS] NOVA TTS daemon stopped.
+2026-06-21 18:13:33,082 [TTS] NOVA TTS daemon starting...
+2026-06-21 18:13:39,566 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-21 18:13:39,585 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-21 18:13:40,494 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-21 18:13:42,427 [TTS] Kokoro pipeline loaded and warm.
+2026-06-21 18:13:42,428 [TTS] Speaker thread started.
+2026-06-21 18:13:42,428 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-21 18:13:42,429 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-21 18:13:42,748 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-22 03:31:27,029 [TTS] Shutdown signal received.
+2026-06-22 03:31:27,252 [TTS] Speaker thread exiting.
+2026-06-22 03:31:27,413 [TTS] Socket server closed.
+2026-06-22 03:31:27,413 [TTS] NOVA TTS daemon stopped.
+2026-06-22 21:59:56,188 [TTS] NOVA TTS daemon starting...
+2026-06-22 22:00:04,526 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-22 22:00:04,549 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-22 22:00:05,614 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-22 22:00:05,644 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-22 22:00:07,291 [TTS] Kokoro pipeline loaded and warm.
+2026-06-22 22:00:07,292 [TTS] Speaker thread started.
+2026-06-22 22:00:07,292 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-22 22:00:07,292 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-22 22:00:07,642 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-23 00:40:15,940 [TTS] Shutdown signal received.
+2026-06-23 00:40:16,163 [TTS] Speaker thread exiting.
+2026-06-23 00:40:16,679 [TTS] Socket server closed.
+2026-06-23 00:40:16,679 [TTS] NOVA TTS daemon stopped.
+2026-06-23 22:31:08,631 [TTS] NOVA TTS daemon starting...
+2026-06-23 22:31:15,514 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 22:31:15,515 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-23 22:31:15,565 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-23 22:31:16,579 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-23 22:31:18,179 [TTS] Kokoro pipeline loaded and warm.
+2026-06-23 22:31:18,180 [TTS] Speaker thread started.
+2026-06-23 22:31:18,181 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-23 22:31:18,181 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-23 22:31:18,545 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-23 23:56:25,777 [TTS] NOVA TTS daemon starting...
+2026-06-23 23:56:31,635 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-23 23:56:31,636 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-23 23:56:31,817 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-23 23:56:32,721 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-23 23:56:34,156 [TTS] Kokoro pipeline loaded and warm.
+2026-06-23 23:56:34,157 [TTS] Speaker thread started.
+2026-06-23 23:56:34,158 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-23 23:56:34,158 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-23 23:56:34,462 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-24 00:11:12,442 [TTS] Shutdown signal received.
+2026-06-24 00:11:12,659 [TTS] Speaker thread exiting.
+2026-06-24 00:11:13,071 [TTS] Socket server closed.
+2026-06-24 00:11:13,071 [TTS] NOVA TTS daemon stopped.
+2026-06-24 01:52:14,928 [TTS] NOVA TTS daemon starting...
+2026-06-24 01:52:21,472 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-24 01:52:21,491 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-24 01:52:22,454 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-24 01:52:22,485 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-24 01:52:24,247 [TTS] Kokoro pipeline loaded and warm.
+2026-06-24 01:52:24,248 [TTS] Speaker thread started.
+2026-06-24 01:52:24,248 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-24 01:52:24,249 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-24 01:52:24,551 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-24 05:16:33,155 [TTS] Shutdown signal received.
+2026-06-24 05:16:33,375 [TTS] Speaker thread exiting.
+2026-06-24 05:16:33,970 [TTS] Socket server closed.
+2026-06-24 05:16:33,970 [TTS] NOVA TTS daemon stopped.
+2026-06-24 21:41:14,087 [TTS] NOVA TTS daemon starting...
+2026-06-24 21:41:20,699 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-24 21:41:20,700 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-24 21:41:20,720 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-24 21:41:21,593 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-24 21:41:23,747 [TTS] Kokoro pipeline loaded and warm.
+2026-06-24 21:41:23,748 [TTS] Speaker thread started.
+2026-06-24 21:41:23,748 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-24 21:41:23,749 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-24 21:41:24,191 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-25 00:20:24,915 [TTS] Shutdown signal received.
+2026-06-25 00:20:24,976 [TTS] Socket server closed.
+2026-06-25 00:20:25,034 [TTS] Speaker thread exiting.
+2026-06-25 00:20:25,064 [TTS] NOVA TTS daemon stopped.
+2026-06-25 13:57:49,219 [TTS] NOVA TTS daemon starting...
+2026-06-25 13:57:57,936 [TTS] Kokoro pipeline loaded and warm.
+2026-06-25 13:57:57,939 [TTS] Speaker thread started.
+2026-06-25 13:57:57,939 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-25 13:57:57,940 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-25 14:20:50,237 [TTS] Shutdown signal received.
+2026-06-25 14:20:50,329 [TTS] Socket server closed.
+2026-06-25 14:20:50,576 [TTS] Speaker thread exiting.
+2026-06-25 14:20:50,581 [TTS] NOVA TTS daemon stopped.
+2026-06-25 15:32:12,978 [TTS] NOVA TTS daemon starting...
+2026-06-25 15:32:19,305 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-25 15:32:19,362 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-25 15:32:20,353 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-25 15:32:20,356 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-25 15:32:22,491 [TTS] Kokoro pipeline loaded and warm.
+2026-06-25 15:32:22,492 [TTS] Speaker thread started.
+2026-06-25 15:32:22,492 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-25 15:32:22,492 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-25 15:32:22,800 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-25 16:48:43,788 [TTS] Shutdown signal received.
+2026-06-25 16:48:44,265 [TTS] Speaker thread exiting.
+2026-06-25 16:48:44,294 [TTS] Socket server closed.
+2026-06-25 16:48:44,295 [TTS] NOVA TTS daemon stopped.
+2026-06-25 19:56:51,570 [TTS] NOVA TTS daemon starting...
+2026-06-25 19:56:57,972 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-25 19:56:57,973 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-25 19:56:58,005 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-25 19:56:59,146 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-25 19:57:01,075 [TTS] Kokoro pipeline loaded and warm.
+2026-06-25 19:57:01,076 [TTS] Speaker thread started.
+2026-06-25 19:57:01,077 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-25 19:57:01,076 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-25 19:57:01,309 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-25 20:32:53,813 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-25 20:32:53,814 [TTS] Speaking (p0): Sir, available memory is low at 2.8 gigabytes.
+2026-06-25 20:33:08,827 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-25 20:33:08,827 [TTS] Speaking (p0): Sir, available memory is low at 3.2 gigabytes.
+2026-06-25 20:33:38,863 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-25 20:33:38,863 [TTS] Speaking (p0): Sir, available memory is low at 4.6 gigabytes.
+2026-06-25 20:33:53,886 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-25 20:33:53,886 [TTS] Speaking (p0): Sir, available memory is low at 2.9 gigabytes.
+2026-06-25 20:34:08,911 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-25 20:34:08,911 [TTS] Speaking (p0): Sir, available memory is low at 4.7 gigabytes.
+2026-06-25 20:34:23,933 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-25 20:34:23,933 [TTS] Speaking (p0): Sir, available memory is low at 4.7 gigabytes.
+2026-06-25 23:36:19,970 [TTS] Shutdown signal received.
+2026-06-25 23:36:19,974 [TTS] Socket server closed.
+2026-06-25 23:36:20,320 [TTS] Speaker thread exiting.
+2026-06-25 23:36:20,332 [TTS] NOVA TTS daemon stopped.
+2026-06-26 10:09:34,605 [TTS] NOVA TTS daemon starting...
+2026-06-26 10:09:42,814 [TTS] Kokoro pipeline loaded and warm.
+2026-06-26 10:09:42,817 [TTS] Speaker thread started.
+2026-06-26 10:09:42,818 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-26 10:09:42,819 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-26 10:52:12,454 [TTS] Shutdown signal received.
+2026-06-26 10:52:12,505 [TTS] Socket server closed.
+2026-06-26 10:52:12,641 [TTS] Speaker thread exiting.
+2026-06-26 10:52:12,647 [TTS] NOVA TTS daemon stopped.
+2026-06-26 20:41:43,683 [TTS] NOVA TTS daemon starting...
+2026-06-26 20:41:50,101 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-26 20:41:50,102 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-26 20:41:50,121 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-26 20:41:50,759 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-26 20:41:52,353 [TTS] Kokoro pipeline loaded and warm.
+2026-06-26 20:41:52,354 [TTS] Speaker thread started.
+2026-06-26 20:41:52,355 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-26 20:41:52,355 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-26 20:41:52,704 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-27 02:31:16,347 [TTS] Shutdown signal received.
+2026-06-27 02:31:16,459 [TTS] Speaker thread exiting.
+2026-06-27 02:31:16,553 [TTS] Socket server closed.
+2026-06-27 02:31:16,555 [TTS] NOVA TTS daemon stopped.
+2026-06-27 08:48:35,831 [TTS] NOVA TTS daemon starting...
+2026-06-27 08:48:42,397 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-27 08:48:42,397 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-27 08:48:42,417 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-27 08:48:43,312 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-27 08:48:44,709 [TTS] Kokoro pipeline loaded and warm.
+2026-06-27 08:48:44,709 [TTS] Speaker thread started.
+2026-06-27 08:48:44,709 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-27 08:48:44,710 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-27 08:48:44,929 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-27 08:53:23,122 [TTS] Shutdown signal received.
+2026-06-27 08:53:23,313 [TTS] Speaker thread exiting.
+2026-06-27 08:53:24,020 [TTS] Socket server closed.
+2026-06-27 08:53:24,021 [TTS] NOVA TTS daemon stopped.
+2026-06-27 21:07:41,109 [TTS] NOVA TTS daemon starting...
+2026-06-27 21:07:47,556 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-27 21:07:47,583 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-27 21:07:48,555 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-27 21:07:48,556 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-27 21:07:50,414 [TTS] Kokoro pipeline loaded and warm.
+2026-06-27 21:07:50,415 [TTS] Speaker thread started.
+2026-06-27 21:07:50,415 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-27 21:07:50,415 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-27 21:07:50,652 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-27 21:20:11,803 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-27 21:20:11,803 [TTS] Speaking (p0): Sir, available memory is low at 4.7 gigabytes.
+2026-06-27 21:20:26,819 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-27 21:20:26,819 [TTS] Speaking (p0): Sir, available memory is low at 4.1 gigabytes.
+2026-06-27 21:20:41,836 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-27 21:20:41,836 [TTS] Speaking (p0): Sir, available memory is low at 3.6 gigabytes.
+2026-06-27 21:20:56,854 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-27 21:20:56,854 [TTS] Speaking (p0): Sir, available memory is low at 3.0 gigabytes.
+2026-06-27 21:21:11,873 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-27 21:21:11,873 [TTS] Speaking (p0): Sir, available memory is low at 2.7 gigabytes.
+2026-06-27 23:44:35,034 [TTS] NOVA TTS daemon starting...
+2026-06-27 23:44:41,519 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-27 23:44:41,520 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-27 23:44:41,539 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-27 23:44:42,556 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-27 23:44:44,221 [TTS] Kokoro pipeline loaded and warm.
+2026-06-27 23:44:44,222 [TTS] Speaker thread started.
+2026-06-27 23:44:44,222 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-27 23:44:44,222 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-27 23:44:44,447 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-28 01:05:31,604 [TTS] Shutdown signal received.
+2026-06-28 01:05:31,997 [TTS] Socket server closed.
+2026-06-28 01:05:32,104 [TTS] Speaker thread exiting.
+2026-06-28 01:05:32,128 [TTS] NOVA TTS daemon stopped.
+2026-06-28 10:42:31,431 [TTS] NOVA TTS daemon starting...
+2026-06-28 10:42:38,487 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-28 10:42:38,488 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-28 10:42:38,510 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-28 10:42:39,631 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-28 10:42:42,664 [TTS] Kokoro pipeline loaded and warm.
+2026-06-28 10:42:42,665 [TTS] Speaker thread started.
+2026-06-28 10:42:42,666 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-28 10:42:42,666 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-28 10:42:42,928 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-28 19:07:32,806 [TTS] Shutdown signal received.
+2026-06-28 19:07:33,089 [TTS] Socket server closed.
+2026-06-28 19:07:33,164 [TTS] Speaker thread exiting.
+2026-06-28 19:07:33,170 [TTS] NOVA TTS daemon stopped.
+2026-06-29 00:53:39,854 [TTS] NOVA TTS daemon starting...
+2026-06-29 00:53:47,690 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-29 00:53:47,691 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-29 00:53:47,720 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-29 00:53:48,714 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-29 00:53:50,489 [TTS] Kokoro pipeline loaded and warm.
+2026-06-29 00:53:50,490 [TTS] Speaker thread started.
+2026-06-29 00:53:50,491 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-29 00:53:50,492 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-29 00:53:50,736 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-29 03:18:40,852 [TTS] Shutdown signal received.
+2026-06-29 03:18:40,907 [TTS] Speaker thread exiting.
+2026-06-29 03:18:41,168 [TTS] Socket server closed.
+2026-06-29 03:18:41,169 [TTS] NOVA TTS daemon stopped.
+2026-06-29 09:55:43,194 [TTS] NOVA TTS daemon starting...
+2026-06-29 09:55:50,277 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-29 09:55:50,278 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-29 09:55:50,533 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-29 09:55:51,777 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-29 09:55:53,310 [TTS] Kokoro pipeline loaded and warm.
+2026-06-29 09:55:53,311 [TTS] Speaker thread started.
+2026-06-29 09:55:53,311 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-29 09:55:53,311 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-29 09:55:54,051 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-29 11:12:57,267 [TTS] Shutdown signal received.
+2026-06-29 11:12:57,517 [TTS] Speaker thread exiting.
+2026-06-29 11:12:57,958 [TTS] Socket server closed.
+2026-06-29 11:12:57,958 [TTS] NOVA TTS daemon stopped.
+2026-06-29 14:32:32,400 [TTS] NOVA TTS daemon starting...
+2026-06-29 14:32:49,564 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-29 14:32:49,564 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-29 14:32:50,071 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-29 14:32:51,478 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-29 14:32:53,082 [TTS] Kokoro pipeline loaded and warm.
+2026-06-29 14:32:53,083 [TTS] Speaker thread started.
+2026-06-29 14:32:53,084 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-29 14:32:53,084 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-29 14:32:54,094 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-29 20:30:36,011 [TTS] NOVA TTS daemon starting...
+2026-06-29 20:30:42,283 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-29 20:30:42,284 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-29 20:30:42,302 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-29 20:30:43,346 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-29 20:30:44,667 [TTS] Kokoro pipeline loaded and warm.
+2026-06-29 20:30:44,668 [TTS] Speaker thread started.
+2026-06-29 20:30:44,668 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-29 20:30:44,668 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-29 20:30:44,983 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-29 22:50:44,934 [TTS] Shutdown signal received.
+2026-06-29 22:50:45,291 [TTS] Speaker thread exiting.
+2026-06-29 22:50:45,579 [TTS] Socket server closed.
+2026-06-29 22:50:45,580 [TTS] NOVA TTS daemon stopped.
+2026-06-30 09:15:18,995 [TTS] NOVA TTS daemon starting...
+2026-06-30 09:15:26,048 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-30 09:15:26,074 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-30 09:15:27,116 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-30 09:15:27,119 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-30 09:15:28,955 [TTS] Kokoro pipeline loaded and warm.
+2026-06-30 09:15:28,956 [TTS] Speaker thread started.
+2026-06-30 09:15:28,957 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-30 09:15:28,957 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-30 09:15:29,175 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-30 11:30:43,528 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:30:43,529 [TTS] Speaking (p0): Sir, available memory is low at 4.6 gigabytes.
+2026-06-30 11:30:58,564 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:30:58,564 [TTS] Speaking (p0): Sir, available memory is low at 3.8 gigabytes.
+2026-06-30 11:31:13,580 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:31:13,581 [TTS] Speaking (p0): Sir, available memory is low at 3.8 gigabytes.
+2026-06-30 11:31:28,603 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:31:28,603 [TTS] Speaking (p0): Sir, available memory is low at 3.6 gigabytes.
+2026-06-30 11:31:43,631 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:31:43,631 [TTS] Speaking (p0): Sir, available memory is low at 4.1 gigabytes.
+2026-06-30 11:31:58,653 [TTS] Speaking (p0): Sir, available memory is low at 4.0 gigabytes.
+2026-06-30 11:31:58,653 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:32:13,709 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:32:13,710 [TTS] Speaking (p0): Sir, available memory is low at 3.8 gigabytes.
+2026-06-30 11:32:28,737 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:32:28,738 [TTS] Speaking (p0): Sir, available memory is low at 3.8 gigabytes.
+2026-06-30 11:32:43,766 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:32:43,766 [TTS] Speaking (p0): Sir, available memory is low at 3.7 gigabytes.
+2026-06-30 11:32:58,787 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:32:58,787 [TTS] Speaking (p0): Sir, available memory is low at 4.1 gigabytes.
+2026-06-30 11:33:13,808 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:33:13,808 [TTS] Speaking (p0): Sir, available memory is low at 3.8 gigabytes.
+2026-06-30 11:33:28,828 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:33:28,828 [TTS] Speaking (p0): Sir, available memory is low at 4.6 gigabytes.
+2026-06-30 11:33:43,870 [TTS] Speaking (p0): Sir, available memory is low at 4.4 gigabytes.
+2026-06-30 11:33:43,870 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:33:58,902 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:33:58,902 [TTS] Speaking (p0): Sir, available memory is low at 4.5 gigabytes.
+2026-06-30 11:34:13,920 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:34:13,920 [TTS] Speaking (p0): Sir, available memory is low at 4.5 gigabytes.
+2026-06-30 11:34:28,945 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:34:28,946 [TTS] Speaking (p0): Sir, available memory is low at 4.4 gigabytes.
+2026-06-30 11:34:43,963 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:34:43,963 [TTS] Speaking (p0): Sir, available memory is low at 4.5 gigabytes.
+2026-06-30 11:34:59,010 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:34:59,011 [TTS] Speaking (p0): Sir, available memory is low at 4.3 gigabytes.
+2026-06-30 11:35:29,064 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:35:29,065 [TTS] Speaking (p0): Sir, available memory is low at 4.3 gigabytes.
+2026-06-30 11:35:44,093 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:35:44,093 [TTS] Speaking (p0): Sir, available memory is low at 3.2 gigabytes.
+2026-06-30 11:35:59,111 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:35:59,111 [TTS] Speaking (p0): Sir, available memory is low at 3.1 gigabytes.
+2026-06-30 11:36:14,152 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:36:14,152 [TTS] Speaking (p0): Sir, available memory is low at 3.2 gigabytes.
+2026-06-30 11:36:29,174 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:36:29,174 [TTS] Speaking (p0): Sir, available memory is low at 3.2 gigabytes.
+2026-06-30 11:36:44,192 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:36:44,192 [TTS] Speaking (p0): Sir, available memory is low at 2.8 gigabytes.
+2026-06-30 11:36:59,212 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:36:59,212 [TTS] Speaking (p0): Sir, available memory is low at 3.2 gigabytes.
+2026-06-30 11:37:14,239 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:37:14,239 [TTS] Speaking (p0): Sir, available memory is low at 3.1 gigabytes.
+2026-06-30 11:37:29,256 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:37:29,256 [TTS] Speaking (p0): Sir, available memory is low at 2.8 gigabytes.
+2026-06-30 11:37:44,275 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:37:44,275 [TTS] Speaking (p0): Sir, available memory is low at 3.2 gigabytes.
+2026-06-30 11:37:59,298 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:37:59,298 [TTS] Speaking (p0): Sir, available memory is low at 3.5 gigabytes.
+2026-06-30 11:38:14,315 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:38:14,315 [TTS] Speaking (p0): Sir, available memory is low at 3.3 gigabytes.
+2026-06-30 11:38:29,374 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:38:29,374 [TTS] Speaking (p0): Sir, available memory is low at 3.3 gigabytes.
+2026-06-30 11:38:44,390 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:38:44,391 [TTS] Speaking (p0): Sir, available memory is low at 3.3 gigabytes.
+2026-06-30 11:38:59,419 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:38:59,419 [TTS] Speaking (p0): Sir, available memory is low at 3.4 gigabytes.
+2026-06-30 11:39:14,437 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:39:14,437 [TTS] Speaking (p0): Sir, available memory is low at 3.1 gigabytes.
+2026-06-30 11:39:29,472 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:39:29,472 [TTS] Speaking (p0): Sir, available memory is low at 3.6 gigabytes.
+2026-06-30 11:39:44,487 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:39:44,487 [TTS] Speaking (p0): Sir, available memory is low at 4.4 gigabytes.
+2026-06-30 11:39:59,514 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:39:59,514 [TTS] Speaking (p0): Sir, available memory is low at 4.2 gigabytes.
+2026-06-30 11:46:00,159 [TTS] Speaking (p0): Sir, available memory is low at 3.5 gigabytes.
+2026-06-30 11:46:00,159 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:46:15,176 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:46:15,176 [TTS] Speaking (p0): Sir, available memory is low at 3.0 gigabytes.
+2026-06-30 11:46:30,196 [TTS] Speaking (p0): Sir, available memory is low at 2.6 gigabytes.
+2026-06-30 11:46:30,196 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:46:45,242 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:46:45,242 [TTS] Speaking (p0): Sir, available memory is low at 2.3 gigabytes.
+2026-06-30 11:47:00,289 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:47:00,289 [TTS] Speaking (p0): Sir, available memory is low at 2.2 gigabytes.
+2026-06-30 11:47:15,324 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:47:15,324 [TTS] Speaking (p0): Sir, available memory is low at 1.0 gigabytes.
+2026-06-30 11:47:39,918 [TTS] Speaking (p0): Sir, available memory is low at 0.3 gigabytes.
+2026-06-30 11:47:40,078 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:48:13,956 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:48:41,564 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 11:51:26,931 [TTS] NOVA TTS daemon starting...
+2026-06-30 11:51:34,993 [TTS] Kokoro pipeline loaded and warm.
+2026-06-30 11:51:34,995 [TTS] Speaker thread started.
+2026-06-30 11:51:34,995 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-30 11:51:34,995 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-30 12:09:28,318 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:09:28,319 [TTS] Speaking (p0): Sir, available memory is low at 4.9 gigabytes.
+2026-06-30 12:09:43,335 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:09:43,335 [TTS] Speaking (p0): Sir, available memory is low at 3.5 gigabytes.
+2026-06-30 12:09:58,388 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:09:58,389 [TTS] Speaking (p0): Sir, available memory is low at 2.4 gigabytes.
+2026-06-30 12:10:13,406 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:10:13,406 [TTS] Speaking (p0): Sir, available memory is low at 2.4 gigabytes.
+2026-06-30 12:10:28,424 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:10:28,424 [TTS] Speaking (p0): Sir, available memory is low at 2.2 gigabytes.
+2026-06-30 12:10:43,442 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:10:43,442 [TTS] Speaking (p0): Sir, available memory is low at 1.4 gigabytes.
+2026-06-30 12:10:58,475 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:10:58,475 [TTS] Speaking (p0): Sir, available memory is low at 1.1 gigabytes.
+2026-06-30 12:11:20,296 [TTS] Speaking (p0): Sir, available memory is low at 0.2 gigabytes.
+2026-06-30 12:11:20,309 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:11:45,649 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:12:00,017 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:12:15,355 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:12:31,136 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:12:46,495 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:13:01,527 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:13:02,276 [TTS] Speaking (p0): Sir, available memory is low at 0.3 gigabytes.
+2026-06-30 12:13:09,269 [TTS] Speaking (p0): Sir, available memory is low at 0.2 gigabytes.
+2026-06-30 12:13:16,559 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:13:16,730 [TTS] Speaking (p0): Sir, available memory is low at 0.2 gigabytes.
+2026-06-30 12:13:23,344 [TTS] Speaking (p0): Sir, available memory is low at 0.2 gigabytes.
+2026-06-30 12:13:29,785 [TTS] Speaking (p0): Sir, available memory is low at 0.2 gigabytes.
+2026-06-30 12:13:31,584 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:13:36,185 [TTS] Speaking (p0): Sir, available memory is low at 0.4 gigabytes.
+2026-06-30 12:13:42,841 [TTS] Speaking (p0): Sir, available memory is low at 0.7 gigabytes.
+2026-06-30 12:13:46,614 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:13:49,455 [TTS] Speaking (p0): Sir, available memory is low at 0.8 gigabytes.
+2026-06-30 12:13:56,025 [TTS] Speaking (p0): Sir, available memory is low at 0.8 gigabytes.
+2026-06-30 12:14:01,639 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:14:02,468 [TTS] Speaking (p0): Sir, available memory is low at 2.1 gigabytes.
+2026-06-30 12:14:16,718 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:14:16,718 [TTS] Speaking (p0): Sir, available memory is low at 0.8 gigabytes.
+2026-06-30 12:14:31,745 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:14:31,746 [TTS] Speaking (p0): Sir, available memory is low at 0.5 gigabytes.
+2026-06-30 12:14:46,772 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:14:46,772 [TTS] Speaking (p0): Sir, available memory is low at 3.0 gigabytes.
+2026-06-30 12:15:01,796 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:15:01,796 [TTS] Speaking (p0): Sir, available memory is low at 4.4 gigabytes.
+2026-06-30 12:15:16,818 [TTS] Client error: [Errno 32] Broken pipe
+2026-06-30 12:15:16,818 [TTS] Speaking (p0): Sir, available memory is low at 4.4 gigabytes.
+2026-06-30 12:22:19,042 [TTS] Shutdown signal received.
+2026-06-30 12:22:19,242 [TTS] Speaker thread exiting.
+2026-06-30 12:22:19,327 [TTS] Socket server closed.
+2026-06-30 12:22:19,327 [TTS] NOVA TTS daemon stopped.
+2026-06-30 17:55:02,944 [TTS] NOVA TTS daemon starting...
+2026-06-30 17:55:09,758 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-30 17:55:09,780 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-30 17:55:10,697 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-30 17:55:10,699 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-30 17:55:13,237 [TTS] Kokoro pipeline loaded and warm.
+2026-06-30 17:55:13,238 [TTS] Speaker thread started.
+2026-06-30 17:55:13,238 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-30 17:55:13,239 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-30 17:55:13,462 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-06-30 20:05:44,936 [TTS] Shutdown signal received.
+2026-06-30 20:05:45,212 [TTS] Speaker thread exiting.
+2026-06-30 20:05:45,420 [TTS] Socket server closed.
+2026-06-30 20:05:45,420 [TTS] NOVA TTS daemon stopped.
+2026-06-30 23:10:47,887 [TTS] NOVA TTS daemon starting...
+2026-06-30 23:10:54,371 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-06-30 23:10:54,372 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-06-30 23:10:54,444 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-06-30 23:10:55,467 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-06-30 23:10:56,967 [TTS] Kokoro pipeline loaded and warm.
+2026-06-30 23:10:56,968 [TTS] Speaker thread started.
+2026-06-30 23:10:56,968 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-06-30 23:10:56,969 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-06-30 23:10:57,369 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-01 00:13:20,333 [TTS] Shutdown signal received.
+2026-07-01 00:13:20,489 [TTS] Socket server closed.
+2026-07-01 00:13:20,775 [TTS] Speaker thread exiting.
+2026-07-01 00:13:20,795 [TTS] NOVA TTS daemon stopped.
+2026-07-01 09:09:57,523 [TTS] NOVA TTS daemon starting...
+2026-07-01 09:10:04,249 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-01 09:10:04,249 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-01 09:10:04,268 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-01 09:10:05,120 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-01 09:10:06,479 [TTS] Kokoro pipeline loaded and warm.
+2026-07-01 09:10:06,481 [TTS] Speaker thread started.
+2026-07-01 09:10:06,481 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-01 09:10:06,481 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-01 09:10:06,819 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-01 16:57:46,915 [TTS] Shutdown signal received.
+2026-07-01 16:57:46,918 [TTS] Socket server closed.
+2026-07-01 16:57:47,127 [TTS] Speaker thread exiting.
+2026-07-01 16:57:47,148 [TTS] NOVA TTS daemon stopped.
+2026-07-01 20:08:06,769 [TTS] NOVA TTS daemon starting...
+2026-07-01 20:08:13,564 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-01 20:08:13,590 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-01 20:08:14,612 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-01 20:08:16,205 [TTS] Kokoro pipeline loaded and warm.
+2026-07-01 20:08:16,206 [TTS] Speaker thread started.
+2026-07-01 20:08:16,206 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-01 20:08:16,206 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-01 20:08:16,454 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-01 22:41:46,277 [TTS] Shutdown signal received.
+2026-07-01 22:41:46,289 [TTS] Speaker thread exiting.
+2026-07-01 22:41:46,596 [TTS] Socket server closed.
+2026-07-01 22:41:46,597 [TTS] NOVA TTS daemon stopped.
+2026-07-02 09:05:01,598 [TTS] NOVA TTS daemon starting...
+2026-07-02 09:05:09,848 [TTS] Kokoro pipeline loaded and warm.
+2026-07-02 09:05:09,851 [TTS] Speaker thread started.
+2026-07-02 09:05:09,851 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-02 09:05:09,852 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-02 15:05:32,653 [TTS] Shutdown signal received.
+2026-07-02 15:05:32,942 [TTS] Speaker thread exiting.
+2026-07-02 15:05:33,210 [TTS] Socket server closed.
+2026-07-02 15:05:33,212 [TTS] NOVA TTS daemon stopped.
+2026-07-02 17:18:58,364 [TTS] NOVA TTS daemon starting...
+2026-07-02 17:19:05,122 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-02 17:19:05,123 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-02 17:19:05,142 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-02 17:19:06,123 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-02 17:19:07,747 [TTS] Kokoro pipeline loaded and warm.
+2026-07-02 17:19:07,748 [TTS] Speaker thread started.
+2026-07-02 17:19:07,748 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-02 17:19:07,749 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-02 17:19:08,063 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-02 21:45:38,537 [TTS] NOVA TTS daemon starting...
+2026-07-02 21:45:46,870 [TTS] Kokoro pipeline loaded and warm.
+2026-07-02 21:45:46,873 [TTS] Speaker thread started.
+2026-07-02 21:45:46,873 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-02 21:45:46,873 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-03 04:27:19,350 [TTS] NOVA TTS daemon starting...
+2026-07-03 04:27:25,333 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-03 04:27:25,351 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-03 04:27:26,248 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-03 04:27:26,248 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-03 04:27:27,873 [TTS] Kokoro pipeline loaded and warm.
+2026-07-03 04:27:27,874 [TTS] Speaker thread started.
+2026-07-03 04:27:27,875 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-03 04:27:27,875 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-03 04:27:28,202 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-03 06:41:00,898 [TTS] Shutdown signal received.
+2026-07-03 06:41:01,199 [TTS] Socket server closed.
+2026-07-03 06:41:01,340 [TTS] Speaker thread exiting.
+2026-07-03 06:41:01,370 [TTS] NOVA TTS daemon stopped.
+2026-07-03 11:47:05,972 [TTS] NOVA TTS daemon starting...
+2026-07-03 11:47:12,677 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-03 11:47:12,677 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-03 11:47:12,695 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-03 11:47:13,594 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-03 11:47:15,247 [TTS] Kokoro pipeline loaded and warm.
+2026-07-03 11:47:15,247 [TTS] Speaker thread started.
+2026-07-03 11:47:15,248 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-03 11:47:15,248 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-03 11:47:15,484 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-03 14:31:33,570 [TTS] Shutdown signal received.
+2026-07-03 14:31:33,849 [TTS] Speaker thread exiting.
+2026-07-03 14:31:34,173 [TTS] Socket server closed.
+2026-07-03 14:31:34,173 [TTS] NOVA TTS daemon stopped.
+2026-07-03 20:27:46,283 [TTS] NOVA TTS daemon starting...
+2026-07-03 20:27:53,823 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-03 20:27:53,882 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-03 20:27:55,188 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-03 20:27:55,190 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-03 20:27:56,796 [TTS] Kokoro pipeline loaded and warm.
+2026-07-03 20:27:56,797 [TTS] Speaker thread started.
+2026-07-03 20:27:56,797 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-03 20:27:56,798 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-03 20:27:57,056 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-03 21:43:39,369 [TTS] NOVA TTS daemon starting...
+2026-07-03 21:43:46,277 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-03 21:43:46,335 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-03 21:43:47,316 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-03 21:43:47,319 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-03 21:43:48,729 [TTS] Kokoro pipeline loaded and warm.
+2026-07-03 21:43:48,730 [TTS] Speaker thread started.
+2026-07-03 21:43:48,730 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-03 21:43:48,731 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-03 21:43:49,023 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-03 23:46:31,827 [TTS] Shutdown signal received.
+2026-07-03 23:46:32,268 [TTS] Speaker thread exiting.
+2026-07-03 23:46:32,659 [TTS] Socket server closed.
+2026-07-03 23:46:32,660 [TTS] NOVA TTS daemon stopped.
+2026-07-04 09:21:12,265 [TTS] NOVA TTS daemon starting...
+2026-07-04 09:21:18,880 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-04 09:21:18,937 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-04 09:21:19,826 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-04 09:21:21,322 [TTS] Kokoro pipeline loaded and warm.
+2026-07-04 09:21:21,323 [TTS] Speaker thread started.
+2026-07-04 09:21:21,323 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-04 09:21:21,324 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-04 09:21:21,600 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-04 09:21:21,601 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-04 13:02:54,264 [TTS] Shutdown signal received.
+2026-07-04 13:02:54,496 [TTS] Speaker thread exiting.
+2026-07-04 13:02:54,609 [TTS] Socket server closed.
+2026-07-04 13:02:54,609 [TTS] NOVA TTS daemon stopped.
+2026-07-04 18:08:42,472 [TTS] NOVA TTS daemon starting...
+2026-07-04 18:08:48,996 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-04 18:08:49,021 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-04 18:08:50,234 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-04 18:08:50,236 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-04 18:08:51,742 [TTS] Kokoro pipeline loaded and warm.
+2026-07-04 18:08:51,743 [TTS] Speaker thread started.
+2026-07-04 18:08:51,743 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-04 18:08:51,744 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-04 18:08:51,993 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-04 18:49:25,251 [TTS] NOVA TTS daemon starting...
+2026-07-04 18:49:31,464 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-04 18:49:31,464 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-04 18:49:31,508 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-04 18:49:32,471 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-04 18:49:33,953 [TTS] Kokoro pipeline loaded and warm.
+2026-07-04 18:49:33,954 [TTS] Speaker thread started.
+2026-07-04 18:49:33,954 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-04 18:49:33,954 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-04 18:49:34,288 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-04 18:55:45,549 [TTS] Shutdown signal received.
+2026-07-04 18:55:45,572 [TTS] Speaker thread exiting.
+2026-07-04 18:55:45,837 [TTS] Socket server closed.
+2026-07-04 18:55:45,838 [TTS] NOVA TTS daemon stopped.
+2026-07-04 18:56:31,473 [TTS] NOVA TTS daemon starting...
+2026-07-04 18:56:37,512 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-04 18:56:37,513 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-04 18:56:37,666 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-04 18:56:38,728 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-04 18:56:40,354 [TTS] Kokoro pipeline loaded and warm.
+2026-07-04 18:56:40,355 [TTS] Speaker thread started.
+2026-07-04 18:56:40,355 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-04 18:56:40,355 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-04 18:56:40,671 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-04 18:58:28,292 [TTS] NOVA TTS daemon starting...
+2026-07-04 18:58:35,965 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-04 18:58:35,983 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-04 18:58:37,017 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-04 18:58:37,018 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-04 18:58:39,574 [TTS] Kokoro pipeline loaded and warm.
+2026-07-04 18:58:39,575 [TTS] Speaker thread started.
+2026-07-04 18:58:39,576 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-04 18:58:39,577 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-04 18:58:39,814 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-04 23:41:38,442 [TTS] Shutdown signal received.
+2026-07-04 23:41:38,876 [TTS] Speaker thread exiting.
+2026-07-04 23:41:39,333 [TTS] Socket server closed.
+2026-07-04 23:41:39,334 [TTS] NOVA TTS daemon stopped.
+2026-07-05 11:26:00,117 [TTS] NOVA TTS daemon starting...
+2026-07-05 11:26:06,937 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-05 11:26:06,937 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-05 11:26:06,959 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-05 11:26:07,929 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-05 11:26:10,004 [TTS] Kokoro pipeline loaded and warm.
+2026-07-05 11:26:10,005 [TTS] Speaker thread started.
+2026-07-05 11:26:10,005 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-05 11:26:10,006 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-05 11:26:10,360 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-05 17:55:08,672 [TTS] NOVA TTS daemon starting...
+2026-07-05 17:55:15,420 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-05 17:55:15,420 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-05 17:55:15,514 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-05 17:55:16,414 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-05 17:55:17,833 [TTS] Kokoro pipeline loaded and warm.
+2026-07-05 17:55:17,834 [TTS] Speaker thread started.
+2026-07-05 17:55:17,834 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-05 17:55:17,834 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-05 17:55:18,211 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-05 22:26:49,447 [TTS] Shutdown signal received.
+2026-07-05 22:26:49,577 [TTS] Speaker thread exiting.
+2026-07-05 22:26:49,609 [TTS] Socket server closed.
+2026-07-05 22:26:49,610 [TTS] NOVA TTS daemon stopped.
+2026-07-06 09:34:55,505 [TTS] NOVA TTS daemon starting...
+2026-07-06 09:35:01,891 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-06 09:35:01,914 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-06 09:35:02,953 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-06 09:35:02,955 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-06 09:35:04,970 [TTS] Kokoro pipeline loaded and warm.
+2026-07-06 09:35:04,971 [TTS] Speaker thread started.
+2026-07-06 09:35:04,971 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-06 09:35:04,971 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-06 09:35:05,310 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-06 15:01:20,770 [TTS] Shutdown signal received.
+2026-07-06 15:01:21,156 [TTS] Speaker thread exiting.
+2026-07-06 15:01:21,472 [TTS] Socket server closed.
+2026-07-06 15:01:21,473 [TTS] NOVA TTS daemon stopped.
+2026-07-06 18:47:50,875 [TTS] NOVA TTS daemon starting...
+2026-07-06 18:48:02,444 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-06 18:48:02,444 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-06 18:48:02,469 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-06 18:48:03,463 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-06 18:48:05,107 [TTS] Kokoro pipeline loaded and warm.
+2026-07-06 18:48:05,108 [TTS] Speaker thread started.
+2026-07-06 18:48:05,108 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-06 18:48:05,108 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-06 18:48:05,371 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-06 23:12:44,804 [TTS] Shutdown signal received.
+2026-07-06 23:12:45,045 [TTS] Socket server closed.
+2026-07-06 23:12:45,285 [TTS] Speaker thread exiting.
+2026-07-06 23:12:45,311 [TTS] NOVA TTS daemon stopped.
+2026-07-07 00:31:40,808 [TTS] NOVA TTS daemon starting...
+2026-07-07 00:31:48,370 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-07 00:31:48,371 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-07 00:31:48,551 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-07 00:31:50,079 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-07 00:31:51,748 [TTS] Kokoro pipeline loaded and warm.
+2026-07-07 00:31:51,749 [TTS] Speaker thread started.
+2026-07-07 00:31:51,749 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-07 00:31:51,751 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-07 00:31:52,099 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-07 02:01:16,869 [TTS] NOVA TTS daemon starting...
+2026-07-07 02:01:23,279 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-07 02:01:23,280 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-07 02:01:23,301 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-07 02:01:24,760 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-07 02:01:26,560 [TTS] Kokoro pipeline loaded and warm.
+2026-07-07 02:01:26,561 [TTS] Speaker thread started.
+2026-07-07 02:01:26,561 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-07 02:01:26,562 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-07 02:01:26,797 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-07 03:23:51,527 [TTS] Shutdown signal received.
+2026-07-07 03:23:51,625 [TTS] Speaker thread exiting.
+2026-07-07 03:23:52,143 [TTS] Socket server closed.
+2026-07-07 03:23:52,144 [TTS] NOVA TTS daemon stopped.
+2026-07-07 17:45:49,821 [TTS] NOVA TTS daemon starting...
+2026-07-07 17:45:56,445 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-07 17:45:56,446 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-07 17:45:56,470 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-07 17:45:57,455 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-07 17:45:59,149 [TTS] Kokoro pipeline loaded and warm.
+2026-07-07 17:45:59,150 [TTS] Speaker thread started.
+2026-07-07 17:45:59,150 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-07 17:45:59,151 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-07 17:45:59,400 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-07 18:16:11,115 [TTS] Shutdown signal received.
+2026-07-07 18:16:11,502 [TTS] Speaker thread exiting.
+2026-07-07 18:16:11,547 [TTS] Socket server closed.
+2026-07-07 18:16:11,548 [TTS] NOVA TTS daemon stopped.
+2026-07-07 21:24:55,137 [TTS] NOVA TTS daemon starting...
+2026-07-07 21:25:02,199 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-07 21:25:02,199 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-07 21:25:02,307 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-07 21:25:03,473 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-07 21:25:04,992 [TTS] Kokoro pipeline loaded and warm.
+2026-07-07 21:25:04,993 [TTS] Speaker thread started.
+2026-07-07 21:25:04,993 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-07 21:25:04,993 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-07 21:25:05,314 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-08 09:19:11,194 [TTS] NOVA TTS daemon starting...
+2026-07-08 09:19:17,313 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-08 09:19:17,313 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-08 09:19:17,336 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-08 09:19:18,363 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-08 09:19:19,939 [TTS] Kokoro pipeline loaded and warm.
+2026-07-08 09:19:19,940 [TTS] Speaker thread started.
+2026-07-08 09:19:19,940 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-08 09:19:19,941 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-08 09:19:20,331 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-08 16:27:34,368 [TTS] Shutdown signal received.
+2026-07-08 16:27:34,412 [TTS] Speaker thread exiting.
+2026-07-08 16:27:34,967 [TTS] Socket server closed.
+2026-07-08 16:27:34,968 [TTS] NOVA TTS daemon stopped.
+2026-07-09 10:56:36,323 [TTS] NOVA TTS daemon starting...
+2026-07-09 10:56:42,644 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-09 10:56:42,663 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-09 10:56:43,580 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-09 10:56:45,015 [TTS] Kokoro pipeline loaded and warm.
+2026-07-09 10:56:45,016 [TTS] Speaker thread started.
+2026-07-09 10:56:45,016 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-09 10:56:45,017 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-09 10:56:45,260 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-09 16:19:42,898 [TTS] Shutdown signal received.
+2026-07-09 16:19:43,356 [TTS] Speaker thread exiting.
+2026-07-09 16:19:43,717 [TTS] Socket server closed.
+2026-07-09 16:19:43,717 [TTS] NOVA TTS daemon stopped.
+2026-07-09 21:08:41,151 [TTS] NOVA TTS daemon starting...
+2026-07-09 21:08:47,703 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-09 21:08:47,703 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-09 21:08:47,733 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-09 21:08:50,151 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-09 21:08:53,390 [TTS] Kokoro pipeline loaded and warm.
+2026-07-09 21:08:53,391 [TTS] Speaker thread started.
+2026-07-09 21:08:53,391 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-09 21:08:53,391 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-09 21:08:53,771 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-09 23:07:28,187 [TTS] Shutdown signal received.
+2026-07-09 23:07:28,436 [TTS] Speaker thread exiting.
+2026-07-09 23:07:29,088 [TTS] Socket server closed.
+2026-07-09 23:07:29,089 [TTS] NOVA TTS daemon stopped.
+2026-07-10 01:36:03,463 [TTS] NOVA TTS daemon starting...
+2026-07-10 01:36:09,508 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-10 01:36:09,509 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-10 01:36:09,527 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-10 01:36:10,392 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-10 01:36:11,837 [TTS] Kokoro pipeline loaded and warm.
+2026-07-10 01:36:11,838 [TTS] Speaker thread started.
+2026-07-10 01:36:11,839 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-10 01:36:11,839 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-10 01:36:12,167 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-10 03:53:39,965 [TTS] Shutdown signal received.
+2026-07-10 03:53:39,968 [TTS] Socket server closed.
+2026-07-10 03:53:40,393 [TTS] Speaker thread exiting.
+2026-07-10 03:53:40,400 [TTS] NOVA TTS daemon stopped.
+2026-07-10 11:53:57,539 [TTS] NOVA TTS daemon starting...
+2026-07-10 11:54:03,810 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-10 11:54:03,811 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-10 11:54:03,830 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-10 11:54:04,779 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-10 11:54:06,340 [TTS] Kokoro pipeline loaded and warm.
+2026-07-10 11:54:06,341 [TTS] Speaker thread started.
+2026-07-10 11:54:06,341 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-10 11:54:06,341 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-10 11:54:06,592 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-10 16:33:22,312 [TTS] Shutdown signal received.
+2026-07-10 16:33:22,541 [TTS] Speaker thread exiting.
+2026-07-10 16:33:23,124 [TTS] Socket server closed.
+2026-07-10 16:33:23,125 [TTS] NOVA TTS daemon stopped.
+2026-07-10 19:48:11,107 [TTS] NOVA TTS daemon starting...
+2026-07-10 19:48:17,363 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-10 19:48:17,363 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-10 19:48:17,382 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-10 19:48:18,708 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-10 19:48:20,297 [TTS] Kokoro pipeline loaded and warm.
+2026-07-10 19:48:20,299 [TTS] Speaker thread started.
+2026-07-10 19:48:20,299 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-10 19:48:20,300 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-10 19:48:20,826 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-10 22:04:35,211 [TTS] NOVA TTS daemon starting...
+2026-07-10 22:04:41,303 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-10 22:04:41,349 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-10 22:04:42,264 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-10 22:04:43,795 [TTS] Kokoro pipeline loaded and warm.
+2026-07-10 22:04:43,796 [TTS] Speaker thread started.
+2026-07-10 22:04:43,796 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-10 22:04:43,797 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-10 22:04:44,108 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-10 22:04:44,109 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-10 23:45:53,689 [TTS] Shutdown signal received.
+2026-07-10 23:45:53,694 [TTS] Speaker thread exiting.
+2026-07-10 23:45:54,275 [TTS] Socket server closed.
+2026-07-10 23:45:54,275 [TTS] NOVA TTS daemon stopped.
+2026-07-11 15:42:36,181 [TTS] NOVA TTS daemon starting...
+2026-07-11 15:42:42,580 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-11 15:42:42,602 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-11 15:42:43,477 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-11 15:42:44,948 [TTS] Kokoro pipeline loaded and warm.
+2026-07-11 15:42:44,949 [TTS] Speaker thread started.
+2026-07-11 15:42:44,950 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-11 15:42:44,950 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-11 15:42:45,199 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-11 16:59:13,312 [TTS] Shutdown signal received.
+2026-07-11 16:59:13,520 [TTS] Socket server closed.
+2026-07-11 16:59:13,683 [TTS] Speaker thread exiting.
+2026-07-11 16:59:13,724 [TTS] NOVA TTS daemon stopped.
+2026-07-11 20:58:35,813 [TTS] NOVA TTS daemon starting...
+2026-07-11 20:58:43,436 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-11 20:58:43,437 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-11 20:58:43,488 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-11 20:58:44,566 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-11 20:58:46,964 [TTS] Kokoro pipeline loaded and warm.
+2026-07-11 20:58:46,965 [TTS] Speaker thread started.
+2026-07-11 20:58:46,965 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-11 20:58:46,966 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-11 20:58:47,716 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-11 21:52:37,689 [TTS] Shutdown signal received.
+2026-07-11 21:52:37,838 [TTS] Speaker thread exiting.
+2026-07-11 21:52:38,224 [TTS] Socket server closed.
+2026-07-11 21:52:38,225 [TTS] NOVA TTS daemon stopped.
+2026-07-12 01:29:57,361 [TTS] NOVA TTS daemon starting...
+2026-07-12 01:30:03,490 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-12 01:30:03,508 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-12 01:30:04,425 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-12 01:30:04,427 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-12 01:30:05,871 [TTS] Kokoro pipeline loaded and warm.
+2026-07-12 01:30:05,872 [TTS] Speaker thread started.
+2026-07-12 01:30:05,872 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-12 01:30:05,872 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-12 01:30:06,199 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-12 05:24:06,951 [TTS] Shutdown signal received.
+2026-07-12 05:24:07,271 [TTS] Speaker thread exiting.
+2026-07-12 05:24:07,633 [TTS] Socket server closed.
+2026-07-12 05:24:07,634 [TTS] NOVA TTS daemon stopped.
+2026-07-12 11:22:47,810 [TTS] NOVA TTS daemon starting...
+2026-07-12 11:23:07,241 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-12 11:23:07,242 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-12 11:23:07,261 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-12 11:23:08,223 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-12 11:23:09,648 [TTS] Kokoro pipeline loaded and warm.
+2026-07-12 11:23:09,649 [TTS] Speaker thread started.
+2026-07-12 11:23:09,649 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-12 11:23:09,650 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-12 11:23:10,052 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-12 15:39:46,422 [TTS] Shutdown signal received.
+2026-07-12 15:39:46,504 [TTS] Socket server closed.
+2026-07-12 15:39:46,725 [TTS] Speaker thread exiting.
+2026-07-12 15:39:46,744 [TTS] NOVA TTS daemon stopped.
+2026-07-12 19:49:22,231 [TTS] NOVA TTS daemon starting...
+2026-07-12 19:49:28,985 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-12 19:49:28,985 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-12 19:49:29,005 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-12 19:49:30,013 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-12 19:49:31,518 [TTS] Kokoro pipeline loaded and warm.
+2026-07-12 19:49:31,519 [TTS] Speaker thread started.
+2026-07-12 19:49:31,519 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-12 19:49:31,520 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-12 19:49:31,826 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-12 22:14:54,502 [TTS] Shutdown signal received.
+2026-07-12 22:14:54,553 [TTS] Speaker thread exiting.
+2026-07-12 22:14:55,194 [TTS] Socket server closed.
+2026-07-12 22:14:55,194 [TTS] NOVA TTS daemon stopped.
+2026-07-13 11:13:44,615 [TTS] NOVA TTS daemon starting...
+2026-07-13 11:13:51,072 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-13 11:13:51,072 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-13 11:13:51,198 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-13 11:13:52,230 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-13 11:13:53,636 [TTS] Kokoro pipeline loaded and warm.
+2026-07-13 11:13:53,636 [TTS] Speaker thread started.
+2026-07-13 11:13:53,637 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-13 11:13:53,637 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-13 11:13:53,910 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-13 12:42:14,363 [TTS] Shutdown signal received.
+2026-07-13 12:42:14,500 [TTS] Speaker thread exiting.
+2026-07-13 12:42:14,501 [TTS] Socket server closed.
+2026-07-13 12:42:14,533 [TTS] NOVA TTS daemon stopped.
+2026-07-13 12:43:01,874 [TTS] NOVA TTS daemon starting...
+2026-07-13 12:43:08,169 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-13 12:43:08,391 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-13 12:43:09,287 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-13 12:43:11,187 [TTS] Kokoro pipeline loaded and warm.
+2026-07-13 12:43:11,188 [TTS] Speaker thread started.
+2026-07-13 12:43:11,188 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-13 12:43:11,188 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-13 12:43:11,430 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-13 12:49:11,689 [TTS] NOVA TTS daemon starting...
+2026-07-13 12:49:18,362 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-13 12:49:18,363 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-13 12:49:18,380 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-13 12:49:19,845 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-13 12:49:22,440 [TTS] Kokoro pipeline loaded and warm.
+2026-07-13 12:49:22,442 [TTS] Speaker thread started.
+2026-07-13 12:49:22,442 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-13 12:49:22,444 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-13 12:49:22,706 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-13 13:00:31,651 [TTS] Shutdown signal received.
+2026-07-13 13:00:31,780 [TTS] Speaker thread exiting.
+2026-07-13 13:00:32,122 [TTS] Socket server closed.
+2026-07-13 13:00:32,122 [TTS] NOVA TTS daemon stopped.
+2026-07-13 13:01:29,298 [TTS] NOVA TTS daemon starting...
+2026-07-13 13:01:36,901 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-13 13:01:36,902 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-13 13:01:36,948 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-13 13:01:38,044 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-13 13:01:40,078 [TTS] Kokoro pipeline loaded and warm.
+2026-07-13 13:01:40,079 [TTS] Speaker thread started.
+2026-07-13 13:01:40,079 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-13 13:01:40,080 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-13 13:01:40,385 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-13 17:10:18,377 [TTS] Shutdown signal received.
+2026-07-13 17:10:18,505 [TTS] Speaker thread exiting.
+2026-07-13 17:10:19,081 [TTS] Socket server closed.
+2026-07-13 17:10:19,082 [TTS] NOVA TTS daemon stopped.
+2026-07-13 21:28:06,302 [TTS] NOVA TTS daemon starting...
+2026-07-13 21:28:15,354 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-13 21:28:15,355 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-13 21:28:15,664 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-13 21:28:16,697 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-13 21:28:18,547 [TTS] Kokoro pipeline loaded and warm.
+2026-07-13 21:28:18,549 [TTS] Speaker thread started.
+2026-07-13 21:28:18,549 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-13 21:28:18,549 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-13 21:28:18,788 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-14 00:08:18,946 [TTS] Shutdown signal received.
+2026-07-14 00:08:19,333 [TTS] Speaker thread exiting.
+2026-07-14 00:08:19,732 [TTS] Socket server closed.
+2026-07-14 00:08:19,732 [TTS] NOVA TTS daemon stopped.
+2026-07-14 03:12:03,176 [TTS] NOVA TTS daemon starting...
+2026-07-14 03:12:10,021 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-14 03:12:10,022 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-14 03:12:10,045 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-14 03:12:10,910 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-14 03:12:12,348 [TTS] Kokoro pipeline loaded and warm.
+2026-07-14 03:12:12,348 [TTS] Speaker thread started.
+2026-07-14 03:12:12,349 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-14 03:12:12,349 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-14 03:12:12,567 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-14 03:26:19,174 [TTS] Client error: [Errno 32] Broken pipe
+2026-07-14 03:26:19,174 [TTS] Speaking (p0): Sir, available memory is low at 4.3 gigabytes.
+2026-07-14 03:26:34,199 [TTS] Client error: [Errno 32] Broken pipe
+2026-07-14 03:26:34,199 [TTS] Speaking (p0): Sir, available memory is low at 2.2 gigabytes.
+2026-07-14 03:26:49,219 [TTS] Client error: [Errno 32] Broken pipe
+2026-07-14 03:26:49,220 [TTS] Speaking (p0): Sir, available memory is low at 0.4 gigabytes.
+2026-07-14 03:28:08,255 [TTS] NOVA TTS daemon starting...
+2026-07-14 03:28:14,432 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-14 03:28:14,432 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-14 03:28:14,451 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-14 03:28:15,316 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-14 03:28:16,791 [TTS] Kokoro pipeline loaded and warm.
+2026-07-14 03:28:16,791 [TTS] Speaker thread started.
+2026-07-14 03:28:16,792 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-14 03:28:16,792 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-14 03:28:17,107 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-14 03:34:08,652 [TTS] Speaking (p0): Sir, available memory is low at 4.5 gigabytes.
+2026-07-14 03:34:08,652 [TTS] Client error: [Errno 32] Broken pipe
+2026-07-14 04:44:28,367 [TTS] Shutdown signal received.
+2026-07-14 04:44:28,819 [TTS] Speaker thread exiting.
+2026-07-14 04:44:29,114 [TTS] Socket server closed.
+2026-07-14 04:44:29,115 [TTS] NOVA TTS daemon stopped.
+2026-07-14 11:01:55,322 [TTS] NOVA TTS daemon starting...
+2026-07-14 11:02:02,304 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-14 11:02:02,304 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-14 11:02:02,322 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-14 11:02:03,218 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-14 11:02:04,702 [TTS] Kokoro pipeline loaded and warm.
+2026-07-14 11:02:04,703 [TTS] Speaker thread started.
+2026-07-14 11:02:04,703 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-14 11:02:04,704 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-14 11:02:04,988 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-14 12:26:21,629 [TTS] NOVA TTS daemon starting...
+2026-07-14 12:26:28,116 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-14 12:26:28,142 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-14 12:26:29,149 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-14 12:26:29,152 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-14 12:26:30,478 [TTS] Kokoro pipeline loaded and warm.
+2026-07-14 12:26:30,478 [TTS] Speaker thread started.
+2026-07-14 12:26:30,478 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-14 12:26:30,479 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-14 12:26:30,789 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-14 13:16:55,183 [TTS] Client error: [Errno 32] Broken pipe
+2026-07-14 13:16:55,183 [TTS] Speaking (p0): Sir, available memory is low at 4.9 gigabytes.
+2026-07-14 13:17:10,197 [TTS] Client error: [Errno 32] Broken pipe
+2026-07-14 13:17:10,197 [TTS] Speaking (p0): Sir, available memory is low at 4.9 gigabytes.
+2026-07-14 14:57:02,203 [TTS] Shutdown signal received.
+2026-07-14 14:57:02,663 [TTS] Speaker thread exiting.
+2026-07-14 14:57:03,138 [TTS] Socket server closed.
+2026-07-14 14:57:03,138 [TTS] NOVA TTS daemon stopped.
+2026-07-14 21:19:45,694 [TTS] NOVA TTS daemon starting...
+2026-07-14 21:19:57,845 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-14 21:19:57,846 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-14 21:19:58,510 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-14 21:19:59,788 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-14 21:20:01,217 [TTS] Kokoro pipeline loaded and warm.
+2026-07-14 21:20:01,218 [TTS] Speaker thread started.
+2026-07-14 21:20:01,218 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-14 21:20:01,218 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-14 21:20:01,579 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-14 23:21:50,524 [TTS] Shutdown signal received.
+2026-07-14 23:21:50,531 [TTS] Speaker thread exiting.
+2026-07-14 23:21:50,574 [TTS] Socket server closed.
+2026-07-14 23:21:50,574 [TTS] NOVA TTS daemon stopped.
+2026-07-15 00:23:53,162 [TTS] NOVA TTS daemon starting...
+2026-07-15 00:23:59,692 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-15 00:23:59,692 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-15 00:23:59,709 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-15 00:24:00,734 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-15 00:24:02,185 [TTS] Kokoro pipeline loaded and warm.
+2026-07-15 00:24:02,186 [TTS] Speaker thread started.
+2026-07-15 00:24:02,186 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-15 00:24:02,186 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-15 00:24:02,477 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-15 01:34:00,753 [TTS] Client error: [Errno 32] Broken pipe
+2026-07-15 01:34:00,754 [TTS] Speaking (p0): Service nova-stt has been restored, sir.
+2026-07-15 03:05:15,563 [TTS] Shutdown signal received.
+2026-07-15 03:05:15,761 [TTS] Speaker thread exiting.
+2026-07-15 03:05:16,087 [TTS] Socket server closed.
+2026-07-15 03:05:16,088 [TTS] NOVA TTS daemon stopped.
+2026-07-15 11:05:24,282 [TTS] NOVA TTS daemon starting...
+2026-07-15 11:05:31,500 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-15 11:05:31,528 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-15 11:05:32,452 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-15 11:05:32,455 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-15 11:05:33,930 [TTS] Kokoro pipeline loaded and warm.
+2026-07-15 11:05:33,931 [TTS] Speaker thread started.
+2026-07-15 11:05:33,931 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-15 11:05:33,932 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-15 11:05:34,209 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"
+2026-07-16 03:41:12,817 [TTS] Shutdown signal received.
+2026-07-16 03:41:13,214 [TTS] Speaker thread exiting.
+2026-07-16 03:41:13,771 [TTS] Socket server closed.
+2026-07-16 03:41:13,771 [TTS] NOVA TTS daemon stopped.
+2026-07-16 09:24:13,342 [TTS] NOVA TTS daemon starting...
+2026-07-16 09:24:21,047 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-07-16 09:24:21,048 [TTS] Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-07-16 09:24:21,338 [TTS] HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/hexgrad/Kokoro-82M/f3ff3571791e39611d31c381e3a41a3af07b4987/config.json "HTTP/1.1 200 OK"
+2026-07-16 09:24:22,479 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/kokoro-v1_0.pth "HTTP/1.1 302 Found"
+2026-07-16 09:24:24,020 [TTS] Kokoro pipeline loaded and warm.
+2026-07-16 09:24:24,021 [TTS] Speaker thread started.
+2026-07-16 09:24:24,021 [TTS] Speaking (p0): NOVA voice online, sir.
+2026-07-16 09:24:24,022 [TTS] TTS socket listening at /tmp/nova_tts.sock
+2026-07-16 09:24:24,373 [TTS] HTTP Request: HEAD https://huggingface.co/hexgrad/Kokoro-82M/resolve/main/voices/bm_lewis.pt "HTTP/1.1 302 Found"

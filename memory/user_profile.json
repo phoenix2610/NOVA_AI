@@ -1,0 +1,17 @@
+{
+  "_comment": "Edit this file to personalise NOVA's context awareness. All fields are optional.",
+  "name": "Tathya",
+  "machine_hostname": "PhoenixDragon",
+  "compositor": "Hyprland (Wayland)",
+  "preferred_browser": "Brave",
+  "preferred_terminal": "kitty",
+  "audio_device": "alsa_output.pci-0000_05_00.6.analog-stereo",
+  "timezone": "Asia/Kolkata",
+  "interests": ["trading", "AI/ML", "system programming", "automation"],
+  "trading_instruments": ["options", "equities"],
+  "active_projects": ["NOVA voice assistant", "pwndbg"],
+  "preferred_language": "Python",
+  "nova_personality_note": "Tathya prefers concise, witty, confident replies. Address as sir.",
+  "working_hours": "flexible — typically late evening IST",
+  "custom_context": ""
+}

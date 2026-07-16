@@ -1,0 +1,230 @@
+Error: Expecting value: line 1 column 1 (char 0)
+Error: Expecting value: line 1 column 1 (char 0)
+2026-06-05 20:05:01,095 [BRAIN] Brain online | session: af3f5c14
+2026-06-05 20:05:01,095 [BRAIN] Brain online | session: af3f5c14
+2026-06-05 20:06:21,558 [BRAIN] [knowledge_query] how is chocolate made
+2026-06-05 20:06:53,497 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 22:07:45,860 [BRAIN] Brain online | session: e7476e51
+2026-06-05 22:07:45,860 [BRAIN] Brain online | session: e7476e51
+2026-06-05 22:15:25,550 [BRAIN] Brain online | session: 63d2140c
+2026-06-05 22:15:25,550 [BRAIN] Brain online | session: 63d2140c
+2026-06-05 22:18:22,546 [BRAIN] [knowledge_query] how is chocolate made
+2026-06-05 22:22:03,660 [BRAIN] [browser_op] open youtube
+2026-06-05 22:22:52,530 [BRAIN] [browser_op] open youtube
+2026-06-05 22:26:27,207 [BRAIN] Brain online | session: 205be59f
+2026-06-05 22:26:27,207 [BRAIN] Brain online | session: 205be59f
+2026-06-05 22:26:35,360 [BRAIN] [browser_op] open youtube
+2026-06-05 22:27:03,734 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 22:27:55,798 [BRAIN] [conversation] open youtube
+2026-06-05 22:27:55,798 [BRAIN] [conversation] open youtube
+2026-06-05 22:28:23,725 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 22:28:23,725 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 22:28:29,902 [BRAIN] [browser_op] open youtube
+2026-06-05 22:28:29,902 [BRAIN] [browser_op] open youtube
+2026-06-05 22:29:00,658 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 22:29:00,658 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 22:29:03,051 [BRAIN] [browser_op] open youtube
+2026-06-05 22:30:24,926 [BRAIN] [browser_op] open youtube
+2026-06-05 22:35:32,623 [BRAIN] Brain online | session: 6b7c6274
+2026-06-05 22:35:32,623 [BRAIN] Brain online | session: 6b7c6274
+2026-06-05 22:35:58,379 [BRAIN] [browser_op] open youtube
+2026-06-05 22:36:26,622 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 22:37:52,063 [BRAIN] Brain online | session: 3823dab3
+2026-06-05 22:37:52,063 [BRAIN] Brain online | session: 3823dab3
+2026-06-05 22:38:10,792 [BRAIN] [browser_op] open youtube
+2026-06-05 22:38:44,654 [BRAIN] Brain generated script — sending to executioner
+2026-06-05 23:55:56,415 [BRAIN] Brain online | session: 67bab0bc
+2026-06-05 23:55:56,415 [BRAIN] Brain online | session: 67bab0bc
+2026-06-06 00:05:44,825 [BRAIN] [browser_op] open youtube
+2026-06-06 00:05:45,004 [BRAIN] Using Primary-1B (llama3.2:1b)
+2026-06-06 00:05:53,104 [BRAIN] Brain generated script — sending to executioner
+2026-06-06 00:06:12,872 [BRAIN] [knowledge_query] explain how neural networks learn using backpropagation in d
+2026-06-06 00:06:13,083 [BRAIN] Using Secondary-7B (mistral:7b-instruct-q4_K_M)
+2026-06-06 01:41:22,535 [BRAIN] Brain online | session: 0e0a9e5e
+2026-06-06 01:41:22,535 [BRAIN] Brain online | session: 0e0a9e5e
+2026-06-06 02:47:46,077 [BRAIN] Brain online | session: e1514df5
+2026-06-06 02:47:46,077 [BRAIN] Brain online | session: e1514df5
+2026-06-06 22:28:26,322 [BRAIN] Brain online | session: 1de6e3ff
+2026-06-06 22:28:26,322 [BRAIN] Brain online | session: 1de6e3ff
+2026-06-07 11:52:38,479 [BRAIN] Brain online | session: 70c0c257
+2026-06-07 11:52:38,479 [BRAIN] Brain online | session: 70c0c257
+2026-06-07 22:21:34,656 [BRAIN] Brain online | session: 31f572d7
+2026-06-07 22:21:34,656 [BRAIN] Brain online | session: 31f572d7
+2026-06-08 18:03:42,720 [BRAIN] Brain online | session: d81abbe2
+2026-06-08 18:03:42,720 [BRAIN] Brain online | session: d81abbe2
+2026-06-08 19:56:05,422 [BRAIN] Brain online | session: d398e3c7
+2026-06-08 19:56:05,422 [BRAIN] Brain online | session: d398e3c7
+2026-06-09 19:20:39,880 [BRAIN] Brain online | session: f80cf125
+2026-06-09 19:20:39,880 [BRAIN] Brain online | session: f80cf125
+2026-06-09 21:26:23,240 [BRAIN] Brain online | session: f069e3ec
+2026-06-09 21:26:23,240 [BRAIN] Brain online | session: f069e3ec
+2026-06-10 20:17:33,678 [BRAIN] Brain online | session: 7340945b
+2026-06-10 20:17:33,678 [BRAIN] Brain online | session: 7340945b
+2026-06-11 07:35:45,051 [BRAIN] Brain online | session: 28aac754
+2026-06-11 07:35:45,051 [BRAIN] Brain online | session: 28aac754
+2026-06-11 23:16:25,073 [BRAIN] Brain online | session: 7d80defc
+2026-06-11 23:16:25,073 [BRAIN] Brain online | session: 7d80defc
+2026-06-12 21:51:43,152 [BRAIN] Brain online | session: 78c1c038
+2026-06-12 21:51:43,152 [BRAIN] Brain online | session: 78c1c038
+2026-06-13 20:34:34,344 [BRAIN] Brain online | session: fcc937e9
+2026-06-13 20:34:34,344 [BRAIN] Brain online | session: fcc937e9
+2026-06-14 01:04:45,484 [BRAIN] Brain online | session: 65ba2e8e
+2026-06-14 01:04:45,484 [BRAIN] Brain online | session: 65ba2e8e
+2026-06-14 23:45:11,794 [BRAIN] Brain online | session: 1cf769c6
+2026-06-14 23:45:11,794 [BRAIN] Brain online | session: 1cf769c6
+2026-06-15 01:32:45,881 [BRAIN] Brain online | session: 86034a1a
+2026-06-15 01:32:45,881 [BRAIN] Brain online | session: 86034a1a
+2026-06-16 22:35:47,863 [BRAIN] Brain online | session: c71ebbc6
+2026-06-16 22:35:47,863 [BRAIN] Brain online | session: c71ebbc6
+2026-06-17 09:14:18,839 [BRAIN] Brain online | session: 449562ed
+2026-06-17 09:14:18,839 [BRAIN] Brain online | session: 449562ed
+2026-06-18 22:25:27,843 [BRAIN] Brain online | session: f53ab4d0
+2026-06-18 22:25:27,843 [BRAIN] Brain online | session: f53ab4d0
+2026-06-19 22:10:38,754 [BRAIN] Brain online | session: 51d56ebc
+2026-06-19 22:10:38,754 [BRAIN] Brain online | session: 51d56ebc
+2026-06-20 18:02:10,775 [BRAIN] Brain online | session: 64f8620c
+2026-06-20 18:02:10,775 [BRAIN] Brain online | session: 64f8620c
+2026-06-20 21:25:48,048 [BRAIN] Brain online | session: 29248313
+2026-06-20 21:25:48,048 [BRAIN] Brain online | session: 29248313
+2026-06-21 11:25:39,735 [BRAIN] Brain online | session: f57132c4
+2026-06-21 11:25:39,735 [BRAIN] Brain online | session: f57132c4
+2026-06-21 18:13:32,915 [BRAIN] Brain online | session: 322c7adc
+2026-06-21 18:13:32,915 [BRAIN] Brain online | session: 322c7adc
+2026-06-22 21:59:56,043 [BRAIN] Brain online | session: 4e156254
+2026-06-22 21:59:56,043 [BRAIN] Brain online | session: 4e156254
+2026-06-23 22:31:08,464 [BRAIN] Brain online | session: 50a13cc1
+2026-06-23 22:31:08,464 [BRAIN] Brain online | session: 50a13cc1
+2026-06-23 23:56:25,513 [BRAIN] Brain online | session: 257a09cf
+2026-06-23 23:56:25,513 [BRAIN] Brain online | session: 257a09cf
+2026-06-24 01:52:14,747 [BRAIN] Brain online | session: e28ace7c
+2026-06-24 01:52:14,747 [BRAIN] Brain online | session: e28ace7c
+2026-06-24 21:41:13,894 [BRAIN] Brain online | session: 2493dcbc
+2026-06-24 21:41:13,894 [BRAIN] Brain online | session: 2493dcbc
+2026-06-25 13:57:48,996 [BRAIN] Brain online | session: 01e89570
+2026-06-25 13:57:48,996 [BRAIN] Brain online | session: 01e89570
+2026-06-25 15:32:12,846 [BRAIN] Brain online | session: 9667cb46
+2026-06-25 15:32:12,846 [BRAIN] Brain online | session: 9667cb46
+2026-06-25 19:56:51,387 [BRAIN] Brain online | session: 71a44dc0
+2026-06-25 19:56:51,387 [BRAIN] Brain online | session: 71a44dc0
+2026-06-26 10:09:34,437 [BRAIN] Brain online | session: 3f13d489
+2026-06-26 10:09:34,437 [BRAIN] Brain online | session: 3f13d489
+2026-06-26 20:41:43,509 [BRAIN] Brain online | session: 85797604
+2026-06-26 20:41:43,509 [BRAIN] Brain online | session: 85797604
+2026-06-27 08:48:35,668 [BRAIN] Brain online | session: 1ea6e68d
+2026-06-27 08:48:35,668 [BRAIN] Brain online | session: 1ea6e68d
+2026-06-27 21:07:40,928 [BRAIN] Brain online | session: 8f522d08
+2026-06-27 21:07:40,928 [BRAIN] Brain online | session: 8f522d08
+2026-06-27 23:44:34,857 [BRAIN] Brain online | session: 8032311d
+2026-06-27 23:44:34,857 [BRAIN] Brain online | session: 8032311d
+2026-06-28 10:42:31,264 [BRAIN] Brain online | session: 35a88955
+2026-06-28 10:42:31,264 [BRAIN] Brain online | session: 35a88955
+2026-06-29 00:53:39,658 [BRAIN] Brain online | session: 88b6b2d8
+2026-06-29 00:53:39,658 [BRAIN] Brain online | session: 88b6b2d8
+2026-06-29 09:55:43,013 [BRAIN] Brain online | session: ccf98bf4
+2026-06-29 09:55:43,013 [BRAIN] Brain online | session: ccf98bf4
+2026-06-29 14:32:32,213 [BRAIN] Brain online | session: 1b7f24cc
+2026-06-29 14:32:32,213 [BRAIN] Brain online | session: 1b7f24cc
+2026-06-29 20:30:35,860 [BRAIN] Brain online | session: cc8d69d6
+2026-06-29 20:30:35,860 [BRAIN] Brain online | session: cc8d69d6
+2026-06-30 09:15:18,802 [BRAIN] Brain online | session: 1c84b56a
+2026-06-30 09:15:18,802 [BRAIN] Brain online | session: 1c84b56a
+2026-06-30 11:51:26,758 [BRAIN] Brain online | session: 615400cb
+2026-06-30 11:51:26,758 [BRAIN] Brain online | session: 615400cb
+2026-06-30 17:55:02,775 [BRAIN] Brain online | session: d2b0a406
+2026-06-30 17:55:02,775 [BRAIN] Brain online | session: d2b0a406
+2026-06-30 23:10:47,735 [BRAIN] Brain online | session: 09cf881a
+2026-06-30 23:10:47,735 [BRAIN] Brain online | session: 09cf881a
+2026-07-01 09:09:57,348 [BRAIN] Brain online | session: e7e00554
+2026-07-01 09:09:57,348 [BRAIN] Brain online | session: e7e00554
+2026-07-01 20:08:06,596 [BRAIN] Brain online | session: a035449a
+2026-07-01 20:08:06,596 [BRAIN] Brain online | session: a035449a
+2026-07-02 09:05:01,433 [BRAIN] Brain online | session: 2ddca0c2
+2026-07-02 09:05:01,433 [BRAIN] Brain online | session: 2ddca0c2
+2026-07-02 17:18:58,227 [BRAIN] Brain online | session: f8d80326
+2026-07-02 17:18:58,227 [BRAIN] Brain online | session: f8d80326
+2026-07-02 21:45:38,319 [BRAIN] Brain online | session: 88741950
+2026-07-02 21:45:38,319 [BRAIN] Brain online | session: 88741950
+2026-07-03 04:27:19,191 [BRAIN] Brain online | session: 67e9a4c3
+2026-07-03 04:27:19,191 [BRAIN] Brain online | session: 67e9a4c3
+2026-07-03 11:47:05,819 [BRAIN] Brain online | session: b95334bb
+2026-07-03 11:47:05,819 [BRAIN] Brain online | session: b95334bb
+2026-07-03 20:27:46,108 [BRAIN] Brain online | session: ba75338f
+2026-07-03 20:27:46,108 [BRAIN] Brain online | session: ba75338f
+2026-07-03 21:43:39,173 [BRAIN] Brain online | session: 48517dd6
+2026-07-03 21:43:39,173 [BRAIN] Brain online | session: 48517dd6
+2026-07-04 09:21:12,036 [BRAIN] Brain online | session: 54ac6f54
+2026-07-04 09:21:12,036 [BRAIN] Brain online | session: 54ac6f54
+2026-07-04 18:08:42,317 [BRAIN] Brain online | session: 80c12241
+2026-07-04 18:08:42,317 [BRAIN] Brain online | session: 80c12241
+2026-07-04 18:49:25,091 [BRAIN] Brain online | session: 598acb65
+2026-07-04 18:49:25,091 [BRAIN] Brain online | session: 598acb65
+2026-07-04 18:56:31,274 [BRAIN] Brain online | session: 83b6263c
+2026-07-04 18:56:31,274 [BRAIN] Brain online | session: 83b6263c
+2026-07-04 18:58:28,103 [BRAIN] Brain online | session: 1090c94d
+2026-07-04 18:58:28,103 [BRAIN] Brain online | session: 1090c94d
+2026-07-05 11:25:59,972 [BRAIN] Brain online | session: 4f650170
+2026-07-05 11:25:59,972 [BRAIN] Brain online | session: 4f650170
+2026-07-05 17:55:08,483 [BRAIN] Brain online | session: 527efd12
+2026-07-05 17:55:08,483 [BRAIN] Brain online | session: 527efd12
+2026-07-06 09:34:55,302 [BRAIN] Brain online | session: 3b83ed5b
+2026-07-06 09:34:55,302 [BRAIN] Brain online | session: 3b83ed5b
+2026-07-06 18:47:50,706 [BRAIN] Brain online | session: b1c20c6b
+2026-07-06 18:47:50,706 [BRAIN] Brain online | session: b1c20c6b
+2026-07-07 00:31:40,611 [BRAIN] Brain online | session: 23fb0ce8
+2026-07-07 00:31:40,611 [BRAIN] Brain online | session: 23fb0ce8
+2026-07-07 02:01:16,642 [BRAIN] Brain online | session: 9ebdbf9d
+2026-07-07 02:01:16,642 [BRAIN] Brain online | session: 9ebdbf9d
+2026-07-07 17:45:49,609 [BRAIN] Brain online | session: 80aeca39
+2026-07-07 17:45:49,609 [BRAIN] Brain online | session: 80aeca39
+2026-07-07 21:24:54,916 [BRAIN] Brain online | session: 67fc0663
+2026-07-07 21:24:54,916 [BRAIN] Brain online | session: 67fc0663
+2026-07-08 09:19:11,015 [BRAIN] Brain online | session: d67711b1
+2026-07-08 09:19:11,015 [BRAIN] Brain online | session: d67711b1
+2026-07-09 10:56:36,161 [BRAIN] Brain online | session: a4593cda
+2026-07-09 10:56:36,161 [BRAIN] Brain online | session: a4593cda
+2026-07-09 21:08:40,964 [BRAIN] Brain online | session: 3aa087b9
+2026-07-09 21:08:40,964 [BRAIN] Brain online | session: 3aa087b9
+2026-07-10 01:36:03,267 [BRAIN] Brain online | session: 158cf935
+2026-07-10 01:36:03,267 [BRAIN] Brain online | session: 158cf935
+2026-07-10 11:53:57,346 [BRAIN] Brain online | session: e1d4761f
+2026-07-10 11:53:57,346 [BRAIN] Brain online | session: e1d4761f
+2026-07-10 19:48:10,894 [BRAIN] Brain online | session: ba75177a
+2026-07-10 19:48:10,894 [BRAIN] Brain online | session: ba75177a
+2026-07-10 22:04:35,010 [BRAIN] Brain online | session: 7204549b
+2026-07-10 22:04:35,010 [BRAIN] Brain online | session: 7204549b
+2026-07-11 15:42:36,036 [BRAIN] Brain online | session: fba57557
+2026-07-11 15:42:36,036 [BRAIN] Brain online | session: fba57557
+2026-07-11 20:58:35,610 [BRAIN] Brain online | session: e65e3c88
+2026-07-11 20:58:35,610 [BRAIN] Brain online | session: e65e3c88
+2026-07-12 01:29:57,164 [BRAIN] Brain online | session: 13421814
+2026-07-12 01:29:57,164 [BRAIN] Brain online | session: 13421814
+2026-07-12 11:22:47,657 [BRAIN] Brain online | session: afef9fde
+2026-07-12 11:22:47,657 [BRAIN] Brain online | session: afef9fde
+2026-07-12 19:49:22,025 [BRAIN] Brain online | session: 79ef1269
+2026-07-12 19:49:22,025 [BRAIN] Brain online | session: 79ef1269
+2026-07-13 11:13:44,472 [BRAIN] Brain online | session: 50b2fe5e
+2026-07-13 11:13:44,472 [BRAIN] Brain online | session: 50b2fe5e
+2026-07-13 12:43:01,735 [BRAIN] Brain online | session: 0978670b
+2026-07-13 12:43:01,735 [BRAIN] Brain online | session: 0978670b
+2026-07-13 12:49:11,423 [BRAIN] Brain online | session: ca3ece41
+2026-07-13 12:49:11,423 [BRAIN] Brain online | session: ca3ece41
+2026-07-13 13:01:29,116 [BRAIN] Brain online | session: 1f90f7ea
+2026-07-13 13:01:29,116 [BRAIN] Brain online | session: 1f90f7ea
+2026-07-13 21:28:06,083 [BRAIN] Brain online | session: da9bdf15
+2026-07-13 21:28:06,083 [BRAIN] Brain online | session: da9bdf15
+2026-07-14 03:12:02,953 [BRAIN] Brain online | session: 436ed7a4
+2026-07-14 03:12:02,953 [BRAIN] Brain online | session: 436ed7a4
+2026-07-14 03:28:08,113 [BRAIN] Brain online | session: 321648c0
+2026-07-14 03:28:08,113 [BRAIN] Brain online | session: 321648c0
+2026-07-14 11:01:55,118 [BRAIN] Brain online | session: 23dda4ae
+2026-07-14 11:01:55,118 [BRAIN] Brain online | session: 23dda4ae
+2026-07-14 12:26:21,494 [BRAIN] Brain online | session: 85484b52
+2026-07-14 12:26:21,494 [BRAIN] Brain online | session: 85484b52
+2026-07-14 21:19:45,478 [BRAIN] Brain online | session: 24d9d561
+2026-07-14 21:19:45,478 [BRAIN] Brain online | session: 24d9d561
+2026-07-15 00:23:52,992 [BRAIN] Brain online | session: 32b784fe
+2026-07-15 00:23:52,992 [BRAIN] Brain online | session: 32b784fe
+2026-07-15 11:05:24,093 [BRAIN] Brain online | session: a89b3086
+2026-07-15 11:05:24,093 [BRAIN] Brain online | session: a89b3086
+2026-07-16 09:24:13,136 [BRAIN] Brain online | session: 2b9f2274
+2026-07-16 09:24:13,136 [BRAIN] Brain online | session: 2b9f2274

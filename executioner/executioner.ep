@@ -1,0 +1,36 @@
+# NOVA Executioner in EPL (v1.8 System Runtime)
+
+set workspace as "~/nova/workspace/"
+set log_file as "~/nova/logs/exec_history.jsonl"
+set epl_bin as "/home/tathya/Desktop/EPL/build/epl"
+
+to handle_request
+    set req_json as x
+    set action as field "action" from json req_json
+    
+    if action equals "execute" then
+        set script as field "script" from json req_json
+        set script_id as now
+        set temp_path as workspace plus "nova_exec_" plus script_id plus ".ep"
+        
+        # Write script to workspace
+        write script to file temp_path
+        
+        # Run it
+        set cmd as epl_bin plus " " plus temp_path
+        set out as run cmd
+        
+        # Cleanup
+        delete file temp_path
+        
+        # Build result JSON manually
+        set res_json as "{\"success\":true,\"stdout\":\"" plus out plus "\"}"
+        
+        # Log it
+        append res_json to file log_file
+        
+        reply with res_json
+    !
+!
+
+serve on socket "/tmp/nova_executioner.sock" using handle_request

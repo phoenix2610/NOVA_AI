@@ -1,0 +1,23 @@
+[Unit]
+Description=NOVA Router Bridge — Intent Classification & Routing
+After=nova-tts.service nova-brain.service nova-executioner.service
+Requires=nova-tts.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/tathya/nova/router/router_bridge.py
+Restart=on-failure
+RestartSec=5s
+StandardOutput=append:/home/tathya/nova/logs/router.log
+StandardError=append:/home/tathya/nova/logs/router.log
+SyslogIdentifier=nova-router
+
+Environment=PYTHONUNBUFFERED=1
+Environment="PYTHONWARNINGS=ignore::UserWarning,ignore::FutureWarning"
+Environment=CUDA_VISIBLE_DEVICES=""
+Environment=HOME=/home/tathya
+
+MemoryMax=1200M
+
+[Install]
+WantedBy=default.target

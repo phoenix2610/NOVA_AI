@@ -1,0 +1,27 @@
+[Unit]
+Description=NOVA TTS Daemon
+Documentation=NOVA OS voice synthesis — always resident
+After=pipewire.service pipewire-pulse.service
+Wants=pipewire.service pipewire-pulse.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/tathya/nova/daemons/tts_daemon.py
+Restart=on-failure
+RestartSec=3s
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=nova-tts
+
+# Environment
+Environment=PYTHONUNBUFFERED=1
+Environment=WAYLAND_DISPLAY=wayland-1
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+Environment=PULSE_RUNTIME_PATH=/run/user/1000/pulse
+
+# Resource limits — keep it lean
+MemoryMax=512M
+CPUWeight=50
+
+[Install]
+WantedBy=default.target

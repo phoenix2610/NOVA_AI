@@ -1,0 +1,693 @@
+2026-06-05 20:03:31,150 [ROUTER] Loading router model...
+2026-06-05 20:03:31,150 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|████████  | 162/202 [00:00<00:00, 1528.23it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1775.08it/s]
+2026-06-05 20:03:36,293 [ROUTER] Router loaded | 7 intents
+2026-06-05 20:03:36,293 [ROUTER] Router loaded | 7 intents
+2026-06-05 20:03:36,293 [ROUTER] Router bridge online
+2026-06-05 20:03:36,293 [ROUTER] Router bridge online
+2026-06-05 20:06:04,854 [ROUTER] Loading router model...
+2026-06-05 20:06:09,029 [ROUTER] Router loaded | 7 intents
+2026-06-05 20:06:10,463 [ROUTER] Loading router model...
+2026-06-05 20:06:14,574 [ROUTER] Router loaded | 7 intents
+2026-06-05 20:06:15,997 [ROUTER] Loading router model...
+2026-06-05 20:06:20,130 [ROUTER] Router loaded | 7 intents
+2026-06-05 22:07:45,843 [ROUTER] Loading router model...
+2026-06-05 22:07:45,843 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  93%|█████████▎| 188/202 [00:00<00:00, 1815.91it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1901.91it/s]
+2026-06-05 22:07:52,258 [ROUTER] Router loaded | 7 intents
+2026-06-05 22:07:52,258 [ROUTER] Router loaded | 7 intents
+2026-06-05 22:07:52,258 [ROUTER] Router bridge online
+2026-06-05 22:07:52,258 [ROUTER] Router bridge online
+2026-06-05 22:27:40,117 [ROUTER] Route error: Expecting value: line 1 column 1 (char 0)
+2026-06-05 22:27:40,117 [ROUTER] Route error: Expecting value: line 1 column 1 (char 0)
+2026-06-05 22:27:55,797 [ROUTER] 'open youtube' → browser_op (64.06%)
+2026-06-05 22:27:55,797 [ROUTER] 'open youtube' → browser_op (64.06%)
+2026-06-05 22:27:55,798 [ROUTER] Low confidence (64.06%) — sending to brain as conversation
+2026-06-05 22:27:55,798 [ROUTER] Low confidence (64.06%) — sending to brain as conversation
+2026-06-05 22:28:19,885 [ROUTER] Loading router model...
+2026-06-05 22:28:19,885 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 8884.28it/s]
+2026-06-05 22:28:27,040 [ROUTER] Router loaded | 7 intents
+2026-06-05 22:28:27,040 [ROUTER] Router loaded | 7 intents
+2026-06-05 22:28:27,040 [ROUTER] Router bridge online
+2026-06-05 22:28:27,040 [ROUTER] Router bridge online
+2026-06-05 22:28:29,901 [ROUTER] 'open youtube' → browser_op (64.06%)
+2026-06-05 22:28:29,901 [ROUTER] 'open youtube' → browser_op (64.06%)
+2026-06-05 23:55:56,385 [ROUTER] Loading router model...
+2026-06-05 23:55:56,385 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 4887.68it/s]
+2026-06-05 23:56:01,494 [ROUTER] Router loaded | 7 intents
+2026-06-05 23:56:01,494 [ROUTER] Router loaded | 7 intents
+2026-06-05 23:56:01,494 [ROUTER] Router bridge online
+2026-06-05 23:56:01,494 [ROUTER] Router bridge online
+2026-06-06 01:41:22,455 [ROUTER] Loading router model...
+2026-06-06 01:41:22,455 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1539.61it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1722.44it/s]
+2026-06-06 01:41:28,789 [ROUTER] Router loaded | 7 intents
+2026-06-06 01:41:28,789 [ROUTER] Router loaded | 7 intents
+2026-06-06 01:41:28,789 [ROUTER] Router bridge online
+2026-06-06 01:41:28,789 [ROUTER] Router bridge online
+2026-06-06 22:28:26,259 [ROUTER] Loading router model...
+2026-06-06 22:28:26,259 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  72%|███████▏  | 146/202 [00:00<00:00, 1434.51it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1613.83it/s]
+2026-06-06 22:28:32,254 [ROUTER] Router loaded | 7 intents
+2026-06-06 22:28:32,254 [ROUTER] Router loaded | 7 intents
+2026-06-06 22:28:32,254 [ROUTER] Router bridge online
+2026-06-06 22:28:32,254 [ROUTER] Router bridge online
+2026-06-07 11:52:38,451 [ROUTER] Loading router model...
+2026-06-07 11:52:38,451 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 153/202 [00:00<00:00, 1457.61it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1666.10it/s]
+2026-06-07 11:52:44,757 [ROUTER] Router loaded | 7 intents
+2026-06-07 11:52:44,757 [ROUTER] Router loaded | 7 intents
+2026-06-07 11:52:44,757 [ROUTER] Router bridge online
+2026-06-07 11:52:44,757 [ROUTER] Router bridge online
+2026-06-07 22:21:34,576 [ROUTER] Loading router model...
+2026-06-07 22:21:34,576 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  75%|███████▍  | 151/202 [00:00<00:00, 1505.81it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1696.28it/s]
+2026-06-07 22:21:40,925 [ROUTER] Router loaded | 7 intents
+2026-06-07 22:21:40,925 [ROUTER] Router loaded | 7 intents
+2026-06-07 22:21:40,925 [ROUTER] Router bridge online
+2026-06-07 22:21:40,925 [ROUTER] Router bridge online
+2026-06-08 18:03:42,659 [ROUTER] Loading router model...
+2026-06-08 18:03:42,659 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 157/202 [00:00<00:00, 1511.78it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1623.56it/s]
+2026-06-08 18:03:49,043 [ROUTER] Router loaded | 7 intents
+2026-06-08 18:03:49,043 [ROUTER] Router loaded | 7 intents
+2026-06-08 18:03:49,043 [ROUTER] Router bridge online
+2026-06-08 18:03:49,043 [ROUTER] Router bridge online
+2026-06-08 19:56:05,399 [ROUTER] Loading router model...
+2026-06-08 19:56:05,399 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 153/202 [00:00<00:00, 1493.49it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1582.60it/s]
+2026-06-08 19:56:11,819 [ROUTER] Router loaded | 7 intents
+2026-06-08 19:56:11,819 [ROUTER] Router loaded | 7 intents
+2026-06-08 19:56:11,820 [ROUTER] Router bridge online
+2026-06-08 19:56:11,820 [ROUTER] Router bridge online
+2026-06-09 19:20:39,835 [ROUTER] Loading router model...
+2026-06-09 19:20:39,835 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 154/202 [00:00<00:00, 1521.54it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1685.34it/s]
+2026-06-09 19:20:46,379 [ROUTER] Router loaded | 7 intents
+2026-06-09 19:20:46,379 [ROUTER] Router loaded | 7 intents
+2026-06-09 19:20:46,379 [ROUTER] Router bridge online
+2026-06-09 19:20:46,379 [ROUTER] Router bridge online
+2026-06-09 21:26:23,180 [ROUTER] Loading router model...
+2026-06-09 21:26:23,180 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  85%|████████▍ | 171/202 [00:00<00:00, 1656.76it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1750.28it/s]
+2026-06-09 21:26:29,074 [ROUTER] Router loaded | 7 intents
+2026-06-09 21:26:29,074 [ROUTER] Router loaded | 7 intents
+2026-06-09 21:26:29,074 [ROUTER] Router bridge online
+2026-06-09 21:26:29,074 [ROUTER] Router bridge online
+2026-06-10 20:17:33,610 [ROUTER] Loading router model...
+2026-06-10 20:17:33,610 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  94%|█████████▍| 190/202 [00:00<00:00, 1879.31it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1980.61it/s]
+2026-06-10 20:17:39,613 [ROUTER] Router loaded | 7 intents
+2026-06-10 20:17:39,613 [ROUTER] Router loaded | 7 intents
+2026-06-10 20:17:39,613 [ROUTER] Router bridge online
+2026-06-10 20:17:39,613 [ROUTER] Router bridge online
+2026-06-11 07:35:44,984 [ROUTER] Loading router model...
+2026-06-11 07:35:44,984 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1571.94it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1647.86it/s]
+2026-06-11 07:35:51,057 [ROUTER] Router loaded | 7 intents
+2026-06-11 07:35:51,057 [ROUTER] Router loaded | 7 intents
+2026-06-11 07:35:51,058 [ROUTER] Router bridge online
+2026-06-11 07:35:51,058 [ROUTER] Router bridge online
+2026-06-11 23:16:25,013 [ROUTER] Loading router model...
+2026-06-11 23:16:25,013 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  79%|███████▊  | 159/202 [00:00<00:00, 1450.53it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1614.85it/s]
+2026-06-11 23:16:30,789 [ROUTER] Router loaded | 7 intents
+2026-06-11 23:16:30,789 [ROUTER] Router loaded | 7 intents
+2026-06-11 23:16:30,790 [ROUTER] Router bridge online
+2026-06-11 23:16:30,790 [ROUTER] Router bridge online
+2026-06-12 21:51:43,079 [ROUTER] Loading router model...
+2026-06-12 21:51:43,079 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  74%|███████▍  | 149/202 [00:00<00:00, 1374.69it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1591.90it/s]
+2026-06-12 21:51:49,052 [ROUTER] Router loaded | 7 intents
+2026-06-12 21:51:49,052 [ROUTER] Router loaded | 7 intents
+2026-06-12 21:51:49,052 [ROUTER] Router bridge online
+2026-06-12 21:51:49,052 [ROUTER] Router bridge online
+2026-06-13 20:34:34,290 [ROUTER] Loading router model...
+2026-06-13 20:34:34,290 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  69%|██████▉   | 140/202 [00:00<00:00, 1295.80it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1572.52it/s]
+2026-06-13 20:34:40,331 [ROUTER] Router loaded | 7 intents
+2026-06-13 20:34:40,331 [ROUTER] Router loaded | 7 intents
+2026-06-13 20:34:40,331 [ROUTER] Router bridge online
+2026-06-13 20:34:40,331 [ROUTER] Router bridge online
+2026-06-14 01:04:45,420 [ROUTER] Loading router model...
+2026-06-14 01:04:45,420 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  79%|███████▊  | 159/202 [00:00<00:00, 1578.04it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1800.96it/s]
+2026-06-14 01:04:51,900 [ROUTER] Router loaded | 7 intents
+2026-06-14 01:04:51,900 [ROUTER] Router loaded | 7 intents
+2026-06-14 01:04:51,900 [ROUTER] Router bridge online
+2026-06-14 01:04:51,900 [ROUTER] Router bridge online
+2026-06-14 23:45:11,732 [ROUTER] Loading router model...
+2026-06-14 23:45:11,732 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  70%|███████   | 142/202 [00:00<00:00, 1413.71it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1552.62it/s]
+2026-06-14 23:45:17,934 [ROUTER] Router loaded | 7 intents
+2026-06-14 23:45:17,934 [ROUTER] Router loaded | 7 intents
+2026-06-14 23:45:17,934 [ROUTER] Router bridge online
+2026-06-14 23:45:17,934 [ROUTER] Router bridge online
+2026-06-15 01:32:45,824 [ROUTER] Loading router model...
+2026-06-15 01:32:45,824 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  82%|████████▏ | 166/202 [00:00<00:00, 1655.05it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1738.27it/s]
+2026-06-15 01:32:52,268 [ROUTER] Router loaded | 7 intents
+2026-06-15 01:32:52,268 [ROUTER] Router loaded | 7 intents
+2026-06-15 01:32:52,268 [ROUTER] Router bridge online
+2026-06-15 01:32:52,268 [ROUTER] Router bridge online
+2026-06-16 22:35:47,784 [ROUTER] Loading router model...
+2026-06-16 22:35:47,784 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1515.17it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1614.25it/s]
+2026-06-16 22:35:54,039 [ROUTER] Router loaded | 7 intents
+2026-06-16 22:35:54,039 [ROUTER] Router loaded | 7 intents
+2026-06-16 22:35:54,039 [ROUTER] Router bridge online
+2026-06-16 22:35:54,039 [ROUTER] Router bridge online
+2026-06-17 09:14:18,788 [ROUTER] Loading router model...
+2026-06-17 09:14:18,788 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 157/202 [00:00<00:00, 1517.65it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1632.02it/s]
+2026-06-17 09:14:24,885 [ROUTER] Router loaded | 7 intents
+2026-06-17 09:14:24,885 [ROUTER] Router loaded | 7 intents
+2026-06-17 09:14:24,885 [ROUTER] Router bridge online
+2026-06-17 09:14:24,885 [ROUTER] Router bridge online
+2026-06-18 22:25:27,794 [ROUTER] Loading router model...
+2026-06-18 22:25:27,794 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  67%|██████▋   | 136/202 [00:00<00:00, 1343.89it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1550.33it/s]
+2026-06-18 22:25:34,349 [ROUTER] Router loaded | 7 intents
+2026-06-18 22:25:34,349 [ROUTER] Router loaded | 7 intents
+2026-06-18 22:25:34,349 [ROUTER] Router bridge online
+2026-06-18 22:25:34,349 [ROUTER] Router bridge online
+2026-06-19 22:10:38,693 [ROUTER] Loading router model...
+2026-06-19 22:10:38,693 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  86%|████████▌ | 173/202 [00:00<00:00, 1651.13it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1727.72it/s]
+2026-06-19 22:10:44,972 [ROUTER] Router loaded | 7 intents
+2026-06-19 22:10:44,972 [ROUTER] Router loaded | 7 intents
+2026-06-19 22:10:44,972 [ROUTER] Router bridge online
+2026-06-19 22:10:44,972 [ROUTER] Router bridge online
+2026-06-20 18:02:10,745 [ROUTER] Loading router model...
+2026-06-20 18:02:10,745 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  70%|██████▉   | 141/202 [00:00<00:00, 1343.43it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1650.21it/s]
+2026-06-20 18:02:17,165 [ROUTER] Router loaded | 7 intents
+2026-06-20 18:02:17,165 [ROUTER] Router loaded | 7 intents
+2026-06-20 18:02:17,165 [ROUTER] Router bridge online
+2026-06-20 18:02:17,165 [ROUTER] Router bridge online
+2026-06-20 21:25:47,993 [ROUTER] Loading router model...
+2026-06-20 21:25:47,993 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 155/202 [00:00<00:00, 1476.07it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1581.54it/s]
+2026-06-20 21:25:54,097 [ROUTER] Router loaded | 7 intents
+2026-06-20 21:25:54,097 [ROUTER] Router loaded | 7 intents
+2026-06-20 21:25:54,097 [ROUTER] Router bridge online
+2026-06-20 21:25:54,097 [ROUTER] Router bridge online
+2026-06-21 11:25:39,706 [ROUTER] Loading router model...
+2026-06-21 11:25:39,706 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  70%|██████▉   | 141/202 [00:00<00:00, 1340.53it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1558.12it/s]
+2026-06-21 11:25:45,903 [ROUTER] Router loaded | 7 intents
+2026-06-21 11:25:45,903 [ROUTER] Router loaded | 7 intents
+2026-06-21 11:25:45,903 [ROUTER] Router bridge online
+2026-06-21 11:25:45,903 [ROUTER] Router bridge online
+2026-06-21 18:13:32,846 [ROUTER] Loading router model...
+2026-06-21 18:13:32,846 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 155/202 [00:00<00:00, 1431.51it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1575.81it/s]
+2026-06-21 18:13:39,342 [ROUTER] Router loaded | 7 intents
+2026-06-21 18:13:39,342 [ROUTER] Router loaded | 7 intents
+2026-06-21 18:13:39,342 [ROUTER] Router bridge online
+2026-06-21 18:13:39,342 [ROUTER] Router bridge online
+2026-06-22 21:59:55,977 [ROUTER] Loading router model...
+2026-06-22 21:59:55,977 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  73%|███████▎  | 147/202 [00:00<00:00, 1431.67it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1553.60it/s]
+2026-06-22 22:00:02,607 [ROUTER] Router loaded | 7 intents
+2026-06-22 22:00:02,607 [ROUTER] Router loaded | 7 intents
+2026-06-22 22:00:02,607 [ROUTER] Router bridge online
+2026-06-22 22:00:02,607 [ROUTER] Router bridge online
+2026-06-23 22:31:08,396 [ROUTER] Loading router model...
+2026-06-23 22:31:08,396 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|███████▉  | 161/202 [00:00<00:00, 1595.59it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1693.08it/s]
+2026-06-23 22:31:14,992 [ROUTER] Router loaded | 7 intents
+2026-06-23 22:31:14,992 [ROUTER] Router loaded | 7 intents
+2026-06-23 22:31:14,992 [ROUTER] Router bridge online
+2026-06-23 22:31:14,992 [ROUTER] Router bridge online
+2026-06-23 23:56:25,471 [ROUTER] Loading router model...
+2026-06-23 23:56:25,471 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights: 100%|██████████| 202/202 [-00:00<00:00, -456.72it/s]
+2026-06-23 23:56:31,415 [ROUTER] Router loaded | 7 intents
+2026-06-23 23:56:31,415 [ROUTER] Router loaded | 7 intents
+2026-06-23 23:56:31,416 [ROUTER] Router bridge online
+2026-06-23 23:56:31,416 [ROUTER] Router bridge online
+2026-06-24 01:52:14,707 [ROUTER] Loading router model...
+2026-06-24 01:52:14,707 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  85%|████████▌ | 172/202 [00:00<00:00, 1672.85it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1799.08it/s]
+2026-06-24 01:52:20,820 [ROUTER] Router loaded | 7 intents
+2026-06-24 01:52:20,820 [ROUTER] Router loaded | 7 intents
+2026-06-24 01:52:20,820 [ROUTER] Router bridge online
+2026-06-24 01:52:20,820 [ROUTER] Router bridge online
+2026-06-24 21:41:13,831 [ROUTER] Loading router model...
+2026-06-24 21:41:13,831 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  79%|███████▊  | 159/202 [00:00<00:00, 1557.00it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1777.97it/s]
+2026-06-24 21:41:20,056 [ROUTER] Router loaded | 7 intents
+2026-06-24 21:41:20,056 [ROUTER] Router loaded | 7 intents
+2026-06-24 21:41:20,056 [ROUTER] Router bridge online
+2026-06-24 21:41:20,056 [ROUTER] Router bridge online
+2026-06-25 13:57:48,914 [ROUTER] Loading router model...
+2026-06-25 13:57:48,914 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  81%|████████  | 163/202 [00:00<00:00, 1621.27it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1699.50it/s]
+2026-06-25 13:57:55,877 [ROUTER] Router loaded | 7 intents
+2026-06-25 13:57:55,877 [ROUTER] Router loaded | 7 intents
+2026-06-25 13:57:55,877 [ROUTER] Router bridge online
+2026-06-25 13:57:55,877 [ROUTER] Router bridge online
+2026-06-25 15:32:12,783 [ROUTER] Loading router model...
+2026-06-25 15:32:12,783 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 154/202 [00:00<00:00, 1539.86it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1662.52it/s]
+2026-06-25 15:32:18,775 [ROUTER] Router loaded | 7 intents
+2026-06-25 15:32:18,775 [ROUTER] Router loaded | 7 intents
+2026-06-25 15:32:18,776 [ROUTER] Router bridge online
+2026-06-25 15:32:18,776 [ROUTER] Router bridge online
+2026-06-25 19:56:51,315 [ROUTER] Loading router model...
+2026-06-25 19:56:51,315 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  79%|███████▊  | 159/202 [00:00<00:00, 1558.95it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1660.14it/s]
+2026-06-25 19:56:57,539 [ROUTER] Router loaded | 7 intents
+2026-06-25 19:56:57,539 [ROUTER] Router loaded | 7 intents
+2026-06-25 19:56:57,539 [ROUTER] Router bridge online
+2026-06-25 19:56:57,539 [ROUTER] Router bridge online
+2026-06-26 10:09:34,373 [ROUTER] Loading router model...
+2026-06-26 10:09:34,373 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1484.87it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1591.00it/s]
+2026-06-26 10:09:40,646 [ROUTER] Router loaded | 7 intents
+2026-06-26 10:09:40,646 [ROUTER] Router loaded | 7 intents
+2026-06-26 10:09:40,646 [ROUTER] Router bridge online
+2026-06-26 10:09:40,646 [ROUTER] Router bridge online
+2026-06-26 20:41:43,467 [ROUTER] Loading router model...
+2026-06-26 20:41:43,467 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  87%|████████▋ | 176/202 [00:00<00:00, 1705.04it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1823.86it/s]
+2026-06-26 20:41:49,761 [ROUTER] Router loaded | 7 intents
+2026-06-26 20:41:49,761 [ROUTER] Router loaded | 7 intents
+2026-06-26 20:41:49,761 [ROUTER] Router bridge online
+2026-06-26 20:41:49,761 [ROUTER] Router bridge online
+2026-06-27 08:48:35,609 [ROUTER] Loading router model...
+2026-06-27 08:48:35,609 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  85%|████████▍ | 171/202 [00:00<00:00, 1666.91it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1831.31it/s]
+2026-06-27 08:48:42,188 [ROUTER] Router loaded | 7 intents
+2026-06-27 08:48:42,188 [ROUTER] Router loaded | 7 intents
+2026-06-27 08:48:42,188 [ROUTER] Router bridge online
+2026-06-27 08:48:42,188 [ROUTER] Router bridge online
+2026-06-27 21:07:40,867 [ROUTER] Loading router model...
+2026-06-27 21:07:40,867 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  72%|███████▏  | 145/202 [00:00<00:00, 1408.50it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1604.43it/s]
+2026-06-27 21:07:47,077 [ROUTER] Router loaded | 7 intents
+2026-06-27 21:07:47,077 [ROUTER] Router loaded | 7 intents
+2026-06-27 21:07:47,077 [ROUTER] Router bridge online
+2026-06-27 21:07:47,077 [ROUTER] Router bridge online
+2026-06-27 23:44:34,827 [ROUTER] Loading router model...
+2026-06-27 23:44:34,827 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 154/202 [00:00<00:00, 1539.30it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1635.57it/s]
+2026-06-27 23:44:41,062 [ROUTER] Router loaded | 7 intents
+2026-06-27 23:44:41,062 [ROUTER] Router loaded | 7 intents
+2026-06-27 23:44:41,062 [ROUTER] Router bridge online
+2026-06-27 23:44:41,062 [ROUTER] Router bridge online
+2026-06-28 10:42:31,201 [ROUTER] Loading router model...
+2026-06-28 10:42:31,201 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 153/202 [00:00<00:00, 1507.56it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1548.18it/s]
+2026-06-28 10:42:37,891 [ROUTER] Router loaded | 7 intents
+2026-06-28 10:42:37,891 [ROUTER] Router loaded | 7 intents
+2026-06-28 10:42:37,891 [ROUTER] Router bridge online
+2026-06-28 10:42:37,891 [ROUTER] Router bridge online
+2026-06-29 00:53:39,588 [ROUTER] Loading router model...
+2026-06-29 00:53:39,588 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1469.64it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1587.30it/s]
+2026-06-29 00:53:47,421 [ROUTER] Router loaded | 7 intents
+2026-06-29 00:53:47,421 [ROUTER] Router loaded | 7 intents
+2026-06-29 00:53:47,421 [ROUTER] Router bridge online
+2026-06-29 00:53:47,421 [ROUTER] Router bridge online
+2026-06-29 09:55:42,975 [ROUTER] Loading router model...
+2026-06-29 09:55:42,975 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1489.41it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1612.60it/s]
+2026-06-29 09:55:49,382 [ROUTER] Router loaded | 7 intents
+2026-06-29 09:55:49,382 [ROUTER] Router loaded | 7 intents
+2026-06-29 09:55:49,382 [ROUTER] Router bridge online
+2026-06-29 09:55:49,382 [ROUTER] Router bridge online
+2026-06-29 14:32:32,162 [ROUTER] Loading router model...
+2026-06-29 14:32:32,162 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  72%|███████▏  | 145/202 [00:00<00:00, 1364.47it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1593.21it/s]
+2026-06-29 14:32:38,387 [ROUTER] Router loaded | 7 intents
+2026-06-29 14:32:38,387 [ROUTER] Router loaded | 7 intents
+2026-06-29 14:32:38,387 [ROUTER] Router bridge online
+2026-06-29 14:32:38,387 [ROUTER] Router bridge online
+2026-06-29 20:30:35,819 [ROUTER] Loading router model...
+2026-06-29 20:30:35,819 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1539.31it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1659.29it/s]
+2026-06-29 20:30:41,946 [ROUTER] Router loaded | 7 intents
+2026-06-29 20:30:41,946 [ROUTER] Router loaded | 7 intents
+2026-06-29 20:30:41,946 [ROUTER] Router bridge online
+2026-06-29 20:30:41,946 [ROUTER] Router bridge online
+2026-06-30 09:15:18,735 [ROUTER] Loading router model...
+2026-06-30 09:15:18,735 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 157/202 [00:00<00:00, 1476.34it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1610.95it/s]
+2026-06-30 09:15:25,430 [ROUTER] Router loaded | 7 intents
+2026-06-30 09:15:25,430 [ROUTER] Router loaded | 7 intents
+2026-06-30 09:15:25,430 [ROUTER] Router bridge online
+2026-06-30 09:15:25,430 [ROUTER] Router bridge online
+2026-06-30 11:51:26,727 [ROUTER] Loading router model...
+2026-06-30 11:51:26,727 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  84%|████████▍ | 170/202 [00:00<00:00, 1699.72it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1713.55it/s]
+2026-06-30 11:51:32,824 [ROUTER] Router loaded | 7 intents
+2026-06-30 11:51:32,824 [ROUTER] Router loaded | 7 intents
+2026-06-30 11:51:32,824 [ROUTER] Router bridge online
+2026-06-30 11:51:32,824 [ROUTER] Router bridge online
+2026-06-30 17:55:02,742 [ROUTER] Loading router model...
+2026-06-30 17:55:02,742 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  94%|█████████▎| 189/202 [00:00<00:00, 1889.37it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 2002.75it/s]
+2026-06-30 17:55:09,446 [ROUTER] Router loaded | 7 intents
+2026-06-30 17:55:09,446 [ROUTER] Router loaded | 7 intents
+2026-06-30 17:55:09,446 [ROUTER] Router bridge online
+2026-06-30 17:55:09,446 [ROUTER] Router bridge online
+2026-06-30 23:10:47,681 [ROUTER] Loading router model...
+2026-06-30 23:10:47,681 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  82%|████████▏ | 165/202 [00:00<00:00, 1643.28it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1685.49it/s]
+2026-06-30 23:10:53,729 [ROUTER] Router loaded | 7 intents
+2026-06-30 23:10:53,729 [ROUTER] Router loaded | 7 intents
+2026-06-30 23:10:53,729 [ROUTER] Router bridge online
+2026-06-30 23:10:53,729 [ROUTER] Router bridge online
+2026-07-01 09:09:57,326 [ROUTER] Loading router model...
+2026-07-01 09:09:57,326 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 157/202 [00:00<00:00, 1547.01it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1696.48it/s]
+2026-07-01 09:10:03,972 [ROUTER] Router loaded | 7 intents
+2026-07-01 09:10:03,972 [ROUTER] Router loaded | 7 intents
+2026-07-01 09:10:03,972 [ROUTER] Router bridge online
+2026-07-01 09:10:03,972 [ROUTER] Router bridge online
+2026-07-01 20:08:06,526 [ROUTER] Loading router model...
+2026-07-01 20:08:06,526 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  86%|████████▌ | 173/202 [00:00<00:00, 1586.11it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1778.97it/s]
+2026-07-01 20:08:13,217 [ROUTER] Router loaded | 7 intents
+2026-07-01 20:08:13,217 [ROUTER] Router loaded | 7 intents
+2026-07-01 20:08:13,217 [ROUTER] Router bridge online
+2026-07-01 20:08:13,217 [ROUTER] Router bridge online
+2026-07-02 09:05:01,368 [ROUTER] Loading router model...
+2026-07-02 09:05:01,368 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  74%|███████▍  | 150/202 [00:00<00:00, 1456.71it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1614.79it/s]
+2026-07-02 09:05:07,713 [ROUTER] Router loaded | 7 intents
+2026-07-02 09:05:07,713 [ROUTER] Router loaded | 7 intents
+2026-07-02 09:05:07,714 [ROUTER] Router bridge online
+2026-07-02 09:05:07,714 [ROUTER] Router bridge online
+2026-07-02 17:18:58,171 [ROUTER] Loading router model...
+2026-07-02 17:18:58,171 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  75%|███████▍  | 151/202 [00:00<00:00, 1456.52it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1652.38it/s]
+2026-07-02 17:19:04,790 [ROUTER] Router loaded | 7 intents
+2026-07-02 17:19:04,790 [ROUTER] Router loaded | 7 intents
+2026-07-02 17:19:04,790 [ROUTER] Router bridge online
+2026-07-02 17:19:04,790 [ROUTER] Router bridge online
+2026-07-02 21:45:38,320 [ROUTER] Loading router model...
+2026-07-02 21:45:38,320 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  73%|███████▎  | 148/202 [00:00<00:00, 1478.04it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1543.07it/s]
+2026-07-02 21:45:44,815 [ROUTER] Router loaded | 7 intents
+2026-07-02 21:45:44,815 [ROUTER] Router loaded | 7 intents
+2026-07-02 21:45:44,815 [ROUTER] Router bridge online
+2026-07-02 21:45:44,815 [ROUTER] Router bridge online
+2026-07-03 04:27:19,168 [ROUTER] Loading router model...
+2026-07-03 04:27:19,168 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1518.83it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1643.03it/s]
+2026-07-03 04:27:25,146 [ROUTER] Router loaded | 7 intents
+2026-07-03 04:27:25,146 [ROUTER] Router loaded | 7 intents
+2026-07-03 04:27:25,146 [ROUTER] Router bridge online
+2026-07-03 04:27:25,146 [ROUTER] Router bridge online
+2026-07-03 11:47:05,758 [ROUTER] Loading router model...
+2026-07-03 11:47:05,758 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 157/202 [00:00<00:00, 1494.20it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1629.50it/s]
+2026-07-03 11:47:12,369 [ROUTER] Router loaded | 7 intents
+2026-07-03 11:47:12,369 [ROUTER] Router loaded | 7 intents
+2026-07-03 11:47:12,369 [ROUTER] Router bridge online
+2026-07-03 11:47:12,369 [ROUTER] Router bridge online
+2026-07-03 20:27:46,009 [ROUTER] Loading router model...
+2026-07-03 20:27:46,009 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1538.63it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1609.24it/s]
+2026-07-03 20:27:53,261 [ROUTER] Router loaded | 7 intents
+2026-07-03 20:27:53,261 [ROUTER] Router loaded | 7 intents
+2026-07-03 20:27:53,262 [ROUTER] Router bridge online
+2026-07-03 20:27:53,262 [ROUTER] Router bridge online
+2026-07-03 21:43:39,100 [ROUTER] Loading router model...
+2026-07-03 21:43:39,100 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  86%|████████▌ | 173/202 [00:00<00:00, 1610.97it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1758.42it/s]
+2026-07-03 21:43:45,216 [ROUTER] Router loaded | 7 intents
+2026-07-03 21:43:45,216 [ROUTER] Router loaded | 7 intents
+2026-07-03 21:43:45,216 [ROUTER] Router bridge online
+2026-07-03 21:43:45,216 [ROUTER] Router bridge online
+2026-07-04 09:21:11,975 [ROUTER] Loading router model...
+2026-07-04 09:21:11,975 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1543.92it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1647.58it/s]
+2026-07-04 09:21:18,516 [ROUTER] Router loaded | 7 intents
+2026-07-04 09:21:18,516 [ROUTER] Router loaded | 7 intents
+2026-07-04 09:21:18,516 [ROUTER] Router bridge online
+2026-07-04 09:21:18,516 [ROUTER] Router bridge online
+2026-07-04 18:08:42,287 [ROUTER] Loading router model...
+2026-07-04 18:08:42,287 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  75%|███████▍  | 151/202 [00:00<00:00, 1507.03it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1556.24it/s]
+2026-07-04 18:08:48,152 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:08:48,152 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:08:48,152 [ROUTER] Router bridge online
+2026-07-04 18:08:48,152 [ROUTER] Router bridge online
+2026-07-04 18:49:25,057 [ROUTER] Loading router model...
+2026-07-04 18:49:25,057 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1519.85it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1613.72it/s]
+2026-07-04 18:49:30,914 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:49:30,914 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:49:30,914 [ROUTER] Router bridge online
+2026-07-04 18:49:30,914 [ROUTER] Router bridge online
+2026-07-04 18:56:31,206 [ROUTER] Loading router model...
+2026-07-04 18:56:31,206 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  74%|███████▍  | 150/202 [00:00<00:00, 1495.91it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1627.45it/s]
+2026-07-04 18:56:37,317 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:56:37,317 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:56:37,317 [ROUTER] Router bridge online
+2026-07-04 18:56:37,317 [ROUTER] Router bridge online
+2026-07-04 18:58:28,069 [ROUTER] Loading router model...
+2026-07-04 18:58:28,069 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  85%|████████▌ | 172/202 [00:00<00:00, 1710.41it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1749.96it/s]
+2026-07-04 18:58:34,950 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:58:34,950 [ROUTER] Router loaded | 7 intents
+2026-07-04 18:58:34,950 [ROUTER] Router bridge online
+2026-07-04 18:58:34,950 [ROUTER] Router bridge online
+2026-07-05 11:25:59,903 [ROUTER] Loading router model...
+2026-07-05 11:25:59,903 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  72%|███████▏  | 145/202 [00:00<00:00, 1355.79it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1679.51it/s]
+2026-07-05 11:26:06,563 [ROUTER] Router loaded | 7 intents
+2026-07-05 11:26:06,563 [ROUTER] Router loaded | 7 intents
+2026-07-05 11:26:06,563 [ROUTER] Router bridge online
+2026-07-05 11:26:06,563 [ROUTER] Router bridge online
+2026-07-05 17:55:08,436 [ROUTER] Loading router model...
+2026-07-05 17:55:08,436 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  75%|███████▌  | 152/202 [00:00<00:00, 1489.20it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1559.98it/s]
+2026-07-05 17:55:14,550 [ROUTER] Router loaded | 7 intents
+2026-07-05 17:55:14,550 [ROUTER] Router loaded | 7 intents
+2026-07-05 17:55:14,550 [ROUTER] Router bridge online
+2026-07-05 17:55:14,550 [ROUTER] Router bridge online
+2026-07-06 09:34:55,226 [ROUTER] Loading router model...
+2026-07-06 09:34:55,226 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1526.61it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1576.12it/s]
+2026-07-06 09:35:01,382 [ROUTER] Router loaded | 7 intents
+2026-07-06 09:35:01,382 [ROUTER] Router loaded | 7 intents
+2026-07-06 09:35:01,382 [ROUTER] Router bridge online
+2026-07-06 09:35:01,382 [ROUTER] Router bridge online
+2026-07-06 18:47:50,665 [ROUTER] Loading router model...
+2026-07-06 18:47:50,665 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1564.81it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1615.94it/s]
+2026-07-06 18:47:57,053 [ROUTER] Router loaded | 7 intents
+2026-07-06 18:47:57,053 [ROUTER] Router loaded | 7 intents
+2026-07-06 18:47:57,053 [ROUTER] Router bridge online
+2026-07-06 18:47:57,053 [ROUTER] Router bridge online
+2026-07-07 00:31:40,546 [ROUTER] Loading router model...
+2026-07-07 00:31:40,546 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  65%|██████▌   | 132/202 [00:00<00:00, 1305.01it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1652.97it/s]
+2026-07-07 00:31:46,868 [ROUTER] Router loaded | 7 intents
+2026-07-07 00:31:46,868 [ROUTER] Router loaded | 7 intents
+2026-07-07 00:31:46,868 [ROUTER] Router bridge online
+2026-07-07 00:31:46,868 [ROUTER] Router bridge online
+2026-07-07 02:01:16,639 [ROUTER] Loading router model...
+2026-07-07 02:01:16,639 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|████████  | 162/202 [00:00<00:00, 1587.85it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1669.53it/s]
+2026-07-07 02:01:22,775 [ROUTER] Router loaded | 7 intents
+2026-07-07 02:01:22,775 [ROUTER] Router loaded | 7 intents
+2026-07-07 02:01:22,775 [ROUTER] Router bridge online
+2026-07-07 02:01:22,775 [ROUTER] Router bridge online
+2026-07-07 17:45:49,519 [ROUTER] Loading router model...
+2026-07-07 17:45:49,519 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|████████  | 162/202 [00:00<00:00, 1617.57it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1762.03it/s]
+2026-07-07 17:45:56,044 [ROUTER] Router loaded | 7 intents
+2026-07-07 17:45:56,044 [ROUTER] Router loaded | 7 intents
+2026-07-07 17:45:56,045 [ROUTER] Router bridge online
+2026-07-07 17:45:56,045 [ROUTER] Router bridge online
+2026-07-07 21:24:54,887 [ROUTER] Loading router model...
+2026-07-07 21:24:54,887 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1491.42it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1643.14it/s]
+2026-07-07 21:25:01,838 [ROUTER] Router loaded | 7 intents
+2026-07-07 21:25:01,838 [ROUTER] Router loaded | 7 intents
+2026-07-07 21:25:01,838 [ROUTER] Router bridge online
+2026-07-07 21:25:01,838 [ROUTER] Router bridge online
+2026-07-08 09:19:10,988 [ROUTER] Loading router model...
+2026-07-08 09:19:10,988 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  65%|██████▍   | 131/202 [00:00<00:00, 1290.55it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1789.19it/s]
+2026-07-08 09:19:17,000 [ROUTER] Router loaded | 7 intents
+2026-07-08 09:19:17,000 [ROUTER] Router loaded | 7 intents
+2026-07-08 09:19:17,000 [ROUTER] Router bridge online
+2026-07-08 09:19:17,000 [ROUTER] Router bridge online
+2026-07-09 10:56:36,096 [ROUTER] Loading router model...
+2026-07-09 10:56:36,096 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1499.76it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1557.21it/s]
+2026-07-09 10:56:42,356 [ROUTER] Router loaded | 7 intents
+2026-07-09 10:56:42,356 [ROUTER] Router loaded | 7 intents
+2026-07-09 10:56:42,356 [ROUTER] Router bridge online
+2026-07-09 10:56:42,356 [ROUTER] Router bridge online
+2026-07-09 21:08:40,920 [ROUTER] Loading router model...
+2026-07-09 21:08:40,920 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|███████▉  | 161/202 [00:00<00:00, 1603.14it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1685.28it/s]
+2026-07-09 21:08:47,098 [ROUTER] Router loaded | 7 intents
+2026-07-09 21:08:47,098 [ROUTER] Router loaded | 7 intents
+2026-07-09 21:08:47,098 [ROUTER] Router bridge online
+2026-07-09 21:08:47,098 [ROUTER] Router bridge online
+2026-07-10 01:36:03,184 [ROUTER] Loading router model...
+2026-07-10 01:36:03,184 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  85%|████████▌ | 172/202 [00:00<00:00, 1662.05it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1743.69it/s]
+2026-07-10 01:36:09,211 [ROUTER] Router loaded | 7 intents
+2026-07-10 01:36:09,211 [ROUTER] Router loaded | 7 intents
+2026-07-10 01:36:09,211 [ROUTER] Router bridge online
+2026-07-10 01:36:09,211 [ROUTER] Router bridge online
+2026-07-10 11:53:57,294 [ROUTER] Loading router model...
+2026-07-10 11:53:57,294 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  73%|███████▎  | 148/202 [00:00<00:00, 1347.78it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1600.28it/s]
+2026-07-10 11:54:03,645 [ROUTER] Router loaded | 7 intents
+2026-07-10 11:54:03,645 [ROUTER] Router loaded | 7 intents
+2026-07-10 11:54:03,645 [ROUTER] Router bridge online
+2026-07-10 11:54:03,645 [ROUTER] Router bridge online
+2026-07-10 19:48:10,837 [ROUTER] Loading router model...
+2026-07-10 19:48:10,837 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  79%|███████▉  | 160/202 [00:00<00:00, 1553.83it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1647.68it/s]
+2026-07-10 19:48:16,910 [ROUTER] Router loaded | 7 intents
+2026-07-10 19:48:16,910 [ROUTER] Router loaded | 7 intents
+2026-07-10 19:48:16,910 [ROUTER] Router bridge online
+2026-07-10 19:48:16,910 [ROUTER] Router bridge online
+2026-07-10 22:04:35,013 [ROUTER] Loading router model...
+2026-07-10 22:04:35,013 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|████████  | 162/202 [00:00<00:00, 1584.69it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1671.62it/s]
+2026-07-10 22:04:40,853 [ROUTER] Router loaded | 7 intents
+2026-07-10 22:04:40,853 [ROUTER] Router loaded | 7 intents
+2026-07-10 22:04:40,853 [ROUTER] Router bridge online
+2026-07-10 22:04:40,853 [ROUTER] Router bridge online
+2026-07-11 15:42:35,990 [ROUTER] Loading router model...
+2026-07-11 15:42:35,990 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  73%|███████▎  | 148/202 [00:00<00:00, 1479.54it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1538.98it/s]
+2026-07-11 15:42:42,219 [ROUTER] Router loaded | 7 intents
+2026-07-11 15:42:42,219 [ROUTER] Router loaded | 7 intents
+2026-07-11 15:42:42,219 [ROUTER] Router bridge online
+2026-07-11 15:42:42,219 [ROUTER] Router bridge online
+2026-07-11 20:58:35,531 [ROUTER] Loading router model...
+2026-07-11 20:58:35,531 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  97%|█████████▋| 196/202 [00:00<00:00, 1942.81it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1991.52it/s]
+2026-07-11 20:58:41,825 [ROUTER] Router loaded | 7 intents
+2026-07-11 20:58:41,825 [ROUTER] Router loaded | 7 intents
+2026-07-11 20:58:41,825 [ROUTER] Router bridge online
+2026-07-11 20:58:41,825 [ROUTER] Router bridge online
+2026-07-12 01:29:57,079 [ROUTER] Loading router model...
+2026-07-12 01:29:57,079 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  94%|█████████▍| 190/202 [00:00<00:00, 1838.13it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1900.85it/s]
+2026-07-12 01:30:03,114 [ROUTER] Router loaded | 7 intents
+2026-07-12 01:30:03,114 [ROUTER] Router loaded | 7 intents
+2026-07-12 01:30:03,114 [ROUTER] Router bridge online
+2026-07-12 01:30:03,114 [ROUTER] Router bridge online
+2026-07-12 11:22:47,588 [ROUTER] Loading router model...
+2026-07-12 11:22:47,588 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 153/202 [00:00<00:00, 1465.60it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1608.58it/s]
+2026-07-12 11:22:53,617 [ROUTER] Router loaded | 7 intents
+2026-07-12 11:22:53,617 [ROUTER] Router loaded | 7 intents
+2026-07-12 11:22:53,618 [ROUTER] Router bridge online
+2026-07-12 11:22:53,618 [ROUTER] Router bridge online
+2026-07-12 19:49:21,961 [ROUTER] Loading router model...
+2026-07-12 19:49:21,961 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  79%|███████▉  | 160/202 [00:00<00:00, 1549.38it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1742.53it/s]
+2026-07-12 19:49:28,811 [ROUTER] Router loaded | 7 intents
+2026-07-12 19:49:28,811 [ROUTER] Router loaded | 7 intents
+2026-07-12 19:49:28,811 [ROUTER] Router bridge online
+2026-07-12 19:49:28,811 [ROUTER] Router bridge online
+2026-07-13 11:13:44,366 [ROUTER] Loading router model...
+2026-07-13 11:13:44,366 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  81%|████████  | 163/202 [00:00<00:00, 1618.65it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1703.46it/s]
+2026-07-13 11:13:50,447 [ROUTER] Router loaded | 7 intents
+2026-07-13 11:13:50,447 [ROUTER] Router loaded | 7 intents
+2026-07-13 11:13:50,447 [ROUTER] Router bridge online
+2026-07-13 11:13:50,447 [ROUTER] Router bridge online
+2026-07-13 12:43:01,674 [ROUTER] Loading router model...
+2026-07-13 12:43:01,674 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1522.14it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1610.18it/s]
+2026-07-13 12:43:07,627 [ROUTER] Router loaded | 7 intents
+2026-07-13 12:43:07,627 [ROUTER] Router loaded | 7 intents
+2026-07-13 12:43:07,627 [ROUTER] Router bridge online
+2026-07-13 12:43:07,627 [ROUTER] Router bridge online
+2026-07-13 12:49:11,393 [ROUTER] Loading router model...
+2026-07-13 12:49:11,393 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|████████  | 162/202 [00:00<00:00, 1607.36it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1702.33it/s]
+2026-07-13 12:49:17,927 [ROUTER] Router loaded | 7 intents
+2026-07-13 12:49:17,927 [ROUTER] Router loaded | 7 intents
+2026-07-13 12:49:17,927 [ROUTER] Router bridge online
+2026-07-13 12:49:17,927 [ROUTER] Router bridge online
+2026-07-13 13:01:29,036 [ROUTER] Loading router model...
+2026-07-13 13:01:29,036 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  70%|██████▉   | 141/202 [00:00<00:00, 1375.73it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1482.08it/s]
+2026-07-13 13:01:36,308 [ROUTER] Router loaded | 7 intents
+2026-07-13 13:01:36,308 [ROUTER] Router loaded | 7 intents
+2026-07-13 13:01:36,308 [ROUTER] Router bridge online
+2026-07-13 13:01:36,308 [ROUTER] Router bridge online
+2026-07-13 21:28:06,020 [ROUTER] Loading router model...
+2026-07-13 21:28:06,020 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  81%|████████  | 163/202 [00:00<00:00, 1615.08it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1699.70it/s]
+2026-07-13 21:28:12,309 [ROUTER] Router loaded | 7 intents
+2026-07-13 21:28:12,309 [ROUTER] Router loaded | 7 intents
+2026-07-13 21:28:12,309 [ROUTER] Router bridge online
+2026-07-13 21:28:12,309 [ROUTER] Router bridge online
+2026-07-14 03:12:02,906 [ROUTER] Loading router model...
+2026-07-14 03:12:02,906 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  78%|███████▊  | 158/202 [00:00<00:00, 1560.66it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1635.02it/s]
+2026-07-14 03:12:09,702 [ROUTER] Router loaded | 7 intents
+2026-07-14 03:12:09,702 [ROUTER] Router loaded | 7 intents
+2026-07-14 03:12:09,702 [ROUTER] Router bridge online
+2026-07-14 03:12:09,702 [ROUTER] Router bridge online
+2026-07-14 03:28:08,054 [ROUTER] Loading router model...
+2026-07-14 03:28:08,054 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  79%|███████▊  | 159/202 [00:00<00:00, 1583.87it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1699.53it/s]
+2026-07-14 03:28:14,281 [ROUTER] Router loaded | 7 intents
+2026-07-14 03:28:14,281 [ROUTER] Router loaded | 7 intents
+2026-07-14 03:28:14,281 [ROUTER] Router bridge online
+2026-07-14 03:28:14,281 [ROUTER] Router bridge online
+2026-07-14 11:01:55,037 [ROUTER] Loading router model...
+2026-07-14 11:01:55,037 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  80%|███████▉  | 161/202 [00:00<00:00, 1544.98it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1724.58it/s]
+2026-07-14 11:02:02,020 [ROUTER] Router loaded | 7 intents
+2026-07-14 11:02:02,020 [ROUTER] Router loaded | 7 intents
+2026-07-14 11:02:02,020 [ROUTER] Router bridge online
+2026-07-14 11:02:02,020 [ROUTER] Router bridge online
+2026-07-14 12:26:21,470 [ROUTER] Loading router model...
+2026-07-14 12:26:21,470 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  83%|████████▎ | 168/202 [00:00<00:00, 1638.58it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1772.57it/s]
+2026-07-14 12:26:27,558 [ROUTER] Router loaded | 7 intents
+2026-07-14 12:26:27,558 [ROUTER] Router loaded | 7 intents
+2026-07-14 12:26:27,558 [ROUTER] Router bridge online
+2026-07-14 12:26:27,558 [ROUTER] Router bridge online
+2026-07-14 21:19:45,391 [ROUTER] Loading router model...
+2026-07-14 21:19:45,391 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  76%|███████▌  | 154/202 [00:00<00:00, 1493.32it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1587.55it/s]
+2026-07-14 21:19:51,820 [ROUTER] Router loaded | 7 intents
+2026-07-14 21:19:51,820 [ROUTER] Router loaded | 7 intents
+2026-07-14 21:19:51,820 [ROUTER] Router bridge online
+2026-07-14 21:19:51,820 [ROUTER] Router bridge online
+2026-07-15 00:23:52,881 [ROUTER] Loading router model...
+2026-07-15 00:23:52,881 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  75%|███████▌  | 152/202 [00:00<00:00, 1497.68it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1629.22it/s]
+2026-07-15 00:23:59,251 [ROUTER] Router loaded | 7 intents
+2026-07-15 00:23:59,251 [ROUTER] Router loaded | 7 intents
+2026-07-15 00:23:59,251 [ROUTER] Router bridge online
+2026-07-15 00:23:59,251 [ROUTER] Router bridge online
+2026-07-15 11:05:24,017 [ROUTER] Loading router model...
+2026-07-15 11:05:24,017 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 156/202 [00:00<00:00, 1478.88it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1602.35it/s]
+2026-07-15 11:05:31,096 [ROUTER] Router loaded | 7 intents
+2026-07-15 11:05:31,096 [ROUTER] Router loaded | 7 intents
+2026-07-15 11:05:31,096 [ROUTER] Router bridge online
+2026-07-15 11:05:31,096 [ROUTER] Router bridge online
+2026-07-16 09:24:13,080 [ROUTER] Loading router model...
+2026-07-16 09:24:13,080 [ROUTER] Loading router model...
+Loading weights:   0%|          | 0/202 [00:00<?, ?it/s]Loading weights:  74%|███████▍  | 150/202 [00:00<00:00, 1499.92it/s]Loading weights: 100%|██████████| 202/202 [00:00<00:00, 1547.83it/s]
+2026-07-16 09:24:19,794 [ROUTER] Router loaded | 7 intents
+2026-07-16 09:24:19,794 [ROUTER] Router loaded | 7 intents
+2026-07-16 09:24:19,794 [ROUTER] Router bridge online
+2026-07-16 09:24:19,794 [ROUTER] Router bridge online

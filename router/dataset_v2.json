@@ -1,0 +1,1558 @@
+[
+  {
+    "input": "open brave browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "search for python tutorials",
+    "label": "browser_op"
+  },
+  {
+    "input": "go to youtube",
+    "label": "browser_op"
+  },
+  {
+    "input": "open a new tab",
+    "label": "browser_op"
+  },
+  {
+    "input": "search quantum computing",
+    "label": "browser_op"
+  },
+  {
+    "input": "navigate to github",
+    "label": "browser_op"
+  },
+  {
+    "input": "open chrome",
+    "label": "browser_op"
+  },
+  {
+    "input": "open a browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "look up arch linux",
+    "label": "browser_op"
+  },
+  {
+    "input": "open a new incognito window",
+    "label": "browser_op"
+  },
+  {
+    "input": "close this tab",
+    "label": "browser_op"
+  },
+  {
+    "input": "refresh the page",
+    "label": "browser_op"
+  },
+  {
+    "input": "check NSE NIFTY 50 on browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "search Kaggle for birdclef datasets",
+    "label": "browser_op"
+  },
+  {
+    "input": "go to my bookmarks",
+    "label": "browser_op"
+  },
+  {
+    "input": "bookmark this site",
+    "label": "browser_op"
+  },
+  {
+    "input": "go back to the previous page",
+    "label": "browser_op"
+  },
+  {
+    "input": "search for flights to tokyo",
+    "label": "browser_op"
+  },
+  {
+    "input": "zoom in on this web page",
+    "label": "browser_op"
+  },
+  {
+    "input": "hey can you open firefox",
+    "label": "browser_op"
+  },
+  {
+    "input": "could you search stack overflow for me",
+    "label": "browser_op"
+  },
+  {
+    "input": "pull up reddit",
+    "label": "browser_op"
+  },
+  {
+    "input": "open a new browser window please",
+    "label": "browser_op"
+  },
+  {
+    "input": "look up today's weather",
+    "label": "browser_op"
+  },
+  {
+    "input": "search for the latest news",
+    "label": "browser_op"
+  },
+  {
+    "input": "go to amazon dot com",
+    "label": "browser_op"
+  },
+  {
+    "input": "open my email in the browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "search for machine learning courses online",
+    "label": "browser_op"
+  },
+  {
+    "input": "go to the tensorflow documentation",
+    "label": "browser_op"
+  },
+  {
+    "input": "open linkedin",
+    "label": "browser_op"
+  },
+  {
+    "input": "go to twitter",
+    "label": "browser_op"
+  },
+  {
+    "input": "search cryptocurrency prices",
+    "label": "browser_op"
+  },
+  {
+    "input": "open google maps",
+    "label": "browser_op"
+  },
+  {
+    "input": "look up the definition of entropy",
+    "label": "browser_op"
+  },
+  {
+    "input": "open the arch wiki",
+    "label": "browser_op"
+  },
+  {
+    "input": "switch to the previous tab",
+    "label": "browser_op"
+  },
+  {
+    "input": "open a private browsing window",
+    "label": "browser_op"
+  },
+  {
+    "input": "search for best python libraries 2025",
+    "label": "browser_op"
+  },
+  {
+    "input": "browse to hugging face",
+    "label": "browser_op"
+  },
+  {
+    "input": "download this file from the browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "go to the next page",
+    "label": "browser_op"
+  },
+  {
+    "input": "zoom out on the page",
+    "label": "browser_op"
+  },
+  {
+    "input": "open developer tools",
+    "label": "browser_op"
+  },
+  {
+    "input": "clear my browsing history",
+    "label": "browser_op"
+  },
+  {
+    "input": "open a new browser tab please",
+    "label": "browser_op"
+  },
+  {
+    "input": "search nifty bank index live",
+    "label": "browser_op"
+  },
+  {
+    "input": "navigate to my google drive",
+    "label": "browser_op"
+  },
+  {
+    "input": "go to chatgpt in the browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "search for flights from delhi to mumbai",
+    "label": "browser_op"
+  },
+  {
+    "input": "look up pytorch installation guide",
+    "label": "browser_op"
+  },
+  {
+    "input": "open my calendar in the browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "search for trending topics on twitter",
+    "label": "browser_op"
+  },
+  {
+    "input": "open the wikipedia page for black holes",
+    "label": "browser_op"
+  },
+  {
+    "input": "navigate to my notion workspace",
+    "label": "browser_op"
+  },
+  {
+    "input": "close all tabs",
+    "label": "browser_op"
+  },
+  {
+    "input": "take a screenshot",
+    "label": "system_op"
+  },
+  {
+    "input": "turn off wifi",
+    "label": "system_op"
+  },
+  {
+    "input": "set a timer for 10 minutes",
+    "label": "system_op"
+  },
+  {
+    "input": "increase volume",
+    "label": "system_op"
+  },
+  {
+    "input": "lock the screen",
+    "label": "system_op"
+  },
+  {
+    "input": "check battery",
+    "label": "system_op"
+  },
+  {
+    "input": "volume down please",
+    "label": "system_op"
+  },
+  {
+    "input": "volume up",
+    "label": "system_op"
+  },
+  {
+    "input": "please mute audio",
+    "label": "system_op"
+  },
+  {
+    "input": "unmute",
+    "label": "system_op"
+  },
+  {
+    "input": "brightness up",
+    "label": "system_op"
+  },
+  {
+    "input": "brightness down",
+    "label": "system_op"
+  },
+  {
+    "input": "restart the system",
+    "label": "system_op"
+  },
+  {
+    "input": "shutdown",
+    "label": "system_op"
+  },
+  {
+    "input": "connect to bluetooth headphones",
+    "label": "system_op"
+  },
+  {
+    "input": "open the terminal",
+    "label": "system_op"
+  },
+  {
+    "input": "turn on do not disturb",
+    "label": "system_op"
+  },
+  {
+    "input": "check cpu usage",
+    "label": "system_op"
+  },
+  {
+    "input": "put the computer to sleep",
+    "label": "system_op"
+  },
+  {
+    "input": "turn on battery saver",
+    "label": "system_op"
+  },
+  {
+    "input": "what is my ip address",
+    "label": "system_op"
+  },
+  {
+    "input": "connect to my home wifi",
+    "label": "system_op"
+  },
+  {
+    "input": "empty the trash bin",
+    "label": "system_op"
+  },
+  {
+    "input": "turn it down a bit",
+    "label": "system_op"
+  },
+  {
+    "input": "hey can you set an alarm for 7am",
+    "label": "system_op"
+  },
+  {
+    "input": "could you turn the volume up a little",
+    "label": "system_op"
+  },
+  {
+    "input": "make the screen brighter please",
+    "label": "system_op"
+  },
+  {
+    "input": "kill this process",
+    "label": "system_op"
+  },
+  {
+    "input": "open system settings",
+    "label": "system_op"
+  },
+  {
+    "input": "check disk space",
+    "label": "system_op"
+  },
+  {
+    "input": "check memory usage",
+    "label": "system_op"
+  },
+  {
+    "input": "enable night mode",
+    "label": "system_op"
+  },
+  {
+    "input": "disable notifications",
+    "label": "system_op"
+  },
+  {
+    "input": "connect to bluetooth speakers",
+    "label": "system_op"
+  },
+  {
+    "input": "disconnect bluetooth",
+    "label": "system_op"
+  },
+  {
+    "input": "enable wifi",
+    "label": "system_op"
+  },
+  {
+    "input": "check network speed",
+    "label": "system_op"
+  },
+  {
+    "input": "open task manager",
+    "label": "system_op"
+  },
+  {
+    "input": "reboot the machine",
+    "label": "system_op"
+  },
+  {
+    "input": "log me out",
+    "label": "system_op"
+  },
+  {
+    "input": "set a reminder for 5pm",
+    "label": "system_op"
+  },
+  {
+    "input": "set volume to 50 percent",
+    "label": "system_op"
+  },
+  {
+    "input": "take a screenshot of just this window",
+    "label": "system_op"
+  },
+  {
+    "input": "run a system update",
+    "label": "system_op"
+  },
+  {
+    "input": "show running processes",
+    "label": "system_op"
+  },
+  {
+    "input": "enable airplane mode",
+    "label": "system_op"
+  },
+  {
+    "input": "check for available updates",
+    "label": "system_op"
+  },
+  {
+    "input": "open bluetooth settings",
+    "label": "system_op"
+  },
+  {
+    "input": "reduce screen brightness",
+    "label": "system_op"
+  },
+  {
+    "input": "force quit this app",
+    "label": "system_op"
+  },
+  {
+    "input": "turn off do not disturb",
+    "label": "system_op"
+  },
+  {
+    "input": "swap to the external monitor",
+    "label": "system_op"
+  },
+  {
+    "input": "mirror my display",
+    "label": "system_op"
+  },
+  {
+    "input": "nova turn off my wifi",
+    "label": "system_op"
+  },
+  {
+    "input": "can you hibernate the system",
+    "label": "system_op"
+  },
+  {
+    "input": "play music on spotify",
+    "label": "media_op"
+  },
+  {
+    "input": "pause the song",
+    "label": "media_op"
+  },
+  {
+    "input": "next track",
+    "label": "media_op"
+  },
+  {
+    "input": "play lofi playlist",
+    "label": "media_op"
+  },
+  {
+    "input": "turn up the bass",
+    "label": "media_op"
+  },
+  {
+    "input": "shuffle my playlist",
+    "label": "media_op"
+  },
+  {
+    "input": "play something relaxing",
+    "label": "media_op"
+  },
+  {
+    "input": "play chill music",
+    "label": "media_op"
+  },
+  {
+    "input": "skip this track",
+    "label": "media_op"
+  },
+  {
+    "input": "rewind 10 seconds",
+    "label": "media_op"
+  },
+  {
+    "input": "play the latest episode of my podcast",
+    "label": "media_op"
+  },
+  {
+    "input": "loop this track",
+    "label": "media_op"
+  },
+  {
+    "input": "stop the music",
+    "label": "media_op"
+  },
+  {
+    "input": "increase playback speed",
+    "label": "media_op"
+  },
+  {
+    "input": "resume playback",
+    "label": "media_op"
+  },
+  {
+    "input": "add this song to my favorites",
+    "label": "media_op"
+  },
+  {
+    "input": "play the next episode on netflix",
+    "label": "media_op"
+  },
+  {
+    "input": "turn down the treble",
+    "label": "media_op"
+  },
+  {
+    "input": "hey play something upbeat",
+    "label": "media_op"
+  },
+  {
+    "input": "could you put on some jazz",
+    "label": "media_op"
+  },
+  {
+    "input": "pause whatever is playing",
+    "label": "media_op"
+  },
+  {
+    "input": "go back to the previous song",
+    "label": "media_op"
+  },
+  {
+    "input": "play arijit singh songs",
+    "label": "media_op"
+  },
+  {
+    "input": "put on a study playlist",
+    "label": "media_op"
+  },
+  {
+    "input": "open vlc and play the movie",
+    "label": "media_op"
+  },
+  {
+    "input": "seek forward 30 seconds",
+    "label": "media_op"
+  },
+  {
+    "input": "seek backward 15 seconds",
+    "label": "media_op"
+  },
+  {
+    "input": "play some hip hop",
+    "label": "media_op"
+  },
+  {
+    "input": "open spotify",
+    "label": "media_op"
+  },
+  {
+    "input": "play the top charts playlist",
+    "label": "media_op"
+  },
+  {
+    "input": "lower the playback speed",
+    "label": "media_op"
+  },
+  {
+    "input": "turn off shuffle",
+    "label": "media_op"
+  },
+  {
+    "input": "enable repeat mode",
+    "label": "media_op"
+  },
+  {
+    "input": "start a new radio station",
+    "label": "media_op"
+  },
+  {
+    "input": "play something energetic for my workout",
+    "label": "media_op"
+  },
+  {
+    "input": "cast this video to my tv",
+    "label": "media_op"
+  },
+  {
+    "input": "play the song I was listening to earlier",
+    "label": "media_op"
+  },
+  {
+    "input": "put on white noise to help me focus",
+    "label": "media_op"
+  },
+  {
+    "input": "play rain sounds",
+    "label": "media_op"
+  },
+  {
+    "input": "play the next episode of breaking bad",
+    "label": "media_op"
+  },
+  {
+    "input": "stop the video",
+    "label": "media_op"
+  },
+  {
+    "input": "fullscreen this video",
+    "label": "media_op"
+  },
+  {
+    "input": "open youtube music",
+    "label": "media_op"
+  },
+  {
+    "input": "play this album from the beginning",
+    "label": "media_op"
+  },
+  {
+    "input": "skip to the chorus",
+    "label": "media_op"
+  },
+  {
+    "input": "disable repeat",
+    "label": "media_op"
+  },
+  {
+    "input": "queue this song next",
+    "label": "media_op"
+  },
+  {
+    "input": "play something from my liked songs",
+    "label": "media_op"
+  },
+  {
+    "input": "put on a podcast about machine learning",
+    "label": "media_op"
+  },
+  {
+    "input": "play the most played song in my library",
+    "label": "media_op"
+  },
+  {
+    "input": "pause and resume playback",
+    "label": "media_op"
+  },
+  {
+    "input": "remove this song from queue",
+    "label": "media_op"
+  },
+  {
+    "input": "start playing music",
+    "label": "media_op"
+  },
+  {
+    "input": "what song is this",
+    "label": "media_op"
+  },
+  {
+    "input": "what is machine learning",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "who is elon musk",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "explain the supertrend indicator",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the capital of japan",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how does photosynthesis work",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is quantum entanglement",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how does the internet work",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is blockchain",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "explain neural networks",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how to calculate long term capital gains tax",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the time complexity of quicksort",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what are the benefits of bhringraj and shikakai",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "translate hello to japanese",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how do agile and waterfall models differ",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "explain the theory of relativity",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how do you cook a perfect medium rare steak",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the distance to the moon",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "translate thank you to french",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "tell me about black holes",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "tell me about the stock market",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what do you know about deep learning",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "give me information on python decorators",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "can you explain how transformers work in AI",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the difference between RAM and ROM",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how does gradient descent work",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "who invented electricity",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "who invented the internet",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the GDP of india",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how do vaccines work",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "tell me something about climate change",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what does REST API mean",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the difference between supervised and unsupervised learning",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "give me a summary of the french revolution",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how does a CPU work",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the Mandela effect",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "explain what a docker container is",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what causes inflation",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "tell me about the history of Rome",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the Fibonacci sequence",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how does quantum computing differ from classical computing",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "give me facts about mars",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is SEBI and what does it do",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "explain how option trading works",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the difference between python 2 and python 3",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "who was nikola tesla",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how does natural language processing work",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "tell me about the Chandrayaan 3 mission",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is a convolutional neural network",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "how do I calculate compound interest",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what does SIP mean in investing",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "explain SOLID principles in software engineering",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is the difference between TCP and UDP",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "give me information about the human nervous system",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "what is a binary search tree",
+    "label": "knowledge_query"
+  },
+  {
+    "input": "hey nova",
+    "label": "conversation"
+  },
+  {
+    "input": "how are you",
+    "label": "conversation"
+  },
+  {
+    "input": "thanks",
+    "label": "conversation"
+  },
+  {
+    "input": "good morning",
+    "label": "conversation"
+  },
+  {
+    "input": "you are amazing",
+    "label": "conversation"
+  },
+  {
+    "input": "nevermind",
+    "label": "conversation"
+  },
+  {
+    "input": "what can you do",
+    "label": "conversation"
+  },
+  {
+    "input": "tell me a joke",
+    "label": "conversation"
+  },
+  {
+    "input": "i am bored",
+    "label": "conversation"
+  },
+  {
+    "input": "are you there nova",
+    "label": "conversation"
+  },
+  {
+    "input": "that was helpful, thanks",
+    "label": "conversation"
+  },
+  {
+    "input": "good night",
+    "label": "conversation"
+  },
+  {
+    "input": "what's up",
+    "label": "conversation"
+  },
+  {
+    "input": "i need some help",
+    "label": "conversation"
+  },
+  {
+    "input": "see you later nova",
+    "label": "conversation"
+  },
+  {
+    "input": "that is hilarious",
+    "label": "conversation"
+  },
+  {
+    "input": "i do not understand",
+    "label": "conversation"
+  },
+  {
+    "input": "let's chat for a bit",
+    "label": "conversation"
+  },
+  {
+    "input": "nova are you listening",
+    "label": "conversation"
+  },
+  {
+    "input": "hey are you awake",
+    "label": "conversation"
+  },
+  {
+    "input": "good afternoon",
+    "label": "conversation"
+  },
+  {
+    "input": "thank you so much",
+    "label": "conversation"
+  },
+  {
+    "input": "you did great",
+    "label": "conversation"
+  },
+  {
+    "input": "I appreciate that",
+    "label": "conversation"
+  },
+  {
+    "input": "can you repeat that",
+    "label": "conversation"
+  },
+  {
+    "input": "what did you just say",
+    "label": "conversation"
+  },
+  {
+    "input": "okay that makes sense",
+    "label": "conversation"
+  },
+  {
+    "input": "never mind that",
+    "label": "conversation"
+  },
+  {
+    "input": "stop what you are doing",
+    "label": "conversation"
+  },
+  {
+    "input": "hello nova",
+    "label": "conversation"
+  },
+  {
+    "input": "hi there",
+    "label": "conversation"
+  },
+  {
+    "input": "make me laugh",
+    "label": "conversation"
+  },
+  {
+    "input": "say something funny",
+    "label": "conversation"
+  },
+  {
+    "input": "i am feeling tired",
+    "label": "conversation"
+  },
+  {
+    "input": "cheer me up",
+    "label": "conversation"
+  },
+  {
+    "input": "you are my favourite assistant",
+    "label": "conversation"
+  },
+  {
+    "input": "quit it",
+    "label": "conversation"
+  },
+  {
+    "input": "that's enough",
+    "label": "conversation"
+  },
+  {
+    "input": "okay okay I get it",
+    "label": "conversation"
+  },
+  {
+    "input": "are you smart",
+    "label": "conversation"
+  },
+  {
+    "input": "do you have feelings",
+    "label": "conversation"
+  },
+  {
+    "input": "what are you",
+    "label": "conversation"
+  },
+  {
+    "input": "introduce yourself",
+    "label": "conversation"
+  },
+  {
+    "input": "talk to me",
+    "label": "conversation"
+  },
+  {
+    "input": "I am happy today",
+    "label": "conversation"
+  },
+  {
+    "input": "I am frustrated",
+    "label": "conversation"
+  },
+  {
+    "input": "you messed that up",
+    "label": "conversation"
+  },
+  {
+    "input": "that was wrong",
+    "label": "conversation"
+  },
+  {
+    "input": "nice one",
+    "label": "conversation"
+  },
+  {
+    "input": "well done",
+    "label": "conversation"
+  },
+  {
+    "input": "you are offline right",
+    "label": "conversation"
+  },
+  {
+    "input": "are you local or cloud based",
+    "label": "conversation"
+  },
+  {
+    "input": "wake up nova",
+    "label": "conversation"
+  },
+  {
+    "input": "hey what's going on",
+    "label": "conversation"
+  },
+  {
+    "input": "open my documents folder",
+    "label": "file_op"
+  },
+  {
+    "input": "create a new folder",
+    "label": "file_op"
+  },
+  {
+    "input": "delete this file",
+    "label": "file_op"
+  },
+  {
+    "input": "move file to downloads",
+    "label": "file_op"
+  },
+  {
+    "input": "rename this folder",
+    "label": "file_op"
+  },
+  {
+    "input": "open thunar",
+    "label": "file_op"
+  },
+  {
+    "input": "show me my downloads",
+    "label": "file_op"
+  },
+  {
+    "input": "zip this folder",
+    "label": "file_op"
+  },
+  {
+    "input": "open the nova folder",
+    "label": "file_op"
+  },
+  {
+    "input": "unzip the dataset archive",
+    "label": "file_op"
+  },
+  {
+    "input": "copy this file to documents",
+    "label": "file_op"
+  },
+  {
+    "input": "search for my resume pdf",
+    "label": "file_op"
+  },
+  {
+    "input": "create a new python script here",
+    "label": "file_op"
+  },
+  {
+    "input": "open the project directory in cursor",
+    "label": "file_op"
+  },
+  {
+    "input": "show hidden files",
+    "label": "file_op"
+  },
+  {
+    "input": "create a new text document here",
+    "label": "file_op"
+  },
+  {
+    "input": "sort these files by date modified",
+    "label": "file_op"
+  },
+  {
+    "input": "extract this archive",
+    "label": "file_op"
+  },
+  {
+    "input": "complete this file transfer",
+    "label": "file_op"
+  },
+  {
+    "input": "hey can you open my home folder",
+    "label": "file_op"
+  },
+  {
+    "input": "could you move this to the desktop",
+    "label": "file_op"
+  },
+  {
+    "input": "make a new directory called projects",
+    "label": "file_op"
+  },
+  {
+    "input": "delete the temp folder",
+    "label": "file_op"
+  },
+  {
+    "input": "find my thesis document",
+    "label": "file_op"
+  },
+  {
+    "input": "open the downloads directory",
+    "label": "file_op"
+  },
+  {
+    "input": "rename this file to backup",
+    "label": "file_op"
+  },
+  {
+    "input": "compress this folder into a zip",
+    "label": "file_op"
+  },
+  {
+    "input": "extract the zip to desktop",
+    "label": "file_op"
+  },
+  {
+    "input": "copy the dataset to the models folder",
+    "label": "file_op"
+  },
+  {
+    "input": "open the nova project in nautilus",
+    "label": "file_op"
+  },
+  {
+    "input": "show me all pdf files in documents",
+    "label": "file_op"
+  },
+  {
+    "input": "open the config file",
+    "label": "file_op"
+  },
+  {
+    "input": "create a new jupyter notebook",
+    "label": "file_op"
+  },
+  {
+    "input": "list all files in this directory",
+    "label": "file_op"
+  },
+  {
+    "input": "move all images to the pictures folder",
+    "label": "file_op"
+  },
+  {
+    "input": "delete duplicate files",
+    "label": "file_op"
+  },
+  {
+    "input": "make a backup of this folder",
+    "label": "file_op"
+  },
+  {
+    "input": "open the trash",
+    "label": "file_op"
+  },
+  {
+    "input": "permanently delete this",
+    "label": "file_op"
+  },
+  {
+    "input": "show file properties",
+    "label": "file_op"
+  },
+  {
+    "input": "open the shared folder",
+    "label": "file_op"
+  },
+  {
+    "input": "find all log files",
+    "label": "file_op"
+  },
+  {
+    "input": "copy everything to an external drive",
+    "label": "file_op"
+  },
+  {
+    "input": "open my music directory",
+    "label": "file_op"
+  },
+  {
+    "input": "create a new shell script",
+    "label": "file_op"
+  },
+  {
+    "input": "open this folder in the terminal",
+    "label": "file_op"
+  },
+  {
+    "input": "search for all python files",
+    "label": "file_op"
+  },
+  {
+    "input": "unarchive this tar file",
+    "label": "file_op"
+  },
+  {
+    "input": "move my notes to the archive folder",
+    "label": "file_op"
+  },
+  {
+    "input": "show me recently modified files",
+    "label": "file_op"
+  },
+  {
+    "input": "open the models directory",
+    "label": "file_op"
+  },
+  {
+    "input": "move dataset.json to the router folder",
+    "label": "file_op"
+  },
+  {
+    "input": "create a requirements.txt file",
+    "label": "file_op"
+  },
+  {
+    "input": "open my videos folder",
+    "label": "file_op"
+  },
+  {
+    "input": "convert this docx to pdf",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn my word document into a pdf",
+    "label": "conversion_op"
+  },
+  {
+    "input": "export the file as pdf",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert pdf to word",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change this document to epub",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert my markdown to html",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn this html into a pdf",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert odt to docx",
+    "label": "conversion_op"
+  },
+  {
+    "input": "make this a pdf file",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert the document to markdown",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert png to jpg",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change this image to webp",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert the photo to jpeg",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert heic to png",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change image format to tiff",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert this picture to jpg",
+    "label": "conversion_op"
+  },
+  {
+    "input": "export image as webp",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn this into a png file",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert mp3 to wav",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change audio format to flac",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert this song to opus",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn wav into mp3",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert aac to mp3",
+    "label": "conversion_op"
+  },
+  {
+    "input": "export audio as flac",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change this to a wav file",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert audio file to aac",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert mp4 to mkv",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change video format to avi",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert this video to h265",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn mkv into mp4",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert avi to mp4",
+    "label": "conversion_op"
+  },
+  {
+    "input": "export video as mkv",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert video to av1",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn this into an mp4",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert csv to json",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change this json to csv",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert excel to csv",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn csv into xlsx",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert json to xml",
+    "label": "conversion_op"
+  },
+  {
+    "input": "export data as parquet",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert xml to csv",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn this spreadsheet into json",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert xlsx to parquet",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert epub to mobi",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change ebook format to pdf",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert mobi to epub",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn this epub into azw3",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert pdf to epub",
+    "label": "conversion_op"
+  },
+  {
+    "input": "hey can you convert this file for me",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change the format of this document",
+    "label": "conversion_op"
+  },
+  {
+    "input": "transform this video file to mp4",
+    "label": "conversion_op"
+  },
+  {
+    "input": "export this as a different format",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert the recording to flac",
+    "label": "conversion_op"
+  },
+  {
+    "input": "turn the image into a jpeg",
+    "label": "conversion_op"
+  },
+  {
+    "input": "make this an epub please",
+    "label": "conversion_op"
+  },
+  {
+    "input": "convert my notes to pdf",
+    "label": "conversion_op"
+  },
+  {
+    "input": "change this mp4 to a gif",
+    "label": "conversion_op"
+  },
+  {
+    "input": "hey open chrome",
+    "label": "browser_op"
+  },
+  {
+    "input": "open chrome browser",
+    "label": "browser_op"
+  },
+  {
+    "input": "launch google chrome",
+    "label": "browser_op"
+  },
+  {
+    "input": "mute the audio",
+    "label": "system_op"
+  },
+  {
+    "input": "mute the sound",
+    "label": "system_op"
+  },
+  {
+    "input": "mute audio",
+    "label": "system_op"
+  }
+]

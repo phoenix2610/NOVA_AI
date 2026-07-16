@@ -1,0 +1,24 @@
+[Unit]
+Description=NOVA Brain — Mistral Orchestrator
+After=nova-tts.service nova-executioner.service ollama.service
+Requires=nova-tts.service nova-executioner.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/tathya/nova/brain/brain.py
+Restart=on-failure
+RestartSec=5s
+StandardOutput=append:/home/tathya/nova/logs/brain.log
+StandardError=append:/home/tathya/nova/logs/brain.log
+SyslogIdentifier=nova-brain
+
+Environment=PYTHONUNBUFFERED=1
+Environment="PYTHONWARNINGS=ignore::UserWarning,ignore::FutureWarning"
+Environment=CUDA_VISIBLE_DEVICES=""
+Environment=HOME=/home/tathya
+Environment=OLLAMA_KEEP_ALIVE=0
+
+MemoryMax=512M
+
+[Install]
+WantedBy=default.target

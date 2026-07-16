@@ -1,0 +1,124 @@
+{
+  "name": "NOVA — Browser Research & News Fetch",
+  "_description": "Triggered by NOVA brain via webhook. Navigates to a URL or searches a query, returns summarised text back to brain.",
+  "_import_into_n8n": "Import this JSON in n8n UI → Workflows → Import from JSON",
+  "nodes": [
+    {
+      "id": "trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "position": [240, 300],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "nova-web-search",
+        "responseMode": "lastNode",
+        "options": {}
+      }
+    },
+    {
+      "id": "extract_query",
+      "name": "Extract Query",
+      "type": "n8n-nodes-base.code",
+      "position": [460, 300],
+      "parameters": {
+        "jsCode": "const body = $input.first().json;\nconst query = body.query || '';\nconst mode = body.mode || 'search';\nconst url = body.url || '';\nreturn [{ json: { query, mode, url } }];"
+      }
+    },
+    {
+      "id": "route_mode",
+      "name": "Route by Mode",
+      "type": "n8n-nodes-base.switch",
+      "position": [680, 300],
+      "parameters": {
+        "dataPropertyName": "mode",
+        "rules": {
+          "rules": [
+            { "value": "search", "output": 0 },
+            { "value": "fetch_url", "output": 1 },
+            { "value": "news", "output": 2 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "ddg_search",
+      "name": "DuckDuckGo Search",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [900, 200],
+      "parameters": {
+        "method": "GET",
+        "url": "=https://api.duckduckgo.com/?q={{ encodeURIComponent($json.query) }}&format=json&no_html=1&skip_disambig=1",
+        "options": { "timeout": 10000 }
+      }
+    },
+    {
+      "id": "fetch_url_node",
+      "name": "Fetch URL",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [900, 340],
+      "parameters": {
+        "method": "GET",
+        "url": "={{ $json.url }}",
+        "options": {
+          "timeout": 15000,
+          "response": { "response": { "responseFormat": "text" } }
+        }
+      }
+    },
+    {
+      "id": "news_fetch",
+      "name": "Google News RSS",
+      "type": "n8n-nodes-base.httpRequest",
+      "position": [900, 480],
+      "parameters": {
+        "method": "GET",
+        "url": "=https://news.google.com/rss/search?q={{ encodeURIComponent($json.query) }}&hl=en-IN&gl=IN&ceid=IN:en",
+        "options": { "timeout": 10000 }
+      }
+    },
+    {
+      "id": "summarise",
+      "name": "Summarise Result",
+      "type": "n8n-nodes-base.code",
+      "position": [1120, 340],
+      "parameters": {
+        "jsCode": "const data = $input.first().json;\nlet summary = '';\n// DuckDuckGo abstract\nif (data.Abstract) summary = data.Abstract;\n// RSS items\nelse if (data.rss && data.rss.channel) {\n  const items = data.rss.channel.item || [];\n  const top = Array.isArray(items) ? items.slice(0, 5) : [items];\n  summary = top.map(i => `• ${i.title}: ${i.description || ''}`).join('\\n');\n}\n// Plain text fallback\nelse if (typeof data === 'string') {\n  summary = data.slice(0, 1000);\n}\nif (!summary) summary = 'No useful content found.';\nreturn [{ json: { summary: summary.trim().slice(0, 1500) } }];"
+      }
+    },
+    {
+      "id": "respond",
+      "name": "Respond to NOVA",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "position": [1340, 340],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify({ summary: $json.summary }) }}"
+      }
+    }
+  ],
+  "connections": {
+    "Webhook Trigger":     { "main": [[{ "node": "Extract Query",      "type": "main", "index": 0 }]] },
+    "Extract Query":       { "main": [[{ "node": "Route by Mode",      "type": "main", "index": 0 }]] },
+    "Route by Mode":       { "main": [
+      [{ "node": "DuckDuckGo Search",  "type": "main", "index": 0 }],
+      [{ "node": "Fetch URL",          "type": "main", "index": 0 }],
+      [{ "node": "Google News RSS",    "type": "main", "index": 0 }]
+    ]},
+    "DuckDuckGo Search":   { "main": [[{ "node": "Summarise Result",  "type": "main", "index": 0 }]] },
+    "Fetch URL":           { "main": [[{ "node": "Summarise Result",  "type": "main", "index": 0 }]] },
+    "Google News RSS":     { "main": [[{ "node": "Summarise Result",  "type": "main", "index": 0 }]] },
+    "Summarise Result":    { "main": [[{ "node": "Respond to NOVA",   "type": "main", "index": 0 }]] }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "errorWorkflow": ""
+  },
+  "constraints": {
+    "allowed_domains": ["*.google.com", "*.duckduckgo.com", "*.wikipedia.org", "*.bbc.com", "*.reuters.com", "*.techcrunch.com"],
+    "blocked_domains": ["adult-content.example", "gambling.example"],
+    "max_response_chars": 1500,
+    "rate_limit_per_min": 10,
+    "timeout_ms": 15000
+  }
+}

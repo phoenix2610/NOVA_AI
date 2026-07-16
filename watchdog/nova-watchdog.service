@@ -1,0 +1,25 @@
+[Unit]
+Description=NOVA Watchdog — Component Lifecycle Manager
+Documentation=NOVA OS process manager and health monitor
+After=nova-tts.service nova-stt.service ollama.service
+Wants=nova-tts.service nova-stt.service ollama.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/tathya/nova/watchdog/watchdog.py
+Restart=on-failure
+RestartSec=5s
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=nova-watchdog
+
+Environment=PYTHONUNBUFFERED=1
+Environment=WAYLAND_DISPLAY=wayland-1
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+
+# Watchdog is lightweight — strict memory cap
+MemoryMax=256M
+CPUWeight=30
+
+[Install]
+WantedBy=default.target

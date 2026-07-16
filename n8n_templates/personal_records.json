@@ -1,0 +1,117 @@
+{
+  "name": "NOVA — Personal Records & Profile Context Sync",
+  "_description": "Reads/writes personal records (trading data, reminders, notes) stored in ~/nova/memory/. Returns structured data to the brain on request. POST to /nova-personal-records.",
+  "_import_into_n8n": "Import this JSON in n8n UI → Workflows → Import from JSON",
+  "nodes": [
+    {
+      "id": "trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "position": [240, 300],
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "nova-personal-records",
+        "responseMode": "lastNode",
+        "options": {}
+      }
+    },
+    {
+      "id": "route_action",
+      "name": "Route Action",
+      "type": "n8n-nodes-base.switch",
+      "position": [460, 300],
+      "parameters": {
+        "dataPropertyName": "action",
+        "rules": {
+          "rules": [
+            { "value": "read_notes",      "output": 0 },
+            { "value": "write_note",      "output": 1 },
+            { "value": "read_reminders",  "output": 2 },
+            { "value": "write_reminder",  "output": 3 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "read_notes",
+      "name": "Read Notes File",
+      "type": "n8n-nodes-base.readWriteFile",
+      "position": [680, 160],
+      "parameters": {
+        "operation": "read",
+        "fileName": "/home/tathya/nova/memory/notes.json"
+      }
+    },
+    {
+      "id": "write_note",
+      "name": "Append Note",
+      "type": "n8n-nodes-base.code",
+      "position": [680, 280],
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst path = '/home/tathya/nova/memory/notes.json';\nlet notes = [];\ntry { notes = JSON.parse(fs.readFileSync(path, 'utf8')); } catch(e) {}\nconst note = $input.first().json.note || '';\nif (note) notes.push({ ts: new Date().toISOString(), text: note });\nfs.writeFileSync(path, JSON.stringify(notes, null, 2));\nreturn [{ json: { saved: true, total: notes.length } }];"
+      }
+    },
+    {
+      "id": "read_reminders",
+      "name": "Read Reminders",
+      "type": "n8n-nodes-base.readWriteFile",
+      "position": [680, 400],
+      "parameters": {
+        "operation": "read",
+        "fileName": "/home/tathya/nova/memory/reminders.json"
+      }
+    },
+    {
+      "id": "write_reminder",
+      "name": "Write Reminder",
+      "type": "n8n-nodes-base.code",
+      "position": [680, 520],
+      "parameters": {
+        "jsCode": "const fs = require('fs');\nconst path = '/home/tathya/nova/memory/reminders.json';\nlet reminders = [];\ntry { reminders = JSON.parse(fs.readFileSync(path, 'utf8')); } catch(e) {}\nconst body = $input.first().json;\nif (body.reminder) reminders.push({ ts: new Date().toISOString(), text: body.reminder, due: body.due || null });\nfs.writeFileSync(path, JSON.stringify(reminders, null, 2));\nreturn [{ json: { saved: true, total: reminders.length } }];"
+      }
+    },
+    {
+      "id": "format_response",
+      "name": "Format Response",
+      "type": "n8n-nodes-base.code",
+      "position": [900, 340],
+      "parameters": {
+        "jsCode": "const data = $input.first();\nlet result;\ntry { result = JSON.parse(data.json.data || data.json); } catch(e) { result = data.json; }\nreturn [{ json: { result } }];"
+      }
+    },
+    {
+      "id": "respond",
+      "name": "Respond to NOVA",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "position": [1100, 340],
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}"
+      }
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": { "main": [[{ "node": "Route Action",     "type": "main", "index": 0 }]] },
+    "Route Action":    { "main": [
+      [{ "node": "Read Notes File", "type": "main", "index": 0 }],
+      [{ "node": "Append Note",     "type": "main", "index": 0 }],
+      [{ "node": "Read Reminders",  "type": "main", "index": 0 }],
+      [{ "node": "Write Reminder",  "type": "main", "index": 0 }]
+    ]},
+    "Read Notes File": { "main": [[{ "node": "Format Response", "type": "main", "index": 0 }]] },
+    "Append Note":     { "main": [[{ "node": "Format Response", "type": "main", "index": 0 }]] },
+    "Read Reminders":  { "main": [[{ "node": "Format Response", "type": "main", "index": 0 }]] },
+    "Write Reminder":  { "main": [[{ "node": "Format Response", "type": "main", "index": 0 }]] },
+    "Format Response": { "main": [[{ "node": "Respond to NOVA", "type": "main", "index": 0 }]] }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true
+  },
+  "constraints": {
+    "allowed_paths": ["/home/tathya/nova/memory/"],
+    "blocked_paths": ["/etc/", "/home/tathya/.ssh/", "/home/tathya/.gnupg/"],
+    "operations": ["read_notes", "write_note", "read_reminders", "write_reminder"],
+    "rate_limit_per_min": 30
+  }
+}
